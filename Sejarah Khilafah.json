@@ -73,7 +73,8 @@
       "a": "Sejarah Khilafah", 
       "b": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Vc8_dYfM5g_a7Wor1u7FaSyQ9hZI-UAZFEALAf6o3xkfdWYrpObacGTEx1UQPYuRtwjWyTRSKQLNiFHwXDwSrLiDBALryx5bSNM4xq2jCG77z2wtENesu-atD9J1un6yL2CEbxhugfnPoWoTYzPVhh5pZHzcClCEt53LBOmrMytkS_y89nkEK5SGaZqY/s320/splash.webp",
       "c": "https://team-sains.blogspot.com/privacypolicy",
-      "d": "https://play.google.com/store/apps/details?id=com.sains.app31062023004.SejarahKhilafah", 
+      "dd": "https://play.google.com/store/apps/details?id=com.sains.app31062023004.SejarahKhilafah", 
+      "d": "📲  tinyurl.com/869dvdss \n\n\n وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ", 
 // // =========================================================
 // 2. SETTING UPDATE MAINTENANCE APP ==========================
       "e": "0",
@@ -81,42 +82,42 @@
 // // =========================================================
 // 3. SETTING ADS UTAMA (ADMOB)========================================
       // TEST
-      "g": "",
+      // "g": "",
       // "g": "ADMOB",
-      "h": "ca-app-pub-3940256099942544/6300978111x",
-      "i": "ca-app-pub-3940256099942544/1033173712x",
-      "j": "ca-app-pub-3940256099942544/2247696110x",
-      "k": "ca-app-pub-3940256099942544/3419835294x",
+      // "h": "ca-app-pub-3940256099942544/6300978111x",
+      // "i": "ca-app-pub-3940256099942544/1033173712x",
+      // "j": "ca-app-pub-3940256099942544/2247696110x",
+      // "k": "ca-app-pub-3940256099942544/3419835294x",
       
       // ORIGINAL
-      // "g": "ADMOB",
-      // "h": "ca-app-pub-1860724696154235/2039590653",
-      // "i": "ca-app-pub-1860724696154235/9351884713",
-      // "j": "ca-app-pub-1860724696154235/5412639700",
-      // "k": "ca-app-pub-1860724696154235/9104472705",
+      "g": "ADMOB",
+      "h": "ca-app-pub-1860724696154235/9464114090",
+      "i": "ca-app-pub-1860724696154235/6559066384",
+      "j": "ca-app-pub-1860724696154235/5245984717",
+      "k": "ca-app-pub-1860724696154235/1525914322",
 // // =========================================================
 // 4. SETTING ADS BACKUP (APPLOVIN) ====================================
       // TEST
-      "l": "",
-      "m": "XXXXX",
-      "n": "XXXXX",
-      "o": "XXXXX",
+      // "l": "",
+      // "m": "XXXXX",
+      // "n": "XXXXX",
+      // "o": "XXXXX",
       
       // ORIGINAL
-      // "l": "APPLOVIN-M",
-      // "m": "5e96dae233d9563a",
-      // "n": "3a0c19c76f9eafa4",
-      // "o": "9da7f76d7c8498e0",
+      "l": "APPLOVIN-M",
+      "m": "5e96dae233d9563a",
+      "n": "3a0c19c76f9eafa4",
+      "o": "9da7f76d7c8498e0",
 // // =========================================================
 // 5. SETTING NATIVE ==========================================
       "p": 3,
-      "q": 4,
-      "r": "2",
+      "q": 3,
+      "r": "1",
       "s": "#05eccc68",
       "t": "1",
 // // =========================================================
 // 6. SETTING INTER ===========================================
-      "u": "0",
+      "u": "3",
 // // =========================================================
 // 7. SETTING BACKUP SDK ADS ==================================
       "w": "",
@@ -130,10 +131,10 @@
       "ae": "automotive",
 // // =========================================================
 // SETTING ANTI SS RECORD =====================================
-      "af": "0",
+      "af": "1",
 // // =========================================================
-// TEXT SHARE APP =============================================
-      "ag": "👋🏻 Hey !!! Download and share this Sejarah Khilafah App on PlayStore 🫰🫰🫰 📲 ",
+// TEXT SHARE APP ============================================= 
+      "ag": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَا تُهُ   \n \n   \n👋🏻 Hey !!! Brothers 😊 I'm Recommend The Following Android App 🫰🏼🫰🏼🫰🏼 : \n\n☑️ Title : Sejarah Khilafah \n\n☑️ Developer : SAINS \n\n☑️ Synopsis : \n\nDewasa ini banyak muslim yang mendambakan khilafah menjadi sistem pemerintahan. Benarkah khliafah adalah sistem pemerintahan Islam yang patut dilanjutkan? ataukah ia adalah alat kekuasaan sekelompok orang yang secara lancang memanipulasi jargon agama?. \n\n☑️ Appearance : 🏞  shorturl.at/mIRX6 \n\n☑️ Do Not Forget : \n     ⭐️ Download \n     ⭐️ Read\n     ⭐ Rate \n     ⭐️ Comment, and \n     ⭐️ Share \n\n☑️ Link PlayStore : ",
 // // =========================================================
 // REFRESH_CONNECTIONS ========================================
       "ah": "30"
@@ -145,29 +146,141 @@
       "id": 1,
       "title": "Digital Pustaka",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi393gPm_R6oFR8a_GPA6nctsrkB3DAM0McSTfJkZF9HU4JmUWYvdYni9OjPTnxDarvEDCBU8nrCVCjHN4qPtUbTLicw2x4M1moc4W_RN8LmGZfNPceGKMLp366eQpnGJkX2NHNhAXYiLhCi7uGQD6c1NGCbArr65S_Xm4zw-KCePZkBB0jWNHGUrtzPOW/s320/logo%20SAINS%20Transparant.webp",
-      // "link": "https://tinyurl.com/yzkwrdtb"
-      "link": "https://"
+      "link": "https://tinyurl.com/yzkwrdtb"
+      // "link": "https://"
     },
     {
       "id": 2,
       "title": "Neon Pen",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiem641_abC46gsSZjimZBIJEsU7PTE5cW8jFT_hwZoBJ8MklqZHFenlFek_G1tKs81ooERtemqCxkVah5sNRO_CGMmOMFhiZiwq3xoBm8juEKlw7S_vzKIK6FYk_g1SMheCufI1POrygacI_th1gOiu6eJsNtSDsJrrBbqK_nUbWLHPP_i2ayVsT3Z78cp/s320/cv.webp",
-      // "link": "https://tinyurl.com/56r4ywv6"
-      "link": "https://"
+      "link": "https://tinyurl.com/56r4ywv6"
+      // "link": "https://"
     },
     {
       "id": 3,
       "title": "Muntakhab Ahadith",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibgkJtXzixsh7V71LM73_zv4i59-0D8ugMrFguKYQqQk7NYntueYhJPN5XGmN8u38k79ZwjVES6NQ746Qb0rA-j1tcX2B_ggT_kCSSwskJs-u7mv81-aNiasEQLLqp4_x063WAX9LCxL5McHYmj3qNn3b3jkmyANMeiOL6fKckG7JM6Ie79KJyF1xSD0e0/s320/img.webp",
-      // "link": "https://tinyurl.com/4r2wvw74"
-      "link": "https://"
+      "link": "https://tinyurl.com/4r2wvw74"
+      // "link": "https://"
     },
     {
       "id": 4,
       "title": "Sejarah Khilafah",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
-      // "link": "https://tinyurl.com/4r2wvw74"
-      "link": "https://"
+      "link": "https://tinyurl.com/869dvdss"
+      // "link": "https://"
+    },
+    {
+      "id": 5,
+      "title": "Syarah Syamail Nabi Muhammad",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cnxwqDljLPZ4GkGcldVog6JM11Q94BsY6qqFQmSe8CBDqEXI3BO9bZETI9Qf5yUHxQ_SMJc1Lbs0ZDfXcxlq-KUDteuygTjzzQm2NpK9z6LjRyolZ5TCzP0CQ24O1W_1PIvpltkQdLecJRLZnF6cMu0EVlOMDPsPZezyfWuyk0uFABuZvwRCNYqvg9EZ/s320/cv.webp",
+      "link": "https://tinyurl.com/23wtvcct"
+      // "link": "https://"
+    },
+    {
+      "id": 6,
+      "title": "Tanda Tanda Kiamat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkanvQMOF57TdL2TGuuvvpa8aNBy3x0JPmRRarRZiCtF4V07-Yi6BNX4w-1Qmu9hh0mOG7aZPfAuHsfi_8TzZPY9Ank72Y27QYJW75WShNxHsR_fJ00fcGIg7VLAlpuVZPtXusGN3bND8SOiJQU9REvdpzEDSFk8fCINfqRHEV-tqOD56RoWxrOlxwY6FW/s320/cv.webp",
+      "link": "https://tinyurl.com/ytcj8495"
+      // "link": "https://"
+    },
+    {
+      "id": 7,
+      "title": "Janji Janji Kemenangan Dalam Al Qur'an",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ueVQQld9tmRlp_A74PNMvvFtNXEmzCFs8_NXb7YrZgLk6f9_tYy1kiCJAKdkNuGktOV8RL3ohZKI96Kr_yfGfNX0VUzdkB4_4JuTYc-qSZIoEXD8lVSJ8OCnb64cgYAWKaDncRhzbIXFgNr1cW9NmjmfptE2wko1WCcRkzik-YAo9hJ3PKHurSdjYFnJ/s16000/main.webp",
+      "link": "https://tinyurl.com/yck62n5h"
+      // "link": "https://"
+    },
+    {
+      "id": 8,
+      "title": "Riyadhush Shalihin",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj68CaKspBiER5BilFIpCWTaTr6Zq8wbMtklaIfZguGwyz80LuFVsvgxSZRWMhn1YpbOGMxPUFYE5HGs87DH2UrBM9610w5AEDOSw75fUHs--_nWU9urgIxa-UTaL0gKREasrleqNe5MbvzQDb9jR2BKcFfXwWC8HFVRNZjs8sLLpyzAUyNnFVjlvd6JRSF/s320/app.webp",
+      "link": "https://tinyurl.com/2vrhjade"
+      // "link": "https://"
+    },
+    {
+      "id": 9,
+      "title": "Fadhilah Amal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBHqwswH03AtCprCFgUUb8GP0-aVi238vgWsbPXpBgUg6n7YyneA7EEQWsyJPQfOKaa7cnhfrJE41_yi-bEzUjUmYLjNaF9n_eLaM76hkfUBZn6uf5zL_eLvjJiNdhSB7kiLsBfrYxW-ICxOb2F6eSFSoIxxjDtwS63kKQt7E5WaGOMjMw0YqtOK80cqG-/s320/app.webp",
+      "link": "https://tinyurl.com/3dw6dsac"
+      // "link": "https://"
+    },
+    {
+      "id": 10,
+      "title": "Tuntunan Shalat Lengkap",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeoEVZG7IV3a62YljcVsOfazzT8ERku_P1b1FYR_xebobAvCFYuWEHLmZf810G9fUfO-ZmwwrC9xZNZ-7L1a7suP_RMjtTFqJUrEGsPgd_cX2fscRMrlCIFK0AmhGnmOiJLqFYNm1-LCo1NLV_PobUv63mKUh3ybU-k3VYTrj0upemJB1P0v1FAhqJdCcH/s320/app.webp",
+      "link": "https://tinyurl.com/57e9ubte"
+      // "link": "https://"
+    },
+    {
+      "id": 11,
+      "title": "Terjemah Kitab Al Adzkar",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvplsAkVm3cA5iTTMwaqHFtZdTEgNnysEFJp-QfXSMF3AQfLk16-M2XPcbcMxrNucWTOb-ouv3gYcL0yFTvXkKIpDNiwqS0wxSoH0nJ87OCgXlXvOXPIqT_yL_aZpq71qKartgn4RB0XRPriFZaqNEZDG0QY4UDAETCTIjo-omHYbFNbSl7vwDGEL3jKp/s320/app.webp",
+      "link": "https://tinyurl.com/ykvyznee"
+      // "link": "https://"
+    },
+    {
+      "id": 12,
+      "title": "Dzulqarnain Sang Penakluk Timur & Barat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAiQDUL_cNuys5uKJNxuqN7JGLPIXDQZKARYby1_iiMzE1e3IX8qrJ8IYFBOfozPMdrBjAZS2HhrHwQKhnXyQE7vAknzQPEI9EYFZ0O3eObxSmENdZkYobxrE8FMfrNXidPJblUxaZL542dFldhdjZdUmqtRzvqLtaHezWYJGznm3fCuQC6_EPTQ6okzK8/s320/app.webp",
+      "link": "https://tinyurl.com/5xh9vkwc"
+      // "link": "https://"
+    },
+    {
+      "id": 13,
+      "title": "Terjemah Kitab Qashash Al Anbiya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdbHp9t8yY2ujJgwrmujPQD23NgQkhZc0lgLKMNylShSzhoQKknA7GwAX2Cd2w4-N2Jad5lZmQKR-C6xN23T24oUREv9HcpLAGatw9gH4L6wgtOz2RnK-5fPgvNCJf0B2_sEjJC9HPyMjXLbGMskTz0Ra2jFZ6_oh9KcB_MZ1OYhhebtU-JmYYr9CE9dqy/s320/app.webp",
+      "link": "https://tinyurl.com/bdhmnuhh"
+      // "link": "https://"
+    },
+    {
+      "id": 14,
+      "title": "Panduan Lengkap Ilmu Tajwid",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhPoWS8OKUDS-FMUmtv65NBlPMlnDuVgNS9HZvDH5tKgzMs8_pw0vCUtudBXE_DxoEDgqU7w2JLOZ0EiTE3uGytecByvZRtERKIvNsPVH0EK0l4rG7L2veW71soO7O43Q_--Qh9juAYgmj6aECI4Hwik3bP8yc3PyH3YKAJJxvegzLKDShNapae-5c1zw/s320/app.webp",
+      "link": "https://tinyurl.com/3s3stm25"
+      // "link": "https://"
+    },
+    {
+      "id": 15,
+      "title": "Syamail Muhammad ﷺ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv8CBEJshUVkm7YIns2Sd07y1bPbwlcWwiOCBS9YHDyLiKHRwNLBfppUqXI9BswecIWF1ds3ci8_uPc2s2gLiIdGEdPOvrAV1eouQdPdK0Ap7X2O7aRZWIOE4z0yycza7aUFb5ukyL5ySZEbvSzQOvWkOGyKeEJul5HdW5e2aCHf75OSUH2uFburcAtXjY/s320/app.webp",
+      "link": "https://tinyurl.com/yvwnc9ea"
+      // "link": "https://"
+    },
+    {
+      "id": 16,
+      "title": "Ilmuan Muslim yang Dikagumi Dunia",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJmMNC-AcWSEtXApEtkCSUpPkN0lkDeGrb7IOu5ItoAkjXkiYvU6jIWhpD6UAHlnMy_kDTwyq30NwdHccHDInqmbWMM-aEUd0t350U7GPbKeVl5qgpb_iw2-KdJWIqmXXxnUeoSzmTdo8qMSm5QvL4tgHcdY2uXaLH6YY5QSAsh4paSQ31BTxS5QdCGDlf/s320/p.webp",
+      "link": "https://tinyurl.com/2f8x6n4c"
+      // "link": "https://"
+    },
+    {
+      "id": 17,
+      "title": "Qiroati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhahSFEb5aq0meA5eJg2uwTuEogCtYWhFLlwDV3Eq47nHJNgt_x0UYjzvfZxSY5fgbVlt0L1_KO7J3rj0YdYLU9JlQYZAVieKCvnUUuvuXT6U2LSmX_fWZ9Cu1ZAZK36muSHyVRP-8Xch_OxDMwvQwNphG5lVvdNVbJeSvOyaLTY9Ub4N1CXeEjybfG5tAv/s320/app.webp",
+      "link": "https://tinyurl.com/3vhkawdy"
+      // "link": "https://"
+    },
+    {
+      "id": 18,
+      "title": "101 Kisah Orang-Orang Yang Dikabulkan Doanya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7eNmEsRrmPcqTKXYHUCjMIJtlcGYTv0pyY889MqdTFMIE2NmlyfbJ-EhCXW6CF0UuYaYN2MMqpIapLJxpByLibkGEEOFLRo4qxcTD5o-nckQztyy9A4UD44GZFqjskjFsPBCq04hnxKiVzgB_eUTxmennrP6-Y67Ej47yaqCdhcBVg9uoPJcOy9BnGTLO/s320/app.webp",
+      "link": "https://tinyurl.com/2p8jdbhb"
+      // "link": "https://"
+    },
+    {
+      "id": 19,
+      "title": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "link": "https://tinyurl.com/y6tu8sx8"
+      // "link": "https://"
+    },
+    {
+      "id": 20,
+      "title": "Lagu Islami Penyejuk Hati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglNXSAHViD6B5Qc4t_d3l2bXKrUuwTzzBhlWuPG7oXzTO5hVTGcdRBHKDlsbscse0yBPUXmFSN43HKkJh65OBWoC-F3Qroo1lL3TavQ2v8y82UbRrnBMCjIWqSghnsluOEKXpplEm0xqon_PY_UfxxVXnYl7fU-oafOE-I7-46bZiEAAcu0MMYp9_j4ION/s320/logo.webp",
+      "link": "https://tinyurl.com/2msb9tu3"
+      // "link": "https://"
     }
   ],
   "Categories": [
@@ -182,7 +295,7 @@
     {
       "id": 1,
       "name_category": "Sejarah Khilafah",
-      "title": "Cover",
+      "title": "COVER",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
       "description": "Sejarah Khilafah",
@@ -191,25 +304,25 @@
     {
       "id": 2,
       "name_category": "Sejarah Khilafah",
-      "title": "Daftar Isi",
+      "title": "DAFTAR ISI",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
-      "description": "Muntakhab Ahadith",
+      "description": "Sejarah Khilafah",
       "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/2%20daftar%20isi"
     }, 
     {
       "id": 3,
       "name_category": "Sejarah Khilafah",
-      "title": "Bagian I : Khilafah Abu Bakar",
+      "title": "BAGIAN I : KHILAFAH ABU BAKAR",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
-      "description": "Saqifah, Khilafah Setelah Nabi S.A.W., Masalah Kemurtadan, Utusan-utusan Abu Bakar, Penaklukan Damaskus, Penaklukan Irak.",
+      "description": "Saqifah, Khilafah Setelah Nabi ﷺ, Masalah Kemurtadan, Utusan-utusan Abu Bakar, Penaklukan Damaskus, Penaklukan Irak.",
       "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/3%20bab1"
     },
     {
       "id": 4,
       "name_category": "Sejarah Khilafah",
-      "title": "Bagian II : Khilafah Umar Bin Khatab",
+      "title": "BAGIAN II : KHILAFAH UMAR BIN KHATAB",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
       "description": "Tentang Khalifah Kedua, Karakter Khalifah, Para Pejabat (Fungsionaris) Umar, Pemikiran-pemikiran Khalifah Kedua, Pembunuhan Terhadap Umar, Penaklukan Beruntun di Damaskus & MEsir, Penaklukan Beruntun di Irak & Iran, Tentang Penaklukan Iran.",
@@ -218,7 +331,7 @@
     {
       "id": 5,
       "name_category": "Sejarah Khilafah",
-      "title": "Bagian III : Khilafah Usman Bin Affan",
+      "title": "BAGIAN III : KHILAFAH USMAN BIN AFFAN",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
       "description": "Dewan Khilafah & Pemilihan Usman, Khilafah Usman, Alasan2 Pemberontakan Anti Usman, Lawan2 Usman, Kontak Usman dengan Para Penentang, Usman & Muawiyah, Imam Ali As & Usman, Pembunuhan Usman, Kemenangan2 yg Terus Menerus, Dampak2 Kemenangan & Komunitas Islam.",
@@ -227,7 +340,7 @@
     {
       "id": 6,
       "name_category": "Sejarah Khilafah",
-      "title": "Catatan Akhir Bagian I",
+      "title": "CATATAN AKHIR BAGIAN I",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
       "description": "Sejarah Khilafah",
@@ -236,7 +349,7 @@
     {
       "id": 7,
       "name_category": "Sejarah Khilafah",
-      "title": "Catatan Akhir Bagian II",
+      "title": "CATATAN AKHIR BAGIAN II",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
       "description": "Sejarah Khilafah",
@@ -245,7 +358,7 @@
     {
       "id": 8,
       "name_category": "Sejarah Khilafah",
-      "title": "Catatan Akhir Bagian III",
+      "title": "CATATAN AKHIR BAGIAN III",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
       "description": "Sejarah Khilafah",
