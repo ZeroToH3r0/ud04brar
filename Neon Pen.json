@@ -1,0 +1,69 @@
+{ 
+    
+    "https://*********************************": [
+        {			
+		//MENU_APP//===============================================================================================================
+		
+		"status_app":"0",
+		"mode_pdf_online":"1",
+		"link_redirect":"https://",
+		"link_share_app":"https://play.google.com/store/apps/details?id=com.sains.app29072023002.NeonPen", 
+		// "link_share_app":"anonfiles.com/11Z2N139z8/SourceCode_ColoringApp_zip", 
+		"link_godev":"https://play.google.com/store/apps/developer?id=Sains", 
+		"text_promo":"👋🏻 Hey !!! 🥳 🥳 🥳 This is my work, Can you make it ? Checkout Neon Pen App, This Amazing App on Playstore 🫰🫰🫰 📲 ", 
+// 		"link_godev":"https://play.google.com/store/apps/developer?id=4,8+%E2%98%86++%E2%96%A1+10+jt%2B", 
+
+		//IMAGE_PLAYLIST//===============================================================================================================	
+		"judul_app":"Neon Pen",	
+		"url_icon_app":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiem641_abC46gsSZjimZBIJEsU7PTE5cW8jFT_hwZoBJ8MklqZHFenlFek_G1tKs81ooERtemqCxkVah5sNRO_CGMmOMFhiZiwq3xoBm8juEKlw7S_vzKIK6FYk_g1SMheCufI1POrygacI_th1gOiu6eJsNtSDsJrrBbqK_nUbWLHPP_i2ayVsT3Z78cp/s320/cv.webp",
+		
+		"url_image_header":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfkd7ipz1qPWwayEiIuVR7vv4UDv7awmQEYOL0RNzOsTICNU8tgfpGOI6z0Ze2FhDOUOIWxufnPfj_2bWztSnOArz6CKIUbll1LMENfQpKN-x7CaCKdW97w4ps2Vc4qimxyWfgcJwX77kkkUQOppE5lSIh9K4zTlQkHe8ZgwTMv_H7Y7rZlyfY5GOKCz_H/s16000/header.webp",
+		
+		"url_image_support_app":"xxxxx",
+		
+		"url_bg_cover_playlist_1":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV6LAJom-CuW_XSaCFMJAphRbs9QCucy7sB6xRIo5wJvtjLe-2N_L5RHCuVhod13wpW8ByvjBHXXMlJ31a2pwJIEDapGVGYQgKQRa6QeaFtzFrF8t_DZQTHi1lQLczThhnO2A9EZRJpGdcemkjIQhOALCElesuSWOGwF94qsSbz0hKPpZPSqpa4Sc1WCNA/s320/white.webp",
+		
+		"url_bg_cover_playlist_2":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3YnJzNUNEapm3J-LtBDRPNsgk8237_QMTcifOAFbBo8q5IL58mKeWGz4EfFOC87ncT-gCEA3Q9MYpuwrLrFSpQ82kYRme6jMeYmIGA2oWNZlvn2bqXuPuMXTRE4a6Sq5nZCmo7uctQQ2ldeZ0V-YJZdS7QIBQQsNjX1wUhkRsvyFZaKXjw2JwtIWD4X6q/s320/neon.webp",
+		
+		//ADS//===============================================================================================================	
+		
+		"admob_bannerid":"ca-app-pub-1860724696154235/9464114090x",
+        "admob_interid": "ca-app-pub-1860724696154235/6559066384x",
+		"admob_nativeid": "ca-app-pub-1860724696154235/5245984717x",
+		"Open_Ads": "ca-app-pub-1860724696154235/1525914322x",
+		"admob_rewardid": "ca-app-pub-1860724696154235/xxxxxx",
+		
+		"applovin_banner": "e9c3d022dee50bafx",	
+        "applovin_intersial": "7c98da4eae120af8x",	
+        "applovin_native1": "27e4af3465cfd90ax",		
+		"applovin_reward": "xxxxx",	
+        
+        
+        //SAMPLE ADS//===============================================================================================================
+        
+		// "admob_bannerid":"ca-app-pub-3940256099942544/6300978111",
+  //       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+		// "admob_nativeid": "ca-app-pub-3940256099942544/1044960115",
+		// "Open_Ads": "ca-app-pub-3940256099942544/3419835294",
+		// "admob_rewardid": "ca-app-pub-3940256099942544/5224354917",
+		
+		// "applovin_banner": "xxxxx",	
+  //       "applovin_intersial": "xxxxx",	
+  //       "applovin_native1": "xxxxx",		
+		// "applovin_reward": "xxxxx",	
+		
+		//DRAWING CONTENT//=================================
+		
+        "deskripsi_judul": "Press To Start",
+        "size_judul_deskripsi": 24,	
+        // "deskripsi_memulai": "Now you can create 😉",
+        "deskripsi_memulai": "Now you can create pictures, notes, write and share your best work with friends, friends and family through your at social media 😉",
+        "size_deskripsi": 20,  
+        "content_1": "White Paper",
+        "content_2": "Black Paper",
+        "share": "Share"
+		
+        }
+    ]
+	
+}
