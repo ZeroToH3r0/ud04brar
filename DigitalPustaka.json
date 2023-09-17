@@ -73,67 +73,69 @@
       "a": "Digital Pustaka", 
       "b": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi393gPm_R6oFR8a_GPA6nctsrkB3DAM0McSTfJkZF9HU4JmUWYvdYni9OjPTnxDarvEDCBU8nrCVCjHN4qPtUbTLicw2x4M1moc4W_RN8LmGZfNPceGKMLp366eQpnGJkX2NHNhAXYiLhCi7uGQD6c1NGCbArr65S_Xm4zw-KCePZkBB0jWNHGUrtzPOW/s320/logo%20SAINS%20Transparant.webp",
       "c": "https://team-sains.blogspot.com/privacypolicy",
-      "d": "https://play.google.com/store/apps/details?id=com.sains.app26062023001.finance", 
+      "dd": "https://play.google.com/store/apps/details?id=com.sains.app26062023001.finance", 
+      "d": "📲  tinyurl.com/yzkwrdtb \n\n\n وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ", 
 // // =========================================================
 // 2. SETTING UPDATE MAINTENANCE APP ==========================
       "e": "0",
       "f": "https://",
 // // =========================================================
 // 3. SETTING ADS UTAMA (ADMOB)========================================
-      "g": "",
-      // "g": "ADMOB",
+      // "g": "",
+      "g": "ADMOB",
       
       // TEST
-      "h": "ca-app-pub-3940256099942544/6300978111",
-      "i": "ca-app-pub-3940256099942544/1033173712",
-      "j": "ca-app-pub-3940256099942544/2247696110",
-      "k": "ca-app-pub-3940256099942544/3419835294",
+      // "h": "ca-app-pub-3940256099942544/6300978111x",
+      // "i": "ca-app-pub-3940256099942544/1033173712x",
+      // "j": "ca-app-pub-3940256099942544/2247696110x",
+      // "k": "ca-app-pub-3940256099942544/3419835294x",
       
       // ORIGINAL
-      // "h": "ca-app-pub-1860724696154235/8360776839",
-      // "i": "ca-app-pub-1860724696154235/9945321240",
-      // "j": "ca-app-pub-1860724696154235/2910490676",
-      // "k": "ca-app-pub-1860724696154235/5065309908",
+      "h": "ca-app-pub-1860724696154235/9464114090",
+      "i": "ca-app-pub-1860724696154235/6559066384",
+      "j": "ca-app-pub-1860724696154235/5245984717",
+      "k": "ca-app-pub-1860724696154235/1525914322",
 // // =========================================================
 // 4. SETTING ADS BACKUP (APPLOVIN) ====================================
-      // "l": "APPLOVIN-M",
-      "l": "",
+      "l": "APPLOVIN-M",
+      // "l": "",
       // TEST
-      "m": "XXXXX",
-      "n": "XXXXX",
-      "o": "XXXXX",
+      // "m": "XXXXX",
+      // "n": "XXXXX",
+      // "o": "XXXXX",
       
       // ORIGINAL
-      // "m": "921c91016fc38918",
-      // "n": "68072349eb02fbf3",
-      // "o": "711b4da3a6acb6d3",
+      "m": "921c91016fc38918",
+      "n": "68072349eb02fbf3",
+      "o": "711b4da3a6acb6d3",
 // // =========================================================
 // 5. SETTING NATIVE ==========================================
       "p": 3,
-      "q": 6,
+      "q": 10,
       "r": "1",
       "s": "#05eccc68",
       "t": "1",
 // // =========================================================
 // 6. SETTING INTER ===========================================
-      "u": "0",
+      "u": "3",
 // // =========================================================
 // 7. SETTING BACKUP SDK ADS ==================================
       "w": "",
       "v": "",
 // // =========================================================
 // 8. SETTING HPK =============================================
-      "aa": "finance",
-      "ab": "finance",
-      "ac": "finance",
-      "ad": "finance",
-      "ae": "finance",
+      "aa": "automotive",
+      "ab": "automotive",
+      "ac": "automotive",
+      "ad": "automotive",
+      "ae": "automotive",
 // // =========================================================
 // SETTING ANTI SS RECORD =====================================
-      "af": "0",
+      "af": "1",
 // // =========================================================
 // TEXT SHARE APP =============================================
-      "ag": "Download and share this Digital Pustaka App on PlayStore (View : shorturl.at/uDEFQ) : ?? ",
+      
+      "ag": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَا تُهُ   \n \n   \n👋🏻 Hey !!! Brothers 😊 I'm Recommend The Following Android App 🫰🏼🫰🏼🫰🏼 : \n\n☑️ Title : Digital Pustaka \n\n☑️ Developer : SAINS \n\n☑️ Synopsis : \n\nKumpulan Koleksi eBook terpopuler sepanjang masa sebagai sarana pendidikan di era kemajuan zaman saat ini, all in one. \n\n☑️ Appearance : 🏞 shorturl.at/uDEFQ \n\n☑️ Do Not Forget : \n     ⭐️ Download \n     ⭐️ Read\n     ⭐ Rate \n     ⭐️ Comment, and \n     ⭐️ Share \n\n☑️ Link PlayStore : ",
 // // =========================================================
 // REFRESH_CONNECTIONS ========================================
       "ah": "30"
@@ -145,17 +147,141 @@
       "id": 1,
       "title": "Digital Pustaka",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi393gPm_R6oFR8a_GPA6nctsrkB3DAM0McSTfJkZF9HU4JmUWYvdYni9OjPTnxDarvEDCBU8nrCVCjHN4qPtUbTLicw2x4M1moc4W_RN8LmGZfNPceGKMLp366eQpnGJkX2NHNhAXYiLhCi7uGQD6c1NGCbArr65S_Xm4zw-KCePZkBB0jWNHGUrtzPOW/s320/logo%20SAINS%20Transparant.webp",
-      // "link": "https://tinyurl.com/yzkwrdtb"
-      "link": "https://"
-    }
-  ],
-  "Categories": [
+      "link": "https://tinyurl.com/yzkwrdtb"
+      // "link": "https://"
+    },
     {
-      "id": 1,
-      "title": "Digital Pustaka",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi393gPm_R6oFR8a_GPA6nctsrkB3DAM0McSTfJkZF9HU4JmUWYvdYni9OjPTnxDarvEDCBU8nrCVCjHN4qPtUbTLicw2x4M1moc4W_RN8LmGZfNPceGKMLp366eQpnGJkX2NHNhAXYiLhCi7uGQD6c1NGCbArr65S_Xm4zw-KCePZkBB0jWNHGUrtzPOW/s320/logo%20SAINS%20Transparant.webp",
-      // "link": "https://tinyurl.com/yzkwrdtb"
-      "link": "https://"
+      "id": 2,
+      "title": "Neon Pen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiem641_abC46gsSZjimZBIJEsU7PTE5cW8jFT_hwZoBJ8MklqZHFenlFek_G1tKs81ooERtemqCxkVah5sNRO_CGMmOMFhiZiwq3xoBm8juEKlw7S_vzKIK6FYk_g1SMheCufI1POrygacI_th1gOiu6eJsNtSDsJrrBbqK_nUbWLHPP_i2ayVsT3Z78cp/s320/cv.webp",
+      "link": "https://tinyurl.com/56r4ywv6"
+      // "link": "https://"
+    },
+    {
+      "id": 3,
+      "title": "Muntakhab Ahadith",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibgkJtXzixsh7V71LM73_zv4i59-0D8ugMrFguKYQqQk7NYntueYhJPN5XGmN8u38k79ZwjVES6NQ746Qb0rA-j1tcX2B_ggT_kCSSwskJs-u7mv81-aNiasEQLLqp4_x063WAX9LCxL5McHYmj3qNn3b3jkmyANMeiOL6fKckG7JM6Ie79KJyF1xSD0e0/s320/img.webp",
+      "link": "https://tinyurl.com/4r2wvw74"
+      // "link": "https://"
+    },
+    {
+      "id": 4,
+      "title": "Sejarah Khilafah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "link": "https://tinyurl.com/869dvdss"
+      // "link": "https://"
+    },
+    {
+      "id": 5,
+      "title": "Syarah Syamail Nabi Muhammad",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cnxwqDljLPZ4GkGcldVog6JM11Q94BsY6qqFQmSe8CBDqEXI3BO9bZETI9Qf5yUHxQ_SMJc1Lbs0ZDfXcxlq-KUDteuygTjzzQm2NpK9z6LjRyolZ5TCzP0CQ24O1W_1PIvpltkQdLecJRLZnF6cMu0EVlOMDPsPZezyfWuyk0uFABuZvwRCNYqvg9EZ/s320/cv.webp",
+      "link": "https://tinyurl.com/23wtvcct"
+      // "link": "https://"
+    },
+    {
+      "id": 6,
+      "title": "Tanda Tanda Kiamat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkanvQMOF57TdL2TGuuvvpa8aNBy3x0JPmRRarRZiCtF4V07-Yi6BNX4w-1Qmu9hh0mOG7aZPfAuHsfi_8TzZPY9Ank72Y27QYJW75WShNxHsR_fJ00fcGIg7VLAlpuVZPtXusGN3bND8SOiJQU9REvdpzEDSFk8fCINfqRHEV-tqOD56RoWxrOlxwY6FW/s320/cv.webp",
+      "link": "https://tinyurl.com/ytcj8495"
+      // "link": "https://"
+    },
+    {
+      "id": 7,
+      "title": "Janji Janji Kemenangan Dalam Al Qur'an",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ueVQQld9tmRlp_A74PNMvvFtNXEmzCFs8_NXb7YrZgLk6f9_tYy1kiCJAKdkNuGktOV8RL3ohZKI96Kr_yfGfNX0VUzdkB4_4JuTYc-qSZIoEXD8lVSJ8OCnb64cgYAWKaDncRhzbIXFgNr1cW9NmjmfptE2wko1WCcRkzik-YAo9hJ3PKHurSdjYFnJ/s16000/main.webp",
+      "link": "https://tinyurl.com/yck62n5h"
+      // "link": "https://"
+    },
+    {
+      "id": 8,
+      "title": "Riyadhush Shalihin",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj68CaKspBiER5BilFIpCWTaTr6Zq8wbMtklaIfZguGwyz80LuFVsvgxSZRWMhn1YpbOGMxPUFYE5HGs87DH2UrBM9610w5AEDOSw75fUHs--_nWU9urgIxa-UTaL0gKREasrleqNe5MbvzQDb9jR2BKcFfXwWC8HFVRNZjs8sLLpyzAUyNnFVjlvd6JRSF/s320/app.webp",
+      "link": "https://tinyurl.com/2vrhjade"
+      // "link": "https://"
+    },
+    {
+      "id": 9,
+      "title": "Fadhilah Amal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBHqwswH03AtCprCFgUUb8GP0-aVi238vgWsbPXpBgUg6n7YyneA7EEQWsyJPQfOKaa7cnhfrJE41_yi-bEzUjUmYLjNaF9n_eLaM76hkfUBZn6uf5zL_eLvjJiNdhSB7kiLsBfrYxW-ICxOb2F6eSFSoIxxjDtwS63kKQt7E5WaGOMjMw0YqtOK80cqG-/s320/app.webp",
+      "link": "https://tinyurl.com/3dw6dsac"
+      // "link": "https://"
+    },
+    {
+      "id": 10,
+      "title": "Tuntunan Shalat Lengkap",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeoEVZG7IV3a62YljcVsOfazzT8ERku_P1b1FYR_xebobAvCFYuWEHLmZf810G9fUfO-ZmwwrC9xZNZ-7L1a7suP_RMjtTFqJUrEGsPgd_cX2fscRMrlCIFK0AmhGnmOiJLqFYNm1-LCo1NLV_PobUv63mKUh3ybU-k3VYTrj0upemJB1P0v1FAhqJdCcH/s320/app.webp",
+      "link": "https://tinyurl.com/57e9ubte"
+      // "link": "https://"
+    },
+    {
+      "id": 11,
+      "title": "Terjemah Kitab Al Adzkar",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvplsAkVm3cA5iTTMwaqHFtZdTEgNnysEFJp-QfXSMF3AQfLk16-M2XPcbcMxrNucWTOb-ouv3gYcL0yFTvXkKIpDNiwqS0wxSoH0nJ87OCgXlXvOXPIqT_yL_aZpq71qKartgn4RB0XRPriFZaqNEZDG0QY4UDAETCTIjo-omHYbFNbSl7vwDGEL3jKp/s320/app.webp",
+      "link": "https://tinyurl.com/ykvyznee"
+      // "link": "https://"
+    },
+    {
+      "id": 12,
+      "title": "Dzulqarnain Sang Penakluk Timur & Barat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAiQDUL_cNuys5uKJNxuqN7JGLPIXDQZKARYby1_iiMzE1e3IX8qrJ8IYFBOfozPMdrBjAZS2HhrHwQKhnXyQE7vAknzQPEI9EYFZ0O3eObxSmENdZkYobxrE8FMfrNXidPJblUxaZL542dFldhdjZdUmqtRzvqLtaHezWYJGznm3fCuQC6_EPTQ6okzK8/s320/app.webp",
+      "link": "https://tinyurl.com/5xh9vkwc"
+      // "link": "https://"
+    },
+    {
+      "id": 13,
+      "title": "Terjemah Kitab Qashash Al Anbiya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdbHp9t8yY2ujJgwrmujPQD23NgQkhZc0lgLKMNylShSzhoQKknA7GwAX2Cd2w4-N2Jad5lZmQKR-C6xN23T24oUREv9HcpLAGatw9gH4L6wgtOz2RnK-5fPgvNCJf0B2_sEjJC9HPyMjXLbGMskTz0Ra2jFZ6_oh9KcB_MZ1OYhhebtU-JmYYr9CE9dqy/s320/app.webp",
+      "link": "https://tinyurl.com/bdhmnuhh"
+      // "link": "https://"
+    },
+    {
+      "id": 14,
+      "title": "Panduan Lengkap Ilmu Tajwid",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhPoWS8OKUDS-FMUmtv65NBlPMlnDuVgNS9HZvDH5tKgzMs8_pw0vCUtudBXE_DxoEDgqU7w2JLOZ0EiTE3uGytecByvZRtERKIvNsPVH0EK0l4rG7L2veW71soO7O43Q_--Qh9juAYgmj6aECI4Hwik3bP8yc3PyH3YKAJJxvegzLKDShNapae-5c1zw/s320/app.webp",
+      "link": "https://tinyurl.com/3s3stm25"
+      // "link": "https://"
+    },
+    {
+      "id": 15,
+      "title": "Syamail Muhammad ﷺ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv8CBEJshUVkm7YIns2Sd07y1bPbwlcWwiOCBS9YHDyLiKHRwNLBfppUqXI9BswecIWF1ds3ci8_uPc2s2gLiIdGEdPOvrAV1eouQdPdK0Ap7X2O7aRZWIOE4z0yycza7aUFb5ukyL5ySZEbvSzQOvWkOGyKeEJul5HdW5e2aCHf75OSUH2uFburcAtXjY/s320/app.webp",
+      "link": "https://tinyurl.com/yvwnc9ea"
+      // "link": "https://"
+    },
+    {
+      "id": 16,
+      "title": "Ilmuan Muslim yang Dikagumi Dunia",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJmMNC-AcWSEtXApEtkCSUpPkN0lkDeGrb7IOu5ItoAkjXkiYvU6jIWhpD6UAHlnMy_kDTwyq30NwdHccHDInqmbWMM-aEUd0t350U7GPbKeVl5qgpb_iw2-KdJWIqmXXxnUeoSzmTdo8qMSm5QvL4tgHcdY2uXaLH6YY5QSAsh4paSQ31BTxS5QdCGDlf/s320/p.webp",
+      "link": "https://tinyurl.com/2f8x6n4c"
+      // "link": "https://"
+    },
+    {
+      "id": 17,
+      "title": "Qiroati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhahSFEb5aq0meA5eJg2uwTuEogCtYWhFLlwDV3Eq47nHJNgt_x0UYjzvfZxSY5fgbVlt0L1_KO7J3rj0YdYLU9JlQYZAVieKCvnUUuvuXT6U2LSmX_fWZ9Cu1ZAZK36muSHyVRP-8Xch_OxDMwvQwNphG5lVvdNVbJeSvOyaLTY9Ub4N1CXeEjybfG5tAv/s320/app.webp",
+      "link": "https://tinyurl.com/3vhkawdy"
+      // "link": "https://"
+    },
+    {
+      "id": 18,
+      "title": "101 Kisah Orang-Orang Yang Dikabulkan Doanya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7eNmEsRrmPcqTKXYHUCjMIJtlcGYTv0pyY889MqdTFMIE2NmlyfbJ-EhCXW6CF0UuYaYN2MMqpIapLJxpByLibkGEEOFLRo4qxcTD5o-nckQztyy9A4UD44GZFqjskjFsPBCq04hnxKiVzgB_eUTxmennrP6-Y67Ej47yaqCdhcBVg9uoPJcOy9BnGTLO/s320/app.webp",
+      "link": "https://tinyurl.com/2p8jdbhb"
+      // "link": "https://"
+    },
+    {
+      "id": 19,
+      "title": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "link": "https://tinyurl.com/y6tu8sx8"
+      // "link": "https://"
+    },
+    {
+      "id": 20,
+      "title": "Lagu Islami Penyejuk Hati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglNXSAHViD6B5Qc4t_d3l2bXKrUuwTzzBhlWuPG7oXzTO5hVTGcdRBHKDlsbscse0yBPUXmFSN43HKkJh65OBWoC-F3Qroo1lL3TavQ2v8y82UbRrnBMCjIWqSghnsluOEKXpplEm0xqon_PY_UfxxVXnYl7fU-oafOE-I7-46bZiEAAcu0MMYp9_j4ION/s320/logo.webp",
+      "link": "https://tinyurl.com/2msb9tu3"
+      // "link": "https://"
     }
   ],
   "Categories": [
@@ -246,7 +372,52 @@
     }
   ],
   
-  "Data": [                        
+  "Data": [                                 
+    {
+      "id": 525,
+      "name_category": "Pustaka Novel",
+      "title": "Saha Mansion",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKHvRq45MmCWz1wBNCh-7-l4tD1NuLNQlbWxJeTNfbrvfLHzAYpWhwP-bobm2ZiaV1NE4De-ui-YJ21WBdZhwgMF4dwDYjCcGoZTQKwUEY-5fPjOYs4fMm6rLm96OaHDkf3ROejHzTBP4Vn2O0ZCf4zH79pthJtAN4ND5CtYDQ99NAmpqjSK9GNliTo53P/s320/0494.webp",
+      "description": "   Kemiskinan yang menghuni Saha Mansion, Apa hubungannya dengan orang-orang yang menghilang dari Saha Mansion secara misterius? Apa yang sebenarnya terjadi di dalam tembok Town yang tidak bisa ditembus?",
+      "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/saha%20mansion.pdf"
+    },                                   
+    {
+      "id": 524,
+      "name_category": "Pustaka Novel",
+      "title": "The Poppy War (Perang Opium)",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBPywY_SDbgWo7yD4M6nBdRW5b2TpsyLOcywbS-yq57nx4xPdaKawbt-DgqUsGqFQ9wsMpdWLAMW1Tbj0eZ2PtNHMsOGRLYYnqAFBuq1nAD9lWQfsUIxrcMHhknI5LFBJFOE9PbSwTHICrijKl7brw5kf19IQ4PSMsWNbnnQYi9tmTnju-6OhKFE25RNDQ/s320/0498.webp",
+      "description": "  Semua orang terkejut ketika Rin berhasil masuk Sinegard, akademi militer elite di Kekaisaran Nikan. Tetapi, kejutan tidaklah selalu menyenangkan. Karena dianggap anak kampung miskin, Rin jadi bulan-bulanan, apalagi karena ia perempuan.",
+      "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/pdfcoffee_com_the_poppy_war_perang_opium_by_rf_kuangpdf_pdf_free.pdf"
+    },                                
+    {
+      "id": 523,
+      "name_category": "Pustaka Novel",
+      "title": "The Puppeteer: Kisah Filosofis Tentang Makna Keluarga",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGO7b7ddT4bZNtSI5vN1Q0shecjoAVMzuVmVGT6ncOP7rT6cQWcOkOQSqv14wzS8yTQGm5nJ8WOrBwpQ-pnuFeFloeRx-uWO-AiP1HqO1Q8tJHJkfAEPypZlQrgjQzrOqIO4W9jSGE2X53IzOvhuzG2KfoWNxU7bcpUNo0bzabG78melyINSQcbaY6IFLy/s320/0497.webp",
+      "description": "  Jakop Jacobsen Pria biasa dengan kehidupan yg biasa saja, Hobinya adalah menghadiri pemakaman dan sahabat pena tersayangnya adalah Agnes, dia mengisahkan berbagai pemakaman yg dia ikuti, juga kesan-kesan tentang keluarga para almarhum.",
+      "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/pdf-the-puppeteer-jostein-gaarderpdf_compress.pdf"
+    },                          
+    {
+      "id": 522,
+      "name_category": "Pustaka Novel",
+      "title": "Moon In The Spring",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC8Y3TDrq2xyJGLVgR5FczbERwNA2V1-10Y6Pu6gjTZYdpJ2UQLI3xCnOtUgZTepv4pjo0PPBN7_Kc1pup2Z-ypTuwQ1mmpVLUBTbSN_cJXJpUKgb9OvlzzO3uAHd9zG8MhuW6lKTqkac0KMMqHZRDA-B7PHsTDtBstXEBWXCEeyBJUdUcAvKE5xj6S-eD/s320/0500.webp",
+      "description": "  Ji-Wan melanggar peraturan langit & turun ke bumi untuk menggantikan posisi seorang wanita yang meninggal. Di sana, ia bertemu dengan Min-Hyuk, tunangan wanita yang ia gantikan. Sejak bertemu dengannya, Ji-Wan tahu bahwa pria itu adalah orang yang tidak mudah untuk dihadapi.",
+      "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/mooninthespring.pdf"
+    },                                
+    {
+      "id": 521,
+      "name_category": "Pustaka Novel",
+      "title": "Second Sister (Putri Kedua)",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjclZVV-ptRiJq7uCK12x86XpuJDrm73nVbnPLfuZVJAUeVYV88NJHXRCMRUsmz9HI_2kPxhmq8Xfh-THOtn3vhRWZ1sWJXwTagQ6td8GfLmFnWLfr5PIxf6oL8DnExdRPanERHwLemyFgOXv1vWybXsX77mT_TjcxA3ilBFTrearokN9NDByQxj8LzROsj/s320/0508.webp",
+      "description": "  Penyelidikan kasus bunuh diri seorang remaja perempuan bernama Siu-Man, yang diinisiasi oleh sang kakak, Nga-Yee, bersama seorang hacker sekaligus 'detektif' swasta bernama N dengan alasan ingin balas dendam.",
+      "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/f5f975f1-0eb3-4898-bf3a-913c16e70185.pdf"
+    },                       
     {
       "id": 520,
       "name_category": "Pustaka Novel",
@@ -254,7 +425,7 @@
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdT6F70EhcJwJPPriwNSRLng7IKQKLAd1dqIsXvO-yPLDOcPC1lSikNuJsA8GSpt0FMCghCFWYT0Gj2pcIEZigYS0Dof7x0G8DLfzmZTZodEQcS9uPqx3qFxbmyP0T_K6aZqLsOtUnPQYLZaiU5vh73kvX4uemaURG99BX5S1uVbVxeh1GzlunXbIZPIsC/s320/0507.webp",
       "description": "  Di hutan yg amat sangat gelap, ada sebuah rumah yg amat sangat gelap & ada rahasia yg lebih baik dikubur untuk selamanya. Sebuah undangan pesta bujang membawa Nora datang ke sebuah mansion mewah di dalam hutan, seharusnya menjadi momen menyenangkan justru berubah menegangkan.",
-      "link": "https://ia802702.us.archive.org/18/items/15072023nov_202307/B/f47a5bd1-adcd-4f0f-80fb-a33c8bd8e9f1%20%282%29.pdf"
+      "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/f47a5bd1-adcd-4f0f-80fb-a33c8bd8e9f1%20%282%29.pdf"
     },                            
     {
       "id": 519,
@@ -352,7 +523,7 @@
       "title": "The Golden Compass (Kompas Emas)",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipREVZRtfTnKH6gNKNBCIJhJ8GJnkTLMncnyYajM9OaYrPvDLLTWUJMJgOnCP3tzlEjPBj0eHfGAPH-SRoRP2iD7-L0tXkJuBJ-ooqhRdubNNGgXpBF_TQYYuCXCmXOiAvIEHoe2NpEnPHTsZYKA-4LEmJW_jCOsFoK2V02A0FHkNkAMbysdnclCEhb4P3/s320/0488.webp",
-      "description": "  Ketika temannya, Roger, lenyap, Lyra dan d�monnya, Pantalaimon, bertekad menemukannya. Pencarian itu membawa mereka ke alam Utara yg dahsyat, tempat beruang berbaju besi menguasai dunia es & ratu penyihir beterbangan di langit yg membeku serta tempat sekelompok ilmuwan melakukan eksperimen.",
+      "description": "  Ketika temannya, Roger, lenyap, Lyra dan dæmonnya, Pantalaimon, bertekad menemukannya. Pencarian itu membawa mereka ke alam Utara yg dahsyat, tempat beruang berbaju besi menguasai dunia es & ratu penyihir beterbangan di langit yg membeku serta tempat sekelompok ilmuwan melakukan eksperimen.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/The%20Golden%20Compass%20%28Kompas%20Emas%29%20-%20Philip%20Pullman.pdf"
     },                 
     {
@@ -471,7 +642,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjY9qId76vXt591F6Lo57eB_OyKT1CaPPFVUTrCt7IBlNgLEBr90VsmARMIsGqUjhMzlZ5YkaAx1bpMwz3shsoerC9DTHnKPaDUhtEKzo9t0xPC_GUlKOEFk7A_eEgmTVbmsNhfROewXF9UssvzzyEyqM6NLl2_v6eT3cE9Ig5eESNTiHyh5byxAnpqS2/s320/0504.webp",
       "description": "  Novelis laris Hidaka Kunihiko ditemukan tewas di rumahnya pada malam sebelum ia meninggalkan Jepang untuk pindah ke Kanada, sang detektif berusaha menguak motif sang pembunuh yang sebenarnya, Malice merupakan novel dari seri Detektif Kaga karya Keigo Higashino yang paling laris.",
       "link": "https://ia802702.us.archive.org/18/items/15072023nov_202307/B/Keigo%20Higashino%20-%20Catatan%20Pembunuhan%20sang%20Novelis.pdf"
-    },                
+    },                               
     {
       "id": 495,
       "name_category": "Pustaka Novel",
@@ -480,7 +651,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguwnN_0ol-MmMyAqvvbVCvI5hW7DonDj5dwtx5ZKMNd8M-7b4IfNioz-Hnoee7vcYSAXk1xtin1nARumCAG-knj3Q1TcwGgy6giSsT4GKvKf0wP3elUpnr8VTTkcR9Bftly5hRBF1kYGUgKJdQdUWNEMEF71SGlH6yZw4wmh80zsuQ-6CCm0xpv5Dnma1-/s320/0505.webp",
       "description": "  Suatu hari, ia mengalami kejadian yang sangat konyol. Tubuhnya tertukar dengan tubuh seorang nyonya keluarga konglomerat! Nyonya ini malah menawarkannya setengah harta miliknya supaya Mo Rae menjalani kehidupan nyonya itu.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/I%27ll%20be%20Your%20Wife%20-%20Jho%20Hyo%20Eun.pdf"
-    },                 
+    },                   
     {
       "id": 494,
       "name_category": "Pustaka Novel",
@@ -489,7 +660,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA-kDdgpsDgPUoa4S3a7rnMA82RwF-d0DqtOWIZ9HBeHJi8FySiEJjVlputZpeumb44MD5JB6OilkRLIGv3KpXPBP8fjzWS7pkcO4v86ksh9l37dKdNIvkuLUSlGZYFiGRq1deH1p-DB106jqAhJTBnJR9vmq8fZG1UCMwoV-xACF8PN-getV_-0YS26Ef/s320/0506.webp",
       "description": "  Kisah kehidupan keluarga March yang mempunyai empat orang putri, keempat gadis ini berusaha meraih impian masing-masing di tengah kondisi keluarga yang berat dan tengah ditinggal sang ayah yang harus ikut berperang.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/Gadis-Gadis%20March%20%28Little%20Women%29%20by%20Louisa%20May%20Alcott.pdf"
-    },                    
+    },                 
     {
       "id": 493,
       "name_category": "Pustaka Novel",
@@ -498,7 +669,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatMDxGVAeL49nQ5bYWSxFqyBHwibgDfFKfzEg44OMlHY3AHrRVN8FI8uDq3RohnlK8EEuAF9Dai0Pd_JT4sC2CtGAxBSmC6W5ElbjPUCrCIOWhwjiFKu8pEmMR6htBYJ7Dg6kOLa1bLiXF_qYX0zFvI2zU3xgD8Fm8B-3XWoTfaCNiSrl5fUgkrcrr36n/s320/0512.webp",
       "description": "  Kisah tentang seorang anak indigo yang harus bertemu dengan makhluk halus. Berdasarkan kisah nyata, mengajak pembaca untuk mengalami bersama dalam menghadapi berbagai keusilan makhluk tak kasatmata itu. Ketika mereka berkata 'Kami pernah nyata'.",
       "link": "https://ia802702.us.archive.org/18/items/15072023nov_202307/B/Catatan%20Indigo.pdf"
-    },                   
+    },                     
     {
       "id": 492,
       "name_category": "Pustaka Novel",
@@ -507,7 +678,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmspgM-yuOk5zSqZOziaCPjWXfagRNokS7jINc8_rmqa07LuKJoG0x7YRvdJ9XfAmD5llnTjU4rco-7J7LIRsdcI7dLJ7WIwNN1yw4vwPOT_enpbAVZvNWZY5kzwzIEPPEAy65JOx1Y9T3EIJJlBS8Tq4ce046TPSxR9lTsJKKITP-G2_VLAEZwi57aMz4/s320/0518.webp",
       "description": "  Kisah wanita yang mendapat penglihatan supernatural seperti cenayang, momok yang menjulang di balik kegelapan, pertemuan dengan dewa-dewa, pesan-pesan menyeramkan dari Dunia Lain, bahkan kisah pria yang bertukar tubuh dengan seekor kucing.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/Agatha%20Christie%20-%20Yang%20Terakhir%20%28The%20Last%20Seance%29%20%281%29.pdf"
-    },        
+    },                 
     {
       "id": 491,
       "name_category": "Pustaka Novel",
@@ -516,7 +687,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEOg4Sa4Uv_IyO0adSsYNBzCBB0rD63OQ_bu90LGQxEPbBf_8lYVJdBVvdq4WioSM8tcgupq9Pzt6X6tzkifvgt8KADTx4mQVEMx7d5EA9whoLujYqGsvjmT5V-C0eB4CnP246fCqYvrdYtUReHsqGpwA0gYxf7xXyArtbMDrXukSQhRSdYQZGgIrAx7ze/s320/0519.webp",
       "description": "  Apakah anda pernah memikirkan tentang bagaimana seseorang bisa melakukan hal yang benar, tetapi hal yg benar tersebut belum tentu baik? Begitu juga sebaliknya, ternyata hal yg baik juga belum tentu benar. Lantas, apakah kita harus memilih untuk melakukan hal yang benar atau hal yg baik?",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/Absolute%20Justice%20by%20Rikako%20Akiyoshi.pdf"
-    },               
+    },            
     {
       "id": 490,
       "name_category": "Pustaka Novel",
@@ -525,7 +696,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheoqoiQDftjXoiWp4Ln27ifVXNiXTrMKUBYwZa1LRFcfCOmDCMREXBMnvUPSE24CO2sLP-76411qDReBrFn9CLUticAjpE-7YIshS9AQxJaWkOUesLm7Cx_L0NOSxFqfIenbjS6yYKEfFYWEhg2KJMdQcAPZXg0uBDt-qdkj7NrcqCUcdB1gk7oTMyCRzc/s320/0520.webp",
       "description": "  Pertemuan Edward & Bella serta menggambarkan bagaimana kisah cinta mereka terjalin dari sudut pandang Edward, sang vampir. Detail masa lalu serta benak Edward yang rumit semakin menunjukkan mengapa cintanya pada Bella merupakan pertentangan hidupnya yg terbesar.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/19f6edf5-67ad-4c5c-b50c-fd2a6569686e.pdf"
-    },              
+    },               
     {
       "id": 489,
       "name_category": "Pustaka Novel",
@@ -534,7 +705,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4NoiobR-NdPNzJX0bJZmgA3lyutB8AAGAyCbGJcciudwehlxiqnhqbr4ezH3hIgk5kJjHc2MJKFXqdNRXzQB41BWAlj-vDxWBQeHwTPGHPPhCyGGTp4HFVLlUeVD_zsPPhQfvwKSSXYy_yYUneUGwymeC602XAuPOm1706Hof9gVva3jWuRV2O4FMBoyy/s320/0522.webp",
       "description": "  Setelah bentrokan terjadi di waduk yg mengakibatkan tragedi massal, salah satu petugas keamanan tersebut ditahan atas tuduhan pembunuhan, Choi Seo-won hidup di balik bayang-bayang kejahatan ayahnya yang mengejutkan, apa yg sebenarnya terjadi di Danau Seryeong.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/7%20Tahun%20Kegelapan.pdf"
-    },                
+    },                  
     {
       "id": 488,
       "name_category": "Pustaka Novel",
@@ -543,7 +714,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNPU4CkYGEQeH0dxxdIlZmRg4jS7ZkcXOAgqE98_zdjRautv5Inj48G_bIYBI4ZmMaKm5ifbKRpM-F6aOI0XSIuAuSdsur5puOPXS7XchiRG8QdZb3Qui6ykgM4hDX2_jTZ2NwRuLM_iCKYQ1bD0MCwCp-0HSRrrTR1x5PXvxMDmVtnWgbel8y1yHwrJ-/s320/0523.webp",
       "description": "   Kisah romantis dalam sebuah perjanjian jangka pendek! Yoo Shin He, mantan pacar Kim Geon Hyeong yang cantik dan kaya raya, bertekad untuk membuat Kim Geon Hyeong sadar bahwa ia tak bisa hidup tanpa dirinya. Ia memasang iklan di surat kabar nasional.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/4%20Ways%20to%20Get%20a%20Wife%20-%20Hyun%20Go%20Wun-1.pdf"
-    },         
+    },          
     {
       "id": 487,
       "name_category": "Pustaka Novel",
@@ -552,7 +723,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL5LhsFfyqinukPGJfcucOHahg2tha26EIvxx7YI-ImMmqJn0Tp8YkyNe5s4TFPK0JSn-9kMg_alTdz0vezVT9_Lx24GC5Uiy4EEMc09xnzaeeOZ_mec8XtU6M49yKTwwW0h2ax0KV_tq0DoRU6OtGcqdWzQUiKDzH4O0e0xFGUhjK_9_3X_vhbejiiChh/s320/0521.webp",
       "description": "   Kasus pembunuhan ganda yg belum terpecahkan sudah menghantui Polisi selama hampir 20 tahun, sepertinya pembunuh yg sudah bersembunyi sekian lama itu muncul kembali, memancing para polisi dengan surat kematian yg mengumumkan nama korban beserta tanggal eksekusinya.",
       "link": "https://ia802702.us.archive.org/18/items/15072023nov_202307/B/14e8741d-02ef-4051-9a1c-43f270a4c422.pdf"
-    },          
+    },                 
     {
       "id": 486,
       "name_category": "Pustaka Novel",
@@ -561,7 +732,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI0Tvd6nwwe-c9kVhtUWNJIOuWyccaUIaz0CQt4D-LCLpn1-cYN-E80bIFpuWLDtnBQylLOJm1zyaKaK_BVlar4gJSKlFrsOygHoBk7Sne4sOZStxD3vXuUG6IDiCnKZJxGUb42upVGkldujInQyPLPjSd6Z2r_SCI9fVLkSaVimlTDkVCY_5ZcZN2VQXD/s320/0524.webp",
       "description": "  Ketiga remaja ini melakukan perjalanan yg penuh bahaya, tahu bahwa nyawa merekalah taruhannya. Jika bisa bertahan hidup sampai ulang tahun ke-18, mereka selamat. Tetapi, ketika setiap bagian tubuh mereka, dari tangan sampai jantung, diincar dunia yg menggila, 18 terasa amat sangat jauh.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/0f1b021c-8a89-46a9-bd51-95d9106b34c7.pdf"
-    },               
+    },          
     {
       "id": 485,
       "name_category": "Pustaka Novel",
@@ -570,7 +741,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV_uJ5vqnOmMU47EWyQxZrOQk3FUvieykcTHmf1cxQCoe2JolNPR_dozHKohsZZh1btOska3ircnrr0hnJo2z0oGsZujjGcWRAHTKnSK7-ouucKvyc_1soroAbKRH9_kiytXso-m6IrlBgGBt1-nDUMOm2I_RIpLeV9kMzW2nWaNuKFfj3HhLPxa8Ge7Pk/s320/0525.webp",
       "description": "  Badai mematikan telah merusak tanah kelahiran Mina selama beberapa generasi. Banjir menyapu seluruh desa, sementara perang berdarah dikobarkan untuk memperebutkan sumber daya yg tersisa. Masyarakat di desa Mina memercayai bahwa Dewa Laut mengutuk mereka dengan kematian & keputusasaan.",
       "link": "https://ia902702.us.archive.org/18/items/15072023nov_202307/B/%5BID%5D%20The%20Girl%20who%20Fell%20Beneath%20the%20Sea.pdf"
-    },       
+    },              
     {
       "id": 484,
       "name_category": "Pustaka Novel",
@@ -606,7 +777,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghsPMWkriznTosZYSyAOLu20TGDW6UKlKs2HgyDSvznzXqAH7gYq3Eejm7O4HLPxgmQodW86sRhwPEp4Xk9WyV4Q9vIT8J44Iz9eG7TAJ1W2I9-TnvRmCD_wHQEF-WtnfBWYJZnnIcZwKMgzksaOD1bgR9XPC4W7fHwyLGfmx2w80Zt0lIE-vTT-pzAo_3/s320/0484.webp",
       "description": "  Kanya tidak merasa yakin dengan keseriusan Hilman. Karena hingga bulan-bulan selanjutnya pun, belum ada lamaran resmi dari Hilman kepada keluarganya. Hilman masih terlihat santai, sementara Kanya merasa was-was bagaimana nasib percintaannya kali ini, apakah akan berakhir bahagia?",
       "link": "https://archive.org/download/15072023nov_202307/15072023nov/HappyEnding"
-    },
+    }, 
     {
       "id": 480,
       "name_category": "Pustaka Novel",
@@ -624,7 +795,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5v9Ig6qTjb-IDudRte6MvHwhnA93AC2xwZ2yi8RPy-mjsNgZS93Lj_SMlkqThS0CZ3lgTNC6SfrsIT-vXZOfNmCp2_CB3ZcAIGHP762cxKiR9lXbDZah6kg_I0Cp7T_frb2ZN0x9JBdDCeonZq76MQLnmwnKWQPi8ZIuEVjbVrxwIu7rP1XHYL3RLYRTZ/s320/0478.webp",
       "description": "  Dengan latar belakang pengalaman berwirausaha selama di Mesir, Azzam pun tidak patah semangat untuk membangun usahanya sendiri. Tetapi bagaimana dengan menikah, hal yang selalu disinggung oleh ibunya. Wanita yang ia dambakan, Anna Althafunnisa telah dipinang sahabatnya sendiri.",
       "link": "https://ia902708.us.archive.org/23/items/Nov13072023/Habiburrahman_El_Shirazy_Ketika_Cinta_Bertasbih_2_2007_425_2990.pdf"
-    },
+    },  
     {
       "id": 478,
       "name_category": "Pustaka Novel",
@@ -651,14 +822,14 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaiXRxJXn2a-EnTypG3vtWkj_RWX674-KlbvcRwfv6GzCMLmb1DXu1yR4it_YCVreAs6_Q4gt_kbEe3W09_-vTscMPCYV8CxSpL9pSAUTvhG4n5kM3q1wZnbQ691E3f049gufUUfJaCZq3byVsrDur7NHZ-Bm7chh49ZHCv3F8Og6jkCA9D7K37Y6K1pom/s320/0476.webp",
       "description": "  Mengisahkan tentang seorang remaja muda cantik yang harus memilih cinta, saat tiga pelamar bersaing untuk mendapatkan hatinya, Ayna pertama kali diperkenalkan kepada Gus Afif, dan pertemuan pertama itu mampu membuat hati keduanya bergetar.",
       "link": "https://ia902708.us.archive.org/23/items/Nov13072023/Habiburrahman%20-%20Bidadari%20Bermata%20Bening.pdf"
-    },
+    }, 
     {
       "id": 475,
       "name_category": "Pustaka Islami",
       "title": "Agar Doa Dikabulkan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyBxzjwKteQJrDA9nLVJr3S42ZR4JE2f0tHy31FkEfirLfFh3x-OvG-qy_4RfIeVYoirFF1-hENLpoHZctEywmNXkwZ9686cuvrpu25eUvQT06zJfZCs1TQPIfIHxKJ6LYxV08ICm_4_VWYrJUmDBB603LzCn6D5tpnaubn4mpLrz3elXnToxMcV507f8c/s320/0475.webp",
-      "description": "  Membahas tentang sebab-sebab terkabulnya doa dan juga mengapa doa dapat tertolak. Doa merupakan ibadah yang agung, sebagai seorang muslim hendaknya mempelajari adab-adab dalam berdoa agar doa dan permohonan kita dapat dikabulkan oleh Allah ta'ala.",
+      "description": "  Membahas tentang sebab-sebab terkabulnya doa dan juga mengapa doa dapat tertolak. Doa merupakan ibadah yang agung, sebagai seorang muslim hendaknya mempelajari adab-adab dalam berdoa agar doa dan permohonan kita dapat dikabulkan oleh Allah ta’ala.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Agar_Doa_Dikabulkan_Berdasarkan_al_Quran_as_Sunnah_by_Said_bin_Ali.pdf"
     },
     {
@@ -678,7 +849,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWukJ-QJX01RrRIq0hpibABM78WvFxig17MPk4YXXPiM-4tNQFGwL8d0jPsB5TM9oXxM19A3-cn5FyA882aezLBiJKxRBSIkJl7ctMZcYpM6SyihobptukiUgpHhCRQuVcnkkiau8I-KvVWBn2nfld0qWiO7MPTY5iLtDJrGX9IN2WI-BiwYkXLUZbpchq/s320/0473.webp",
       "description": "  Pertemuan tokoh utamanya yang merupakan seorang pilot dengan seorang pangeran cilik yang berasal dari luar angkasa. Mereka bertemu di tengah-tengah Gurun Sahara.",
       "link": "https://ia802707.us.archive.org/25/items/08072023nov_dp1/17072023file/Antoine%20De%20Saint-Exupery%20-%20Le%20Petit%20Prince%20%28Pangeran%20Cilik%29.pdf"
-    },
+    }, 
     {
       "id": 472,
       "name_category": "Pustaka Novel",
@@ -748,7 +919,7 @@
       "title": "80% Kosakata Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1I_Bn7JxvdmX-sKoWhiFY3dNrBeOPmKONUv94u7RLsZJ4AuLB9YGjU7qL5kOfVm6DUvL-i--eDUjtNibgAaMxdNKxslGcfvLnrUaLCr3cCIZAUd7wI6wu0dmo9tENG-C1pwoICQlkpxDml-rRuijh84oGoRSi8RpoMnKouQgkH5ii1y5tSXtdnE1Kc94X/s320/0460.webp",
-      "description": "  Membantu Anda dalam memahami Al Qur'an dengan menghafal kosakata penting yang sering diulang-ulang dalam Al Qur'an & sangat bagus untuk kamu para penghafal Al Qur'an, yang sedang belajar Al Qur'an dan siapa saja yang mencintai Al Qur'an.",
+      "description": "  Membantu Anda dalam memahami Al Qur’an dengan menghafal kosakata penting yang sering diulang-ulang dalam Al Qur’an & sangat bagus untuk kamu para penghafal Al Qur’an, yang sedang belajar Al Qur’an dan siapa saja yang mencintai Al Qur’an.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/80_Kosakata_dalam_Al_Quran_Kamus_Kecil_by_Dr_Abdulaziz_Abdurrahim.pdf"
     },
     {
@@ -772,7 +943,7 @@
     {
       "id": 462,
       "name_category": "Pustaka Al Qur'an",
-      "title": "40 Kumpulan Ayat Ayat Al Qur'an Populer & Sering Dibaca Imam",
+      "title": "40 Kumpulan Ayat Ayat Al Qur’an Populer & Sering Dibaca Imam",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzVxNWE3bvIbpZwCt69rWntN2ZsxU7pp0xKh-PWGJw-WrkBIcFyNo2uDZ88cSTddvnoec9INRcMjNYdEC6lKYt7prsp49G-VDseWiargIky-0bJpkdk1FqYcdcWY650sEbo_fpjpBi3WWhzwaXU7kcpY-yaIaF_v-9VLQ45gECyfmfzgPyU-QKNAptoF7n/s320/0462.webp",
       "description": "  Inilah 40 lebih ayat-ayat Al-Quran yang sering dibaca imam dalam solat. Ayat-ayat ini sering dibaca karena kandungan isinya yang bagus. Ini referensi berharga untuk kita hafalakan dan amalkan dalam Shalat.",
@@ -820,7 +991,7 @@
       "title": "19 Kaidah Menghafal Al-Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXGa-wHdYjxaYRyxRhoun_oqmQig5r0Ob7_w0_UdCu-qJA0hezKPFzoyMCuY_XPQcbA3RIsW-fEf1I-pxtZRUC_BlZ4Me6MFqS0VH9A44oUMS2igvjkwLJySizuBW_j7fE_3QX6VI6pNnBXFKws0EhzijsCRRp6ACUv5jWLpqV0B7PfZF7BZxIjVIj5Mfa/s320/0457.webp",
-      "description": "  Terjemahan dari buku Kaifa Tahfazh al-Qur'an yang dtulis  oleh Yahya al-Ghautsani, Keikhlasan niat, jujur dalam menghadapkan diri kepada Allah SWT, tujuan yang baik dan menghafal karena Allah dan mencari ridho-Nya merupakan rahasia meraih taufiq (pertolongan) dalam perjalanan mencari ilmu.",
+      "description": "  Terjemahan dari buku Kaifa Tahfazh al-Qur’an yang dtulis  oleh Yahya al-Ghautsani, Keikhlasan niat, jujur dalam menghadapkan diri kepada Allah SWT, tujuan yang baik dan menghafal karena Allah dan mencari ridho-Nya merupakan rahasia meraih taufiq (pertolongan) dalam perjalanan mencari ilmu.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/19%20Kaidah%20Menghafal%20Al-Quran%20by%20Tim%20Penyusun.pdf"
     },
     {
@@ -955,7 +1126,7 @@
       "title": "Ketos Galak",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl7gdwMc0V7teu6HI6hJTVpKMpsR4DCeQo5D-TZFCA4de3dRj29yd73_nCQdfHOwt3cH3NPtaKk9coguQIxkoaLm152ehrbRYp8tFTDrm6C6bDVe5o1fP_tkXdfp2WjNLTjZfhWBi2yOj_AryklGf3HgYDOX06HB2r1GfvYDclM7YxuLXvS8sT06vtDwjN/s320/0443.webp",
-      "description": "   Siapa sih yang nggak mau jadi pengurus inti OSIS? Satu sekolah bakal kenal, "Oh, dia Shahia Jenaya? Sekretaris OSIS Angkatan 72?" Seenggaknya itu yang ada dipikiranku ketika terpilih menjadi pengurus OSIS SMA Adiwangsa.",
+      "description": "   Siapa sih yang nggak mau jadi pengurus inti OSIS? Satu sekolah bakal kenal, “Oh, dia Shahia Jenaya? Sekretaris OSIS Angkatan 72?” Seenggaknya itu yang ada dipikiranku ketika terpilih menjadi pengurus OSIS SMA Adiwangsa.",
       "link": "https://ia802707.us.archive.org/25/items/08072023nov_dp1/upload3/Citra%20Novy%20-%20Ketos%20Galak.pdf"
     },
     {
@@ -964,7 +1135,7 @@
       "title": "Hello Mello",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB0b2mXSmBNq5CcRtNUat74xyWJD-RenOWicLFiN5s2_oowRMVWlB8XY21-lWUL9fKcx4gCRtrSmIaON9N1PbGAAvOo0g5DB_OStMnjcPjQ65Q73ZPcd9nsFO8ocM9kN30VwBw9AAuvSvMzYmtU-3W6Y6i8QfHpFHcwZxoxbAunWsRBd08aI7C7QExMiuh/s320/0444.webp",
-      "description": "   Arin yang melihat Adra sebagai cowok paling ganteng, lucu dan bercahaya kayak karakter - karakter di Webtoon. Namun, sejak Jejen membacakan surat balasan untuk Adra di depan kelas, semua itu berubah, Arin jadi membenci Adra karena menolak cintanya.",
+      "description": "   Arin yang melihat Adra sebagai cowok paling ganteng, lucu dan bercahaya kayak karakter – karakter di Webtoon. Namun, sejak Jejen membacakan surat balasan untuk Adra di depan kelas, semua itu berubah, Arin jadi membenci Adra karena menolak cintanya.",
       "link": "https://ia902707.us.archive.org/25/items/08072023nov_dp1/upload3/Citra%20Novy%20-%20Hello%20Mello%20%28%29-395-6089.pdf"
     },
     {
@@ -1447,7 +1618,7 @@
     {
       "id": 388,
       "name_category": "Pustaka Novel",
-      "title": "Geez & Ann #1: Rintik Sendu",
+      "title": "Geez & Ann #1: Rintik Sedu",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2MHEXEvdoEljeVNYaCdXQ-DeBP_dYHsW9Ndwu_VBdwDl5ArVA6rzbA-CWFF8E8d0Kh7Tdg7MstJp2hc2RAzDzH-p4bNRgm1V4RjibRFlXOjgUa_9TpiBYvrdbyNQ-ZN1pghyumex6KiLp4UGzfyzd0850G_0OOgUe7tlzOad3WRCUiasIXHjjRY961vF7/s320/0386.webp",
       "description": "   Kisah seorang laki-laki dan perempuan bernama Geez dan Ann yang saling jatuh cinta. Hubungan keduanya dipenuhi banyak mulai dari jarak hingga perpisahan.",
@@ -1456,7 +1627,7 @@
     {
       "id": 387,
       "name_category": "Pustaka Novel",
-      "title": "Geez & Ann #2: Rintik Sendu",
+      "title": "Geez & Ann #2: Rintik Sedu",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio_pGvMpPV-ILamyvP1d4NrPrIha4xIcwVgyEpoTMBPT0-EJau1WmltzJ99Xqr4YLl7Czeoucif3iY89Pi4qB_liInXL3HqehRh7GLsgvoRS61Dr6MgpbVRm8W9myWEUmqyI1h-PbGDHYZVJNKxwLmArEg6zcjaVVTlBTw9jHU8wb-TuDD5mpYRySD-oZw/s320/0385.webp",
       "description": "   Kisah seorang laki-laki dan perempuan bernama Geez dan Ann yang saling jatuh cinta. Hubungan keduanya dipenuhi banyak mulai dari jarak hingga perpisahan.",
@@ -1492,7 +1663,7 @@
     {
       "id": 383,
       "name_category": "Pustaka Novel",
-      "title": "Season To Remember",
+      "title": "Seasons To Remember",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaje96bg5FHpfQzmXdrXpYG0jodO_DXGEtOM989BpDusuFYdWTdR0LOHTdNMu-xKAfsiVVcs-43_fPXQ-qmR5jFnA4jiJ3_lCmrrmtL5Gcm1xHyde3SeNxXTtCI8gC-CiApndpQBIQwiBkU2mznqOIcIhanXgwTd1ML9wcUC3RnJYNcRk0lhEdxNGYQT5Q/s320/383b.webp",
       "description": "   Jantungnya berdebar dua kali lebih capat setiap kali ia bertemu pandang dengan Jung Tae-Woo atau bila laki-laki itu tersenyum kepadanya. Entah sejak kapan juga ia mulai suka mendengar Jung Tae-Woo bernyanyi. Matanya kini tak dapat lepas dari sosok Jung Tae-Woo yang bernyanyi sambil memainkan piano.",
@@ -1654,7 +1825,7 @@
     {
       "id": 366,
       "name_category": "Pustaka Komik",
-      "title": "Hati Baja #9: Penasihat Wilayah Beraksi",
+      "title": "Hati Baja #9: Penasihat Wilayah Beraks",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWkipPyUHGgtC8c-8GD5C4Jiah5ZbZvJ2gqQGAmnSQzl2T06XuYaQ3Ruq6C8W0zL9PlaDdME1ocvYHTKpSO3CAuif10SiSDScynM2eolMO-uEY82bT58PNuSZWQ0swqPguXAy0KD-jaU-xvjMSvmTaYVIk7PKkRY_ixtGDKZD4M6Goi8qwvMxNd0O7KyLb/s1600/hb9.webp",
       "description": "   Sebuah komik yang sarat dengan kearifan lokal, mengangkat berbagai hal klenik di Indonesia, seperti pesugihan, santet, dan bahkan jajaran hantu (jin) Indonesia, yang kemudian dihadirkan dengan gambar dan alur cerita yang menarik. Sebuah karya yang sayang untuk dilewatkan!.",
@@ -1694,7 +1865,7 @@
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghdfBYE-AoztgoXKVylZ4DwCIQjZFhzzdsnXWqm41A4KE7TZmyGnuZA9Ufn3plFM67ijoYcJK3zpQ_XDyXKP8lnLGjtpxt9_HOlsrm_dUw2ieoAol2DGHsMar-p7vQu8xjKR6rjBBkva5G9tWT101-DL0xQnwkV-DkxSFqqcY6bTHy3A6Ag_bIiFsi2Iwo/s1600/hb5.webp",
       "description": "   Sebuah komik yang sarat dengan kearifan lokal, mengangkat berbagai hal klenik di Indonesia, seperti pesugihan, santet, dan bahkan jajaran hantu (jin) Indonesia, yang kemudian dihadirkan dengan gambar dan alur cerita yang menarik. Sebuah karya yang sayang untuk dilewatkan!.",
-      "link": "https://ia902603.us.archive.org/24/items/upload_dp05072023/ep5_Compressed.pdf"
+      "link": "https://ia902603.us.archive.org/24/items/upload_dp05072023/ep5b_Compressed.pdf"
     },
     {
       "id": 361,
@@ -1810,7 +1981,7 @@
       "title": "Jadilah Al Qur'an Berjalan Di Bumi",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoMDyixSgOZDm9ArIi1rqEU3rmX59orpi8I54P8fbtO4HKStNyP-2fQSx6Zr2xYH-6RJap0Xq2n2qGGzxie2yqvSfX3Wcdf2Zg_xlVJzf0sAriBlFhpXT17DDjIItQ_jtwsKqsCZsuqDZ5k6tC8ybtR_5fKLhyR0nas2TmRt7811nfR3NMc6I1WLQreXmk/s320/0347.webp",
-      "description": "   Mereka hidup sesuai dengan perintah al-Qur'an. Mereka makan, minum, dan tidur sesuai dengan al-Qur'an. Mereka mengeluarkan hasil bumi juga dengan al-Qur'an. Mereka berwibawa di hadapan musuh mereka.",
+      "description": "   Mereka hidup sesuai dengan perintah al-Qur’an. Mereka makan, minum, dan tidur sesuai dengan al-Qur’an. Mereka mengeluarkan hasil bumi juga dengan al-Qur’an. Mereka berwibawa di hadapan musuh mereka.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Jadilah_Al_Quran_Berjalan_di_Bumi_by_Fauzi_Muhammad_Ab%C3%BB_Zaid_Decryped.pdf"
     },
     {
@@ -1819,7 +1990,7 @@
       "title": "Jalan Cinta Sang Sufi",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFD0lyUl6rSAJp1GRZFdLtwTV8F4CD7Uv-XBD7TF9H3TpQ2UY4XxpSf-7r8fzHQSeJvZOcmaU5vMTxygEdWuNQzLK7nuy1qH9rUqW55W0y1AKdXGicwTRawKLxbd2RlWaD3o4v71o2vv3n_yJLz5ooZlxP5eddcUFMd8uEgQmiVjxkpe_ZmfCxM9cpslgW/s320/0364.webp",
-      "description": "   Menyajikan ajaran-ajaran Sufi Islam mengenai Tuhan, dunia, peran manusia dalam alam semesta, kebutuhan akan agama, ahwal dan maqamat yang dialami kaum sufi dalam perjalanannya menuju Tuhan, serta simbol-simbol yang digunakan dalam sastra sufi, untuk mengungkapkan realitas yang tak tampak.",
+      "description": "   Ajaran-ajaran Sufi Islam mengenai Tuhan, dunia, peran manusia dalam alam semesta, kebutuhan akan agama, ahwal dan maqamat yang dialami kaum sufi dalam perjalanannya menuju Tuhan, serta simbol-simbol yang digunakan dalam sastra sufi, untuk mengungkapkan realitas yang tak tampak.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Jalan_Cinta_Sang_Sufi_Ajaran_ajaran_Spiritual_Jalaluddin_Rumi_William.pdf"
     },
     {
@@ -1918,7 +2089,7 @@
       "title": "Kedudukan & Peran Perempuan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBQQOekOtNMSYowtpX3YKT6kQJS9l1CvBTEKaN4Y3w4onWoHKp9QnY8dE2F6ZaBVkOMFGUcagzgk8m85Zh4FuHjUcGqEbVDhvLGpItM0PGJdA5pC_AhzhOAXPVho0K1nLD2SbmI0KEXyxAR8EPfcPcCW5tmJFVPl8Ii3d_OMAbVQJFWStDYUxg4d_grlS9/s320/0337.webp",
-      "description": " Persoalan yg menyangkut perempuan benar-benar mendapat perhatian yg serius dalam sumber-sumber syariat Islam. Al-Qur'an maupun sunnah menyebutkan tema perempuan di banyak tempat. Bahkan sejumlah nama surah dalam Al-Qur'an diambil dari nama perempuan/masalah perempuan.",
+      "description": " Persoalan yg menyangkut perempuan benar-benar mendapat perhatian yg serius dalam sumber-sumber syariat Islam. Al-Qur′an maupun sunnah menyebutkan tema perempuan di banyak tempat. Bahkan sejumlah nama surah dalam Al-Qur′an diambil dari nama perempuan/masalah perempuan.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Kedudukan_dan_Peran_Perempuan_Tafsir_Al_Quran_Tematik_by_Tim_Penyusun.pdf"
     },
     {
@@ -1963,7 +2134,7 @@
       "title": "Kesehatan Dalam Perspektif Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidholrxys_5wi9yzU4webytiR5_IRMUVuevojI1_R6BtHoDxnMGEUjZiJE1sDESelGDS56ykO4D70eXXEBbNg2C4ifF8bRtxbxA9WwwF8deozNUIvtaXgGSgjh7rkonytFSgRRNqnx5CLe6kiDrEqwXqEAkpFNuhplE7pO0xo30w7g4ujqQQ7X00oO3pnq/s320/0332.webp",
-      "description": "   Profesi Medis sangat erat kaitannya dengan profesi spiritual. Karena manusia tidak hanya terdiri dari jasmani saja tetapi manusia terdiri dua unsur yaitu jasmani dan rohani, Jasmani, apabila sakit maka yang menyembuhkan adalah dokter dan tenaga medis.",
+      "description": "   Profesi Medis sangat erat kaitannya dengan profesi spiritual. Karena manusia tidak hanya terdiri dari jasmani saja tetapi manusia terdiri dua unsur yaitu jasmani dan rohani, Jasmani apabila sakit maka yang menyembuhkan adalah dokter dan tenaga medis.",
       "link": "https://ia802600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Kesehatan_dalam_Perspektif_Al_Quran_Tafsir_Al_Quran_Tematik_by_Tim.pdf"
     },
     {
@@ -1972,7 +2143,7 @@
       "title": "Keutamaan Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV-V0qGdKReMgS2q6OsnwI2nVmXOuhdKSuqTO_5bzFp33w59_16KFQLil95HPTxb4cT07gMXUgm7mGjHvbciHzBcxmdXm3PeBNdB43tcUizUDEMnpv6LYWd_DuYS8hxfhT0Zx2CWqRZlojyAErXb1cZtyqkVvecMJw4O5pMjj2l8teRK4wqZ0ATsMGYAD4/s320/0331.webp",
-      "description": "   Cukuplah menjadi bukti bahwa Al-Qur?an itu memiliki keutamaan dan kemuliaan, ketika ia merupakan Kalam (perkataan) Allah Subhanahu wa Ta'ala yang Maha Mengetahui, Maha Bijaksana, Maha Berkah lagi Maha Tinggi. DariNya ia diturunkan dan kepada-Nya pula ia kembali.",
+      "description": "   Cukuplah menjadi bukti bahwa Al-Qur‟an itu memiliki keutamaan dan kemuliaan, ketika ia merupakan Kalam (perkataan) Allah Subhanahu wa Ta'ala yang Maha Mengetahui, Maha Bijaksana, Maha Berkah lagi Maha Tinggi. DariNya ia diturunkan dan kepada-Nya pula ia kembali.",
       "link": "https://ia802600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Keutamaan%20Al-Quran%20by%20Prof.%20Dr.%20Mahmud%20al-Dausary.pdf"
     },
     {
@@ -1981,7 +2152,7 @@
       "title": "Keutamaan Membaca & Mengkaji Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM42dxXe-GbylGtAgchghGHCDAimJB48NP570ZtUMOWxjEqI7JXvUkkAGPCBpDRcjzwMzh6prCulyfUH_qg8ArfRbwscw7ZB5A9JEzG1_SFjt1BW9fjexcowveOwOx5u7nuvfxxH09GHYUUo20pzFO0yLAtgGpVD-_Mg72GycSnUh7qJ74ICuHc4lkl5B/s320/0330.webp",
-      "description": "   Membahas perkara-perkara yang sangat penting diketahui oleh setiap orang Islam karena kitab ini membicarakan berbagai hal yang berkaitan dengan adab kita menjalin interaksi dengan kitab suci kita -AlQur'an al-Karim.",
+      "description": "   Membahas perkara-perkara yang sangat penting diketahui oleh setiap orang Islam karena kitab ini membicarakan berbagai hal yang berkaitan dengan adab kita menjalin interaksi dengan kitab suci kita -AlQur’an al-Karim.",
       "link": "https://ia802600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Keutamaan%20Membaca%20Mengkaji%20Al%20Qur%27an.pdf"
     },
     {
@@ -1999,7 +2170,7 @@
       "title": "Kisah Inspiratif Para Penghafal Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm3b4ZcebIF1OzwDr5rJi_1YPb1poNtlLPl0BdFKGH55tCufp-zpOLJx25vWBjwn5Ad4GmXTJiqBwi7m67zG2E94R9iPtIGVN3BzUddpgP0fVjqY0kZBoBfuPKg8qR5kJUBPdeEh77mrm4aHBojvS0cWtdWIyXVbhGEMZNrPjNL3nCftc8lpZWPD5glD4X/s320/0328.webp",
-      "description": "   Seorang muslim wajib bangga dengan Al-Qur'an yang merupakan sumber kemuliaan dan kebanggan kita, pondasi kekuatan kita, sebab-sebab kewibawaan kita, serta faktor kebahagiaan dan kelapangan kita.",
+      "description": "   Seorang muslim wajib bangga dengan Al-Qur’an yang merupakan sumber kemuliaan dan kebanggan kita, pondasi kekuatan kita, sebab-sebab kewibawaan kita, serta faktor kebahagiaan dan kelapangan kita.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Kisah%20Inspiratif%20Para%20Penghafal%20al-Quran%20by%20Tim%20Penyusun.pdf"
     },
     {
@@ -2026,7 +2197,7 @@
       "title": "Komunikasi & Informasi",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyin-nHlS9Q9I3ZgYLlQYghLI7kliRJIfxDH_8ORZBpyqdgREboPl7f3AGsDaLomlFFDxxHlLAZOxA8BOK7UAIDjsg_ii1y_726yJ0YA5Iyr7T6WbEcpWM0O5DmAxBYf5Ql3fZbjvObS3bAK15907WEAnmVzppNCOT30NuAmmRrozXaxfBAbDiqRoowp4G/s320/0325.webp",
-      "description": "   Melalui metode ini, seolah penafsir/mufassir tematik mempersilakan Al-Qur'an berbicara sendiri menyangkut berbagai permasalahan, sebagaimana diungkapkan Imam 'Ali, Istantiqil-Qur'an ajaklah Al-Qur'an berbicara.",
+      "description": "   Melalui metode ini, seolah penafsir/mufassir tematik mempersilakan Al-Qur'an berbicara sendiri menyangkut berbagai permasalahan, sebagaimana diungkapkan Imam ‘Ali, Istantiqil-Qur'ān ajaklah Al-Qur'an berbicara.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Komunikasi_dan_Informasi_Tafsir_Al_Quran_Tematik_by_Tim_Penyusun.pdf"
     },
     {
@@ -2062,7 +2233,7 @@
       "title": "Manajemen Halaqah Efektif",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUn0uyEiE-scqL-1qV3KrtETwnKzsTe7xNtoge1Kb6On2TKDg-_-SE_lGknRqBrqTujylz4DqTfucZ2ty98cZ0HG6peaRckDOQkCa9LdXeS2aHwUFu3m5Z8D3MwFGtAkGCSErKeHuN_a8Ua0l-Ph7kXJaiwRIroQ_I7Y0VkwptGl7LXutSBNCNLXooQuL/s320/0320.webp",
-      "description": "   Buku ini didedikasikan untuk murabbi dan murabbiyah yang memegang binaan pemula, pendukung, atau mereka yang ingin memulai membina, dan insya Allah para naqib serta naqibah yang menginginkan halaqahnya efektif agar bergairah dan produktif.",
+      "description": "  Buku ini didedikasikan untuk murabbi dan murabbiyah yang memegang binaan pemula, pendukung, atau mereka yang ingin memulai membina, dan insya Allah para naqib serta naqibah yang menginginkan halaqahnya efektif agar bergairah dan produktif.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Manajemen_Halaqah_Efektif_Agar_Halaqah_Menjadi_Bergairah_%26_Produktif.pdf"
     },
     {
@@ -2071,7 +2242,7 @@
       "title": "Manasik Haji & Umrah Rosulullah S.A.W.",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirt6nT3k2QY9NDAm2chxAOgz1te5MqFT_U8QpnH8QJHkHJpnBOeaE1KIHruue1Ra8w9X7YiLdDDpCwPRJ3scT2tmPH7kKokF6S4gs-MvC1sXMGwx31xJhaXnRo5u7L8hj2Gk3mgihyVqaggONXSXk6J8y1svW-5m9ToTOc2P20Vk-CHsKY6OxerSxJbu0Q/s320/0319.webp",
-      "description": "   Praktik manasik berdasarkan prilaku yang ditunjukkan oleh Rasulullah S.A.W. melalui informasi Al Qur'an, Hadits dan Sirah Nabawiyah dengan pendekatan sejarah.",
+      "description": "  Praktik manasik berdasarkan prilaku yang ditunjukkan oleh Rasulullah S.A.W. melalui informasi Al Qur'an, Hadits dan Sirah Nabawiyah dengan pendekatan sejarah.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Manasik_Haji_%26_Umrah_Rosulullah_Fikih_Berdasarkan_Sirah_%26_Makna.pdf"
     },
     {
@@ -2080,7 +2251,7 @@
       "title": "Matematika Alam Semesta",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI6BXZqXxaM-uTMS98tPFBdbtZ0imUSYxhwf2EWRccR0ZNpPAhKwn9eUG8JWp0cHl2hxaIucykHiv1UjWayWCaAwtucsWJU3CiMBl91avC23yMTDnXhmv31mN-pH3NQrf7QeR1_izBt2LUizeF4Ff6B9oXAvCzRaFmAyu-fy2r4jNwh0fS5JUyL7_eYdZ3/s320/0318.webp",
-      "description": "   Menambah keyakinan pembaca bahwa al-Qur'an mustahil dibuat oleh manusia dan sistem pengamanan-nya pun dirancang sedemikian rupa oleh Penciptanya sehingga akan segera diketahui jika ada yang mengubah, memalsukan, menambah atau mengurangi jumlah dan susunan ayat.",
+      "description": "  Menambah keyakinan pembaca bahwa al-Qur'an mustahil dibuat oleh manusia dan sistem pengamanan-nya pun dirancang sedemikian rupa oleh Penciptanya sehingga akan segera diketahui jika ada yang mengubah, memalsukan, menambah atau mengurangi jumlah dan susunan ayat.",
       "link": "https://ia802600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Matematika%20Alam%20Semesta.pdf"
     },
     {
@@ -2107,7 +2278,7 @@
       "title": "Mengupas Surat Al Fatihah",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufjdMBLDFSeyRLK4DjP4L23ItF8WMSpnEeUeRGfu2Ti-ivyJTmEZ5JD7Rms0IAQYK49x0tHtDS1Ep6-7KP8NmDvN3E2ASGyDvQCXKjev-W_wVUJkZvABuxeljCzHBDB1d2rgqOTod2VQsrD-Afx6csfvD2PFfEJwPwcALjb5WNuvys1P5LJLgv8f-Ho_5/s320/0316b.webp",
-      "description": "    Surat Al-Fatihah merupakan suatu keistimewaan bagi seseorang yang ingin mengetahui rahasia di balik ayat-ayat surat Al-Fatihah, karena bagian surat Al-Qur'an yang menjadi awal bacaan dalam Al-Qur'an dalam Al-Fatihah ternyata menyimpan banyak rahasia mengenai keajaiban-keajaiban di dalamnya.",
+      "description": "    Surat Al-Fatihah merupakan suatu keistimewaan bagi seseorang yang ingin mengetahui rahasia di balik ayat-ayat surat Al-Fatihah, karena bagian surat Al-Qur’an yang menjadi awal bacaan dalam Al-Qur’an dalam Al-Fatihah ternyata menyimpan banyak rahasia mengenai keajaiban-keajaiban di dalamnya.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Mengupas_Surat_Al_Fatihah_Tafsir_Al_Mizan_by_Allamah_Thabathabai.pdf"
     },
     {
@@ -2125,7 +2296,7 @@
       "title": "Moderasi Islam",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc_Iy6DYmqgDb9yUCedSX4i5AERRQJwSSXH7m-cAOIvblq1K8kHwXyfyL5TmpRsx0A0togcY7zqfKCgvO8Kg8Sfqh5HXO_-0G_d36Fl4YysLj-BIPlyCblTI-1WVSE9k-F-gJYhD6jw8vvPFVxl22sqoNUYwwbdFMAqoUv8vkpAgo3e865Od0qT21ttZYl/s320/0314.webp",
-      "description": "    Sebagai salah satu upaya meningkatkan kualitas pemahaman,  dan pengamalan ajaran agama (Al-Qur'an) dalam kehidupan bermasyarakat, berbangsa dan ber negara, Lajnah Pentashihan Mushaf Al-Qur'an Badan Litbang dan Diklat Kementerian Agama RI telah melak sana kan kegiatan penyusunan tafsir tematik.",
+      "description": "    Sebagai salah satu upaya meningkatkan kualitas pemahaman,  dan pengamalan ajaran agama (Al-Qur′an) dalam kehidupan bermasyarakat, berbangsa dan ber negara, Lajnah Pentashihan Mushaf Al-Qur′an Badan Litbang dan Diklat Kementerian Agama RI telah melak sana kan kegiatan penyusunan tafsir tematik.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Moderasi%20Islam%20Tafsir%20Al-Qur%E2%80%B2an%20Tematik%20by%20Tim%20Penyusun.pdf"
     },
     {
@@ -2134,7 +2305,7 @@
       "title": "Mukjizat Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuyOGeADCXrM_Nl551TzxoH9JNqQRrGriqo7C-kyvLpWKnuijGyrhfYVr_kEc84zXEx21qi86eIEkBhwmMjlUDMb2wMCMeAvToHNiCeM2LkBzuTcRCM1hy724Ps3BcVdCKY1fvmGiQ1KaNo5qvHEHWtvYq_gCfidhpmAh9wB0Z-IaSvTSbzFZov6_zfTgA/s320/0313b.webp",
-      "description": "    Salah satu risalah dari 'Koleksi Risalah Nur' yang khusus membahas kemukjizatan Al-Qur'an dari berbagai aspek; baik dari segi huruf, kata, kalimat, maupun dari segi makna, penjelasan, kefasihan dan berbagai aspek kemukjizatan lainnya.",
+      "description": "    Salah satu risalah dari ‘Koleksi Risalah Nur’ yang khusus membahas kemukjizatan Al-Qur’an dari berbagai aspek; baik dari segi huruf, kata, kalimat, maupun dari segi makna, penjelasan, kefasihan dan berbagai aspek kemukjizatan lainnya.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Mukjizat_Al_Quran_Ditinjau_Dari_40_Aspek_Kemukjizatan_by_Badiuzzaman.pdf"
     },
     {
@@ -2161,7 +2332,7 @@
       "title": "Negeri-Negeri Yang Musnah",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL6NfeRyuBZlSyzuBD6-5uwl3xs2ZjzJUOY5viiDmLbpl-9Ov5-f-ILLr1csx_fEt7sqxp1Li74dpo7XKQGJ5GVT6Ulx7k-U_Noz15g_vq5r1wuwRG9GZ7YIzO-lOBIHFDXU3805q9tlluo-622rylgP-sByVxqMRLZIZCtmGHgvDsTDUDsOA6SlbhRLz4/s320/0309.webp",
-      "description": "   Sepanjang sejarah, terdapat banya negeri negeri di masa silam yang telah dilenyapkan oleh ALLAH dari muka bumi karena keingkaran penduduknya, diperlihatkan pula dengan bukti dokumenter temuan arkeologis dan catatan sejarah mereka, selamat membaca.",
+      "description": "   Sepanjang sejarah, terdapat banyak negeri negeri di masa silam yang telah dilenyapkan oleh ALLAH dari muka bumi karena keingkaran penduduknya, diperlihatkan pula dengan bukti dokumenter temuan arkeologis dan catatan sejarah mereka, selamat membaca.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Negeri_Negeri_Yang_Musnah_Pembuktian_Arkeologis_%26_Historis_Atas.pdf"
     },
     {
@@ -2184,7 +2355,7 @@
     },
     {
       "id": 307,
-      "name_category": "Pustaka Biografi",
+      "name_category": "Pustaka Al Qur'an",
       "title": "Para Penjaga Al Qur'an Biografi Para Penghafal Al Qur'an Di Nusantara",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjli0LqeNsJk1ea63JGPkXVBHpoEEvxmmuEN9V_jC5ClowMY09gkRiVkkTaqp-Mpte68jbt4jlzRo5ihj0Tl40ge4K64f3SzNIlhIIveu4veUN0iNl-WLu8UWzKQ-qoLIz1nKmlTssxLePn6LDUHPDAiqXYLwR_tOogMz_BYmyyGQ6ZZBpDFFztzSn71JaE/s320/0306.webp",
@@ -2224,7 +2395,7 @@
       "title": "Pengantar Studi Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO9PzbTqfizSOX6v-MqYegkTC2ZHG6aEPs0mnKuRy9yS-9-ZdwWvfSRBHG-5uS9Nz-dwOJLCknTtNV__cWr8jpamNrZeXtQtJ4hEbQqcbPYMViPTe8BTbAzSD9rKTJbyVLEw5ppLL9e3s87qw-jPi8K6bxxnCir4Ez0ghrhWY2lmoxqdMSPxm49dj7TLK2/s320/0302.webp",
-      "description": "   Dengan mempelajari isi dan kandungan Al-Qur'an, diharapkan akan menambah perbendaharaan baru, memperluas pandangan dan pengetahuan, memberikan penerangan terhadap kehidupan manusia, serta kita akan lebih yakin akan keunikan dan kehebatan isi Al-Qur'an yang datang dari sisi Allah Ta'ala.",
+      "description": "   Dengan mempelajari isi dan kandungan Al-Qur’an, diharapkan akan menambah perbendaharaan baru, memperluas pandangan dan pengetahuan, memberikan penerangan terhadap kehidupan manusia, serta kita akan lebih yakin akan keunikan dan kehebatan isi Al-Qur’an yang datang dari sisi Allah Ta’ala.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Pengantar%20Studi%20Al-Qur%E2%80%99an%20by%20Abdullah%20Saeed.pdf"
     },
     {
@@ -2233,7 +2404,7 @@
       "title": "Pengantar Studi Ilmu Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPM_zp2tjh_ng0G8_e_2OKkTCk-Ztkk3Eq0-k7EptuRnYp0ASxCjGSSCmD4WtXlr5QpMK3NKoTLCZxzHIp1jJb8CLgKbTQD_2qg_2iFZVRIDnYHu_KlfbklxlUNqa_h4omMr2B6Aht5GNE8kqniongofoTMjtVd5ECPXSoIF-1Vpx0ywleLBTNqWU2Jh9b/s320/0301.webp",
-      "description": "   Rujukan dalam menyelami aspek-aspek utama secara umum dan menyeluruh yang berkaitan dengan ilmu-ilmu Al-Qur'an beserta pembahasan lainnya tentang Al Qur'an.",
+      "description": "   Rujukan dalam menyelami aspek-aspek utama secara umum dan menyeluruh yang berkaitan dengan ilmu-ilmu Al-Qur’an beserta pembahasan lainnya tentang Al Qur'an.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Pengantar%20Studi%20Ilmu%20Al-Quran%20by%20Syaikh%20Manna%20Al-Qaththan.pdf"
     },
     {
@@ -2251,7 +2422,7 @@
       "title": "Rahasia Kebahagiaan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1FcZS2DalgpdcOqdYgecL7dZCGlX87fthGakFlmO9vMGBqBUmMAP1XKfipGbP9TTUdQo0G2stJQocGiJ32mK-QtN4NmZtL3rA4Kz-LXHUF9MJifzPHsW6-zjAU-99e5Uf1tG7-MA3GOMjLsYwxZolXiyQ3EHMCTz6SVIdlpbx-ACnVM9rBu_VMT5Jqv_U/s320/0299.webp",
-      "description": "  Tak jarang seseorang terlalaikan oleh anugerah dan mengeluh saat mendapat musibah, Kenapa? Bisa jadi, sebab sudut yang kurang tepat dalam memandang dinamika hidup serta lemahnya keyakinan bahwa Allah-lah di balik setiap yang terjadi di dunia ini.",
+      "description": "    Tak jarang seseorang terlalaikan oleh anugerah dan mengeluh saat mendapat musibah, Kenapa? Bisa jadi, sebab sudut yang kurang tepat dalam memandang dinamika hidup serta lemahnya keyakinan bahwa Allah-lah di balik setiap yang terjadi di dunia ini.",
       "link": "https://ia902600.us.archive.org/29/items/15062023gaspoLLL/15062023gaspoLLL/Rahasia_Kebahagiaan_Terjemah_Kitab_Hallul_%27Iqol_Ibnu_Qadhib_Al_Ban.pdf"
     },
     {
@@ -2269,7 +2440,7 @@
       "title": "Sistem Pergaulan Dalam Islam",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBRptych8ElshLpPxs17lJ9gs8iD8lIOrS3B6uTEZuymvbJGS13j83EX02MotzyY_1LQvcgIjXepnDEtoTqjndHsyv-qzL_RG82LtrJBSPzUJTht95Qq9Wt1Pui2GXd17dWjQXQ1CZO5qav-BoU9Cz5bYhHCBHiYPTTY_KRM3cDchlYgsRR_qCEFXgRXrJ/s320/0296.webp",
-      "description": "    Kajian sistem pergaulan pria wanita dalam Islam (an-nizh�m al-ijtim�'�) secara menyeluruh dan mendalam, akan dapat dipahami bahwa problem yang ada adalah pergaulan pria dan wanita, hubungan/interaksi yang timbul dari pergaulan tersebut, dan masalah-masalah yang tercabang dari Pergaulan.",
+      "description": "    Kajian sistem pergaulan pria wanita dalam Islam (an-nizhâm al-ijtimâ‘î) secara menyeluruh dan mendalam, akan dapat dipahami bahwa problem yang ada adalah pergaulan pria dan wanita, hubungan/interaksi yang timbul dari pergaulan tersebut, dan masalah-masalah yang tercabang dari Pergaulan.",
       "link": "https://ia902608.us.archive.org/16/items/b15062023gaspoLLL/Sistem%20Pergaulan%20Dalam%20Islam%20-%20Imam%20Taqiyuddin%20An%20Nabhani.pdf"
     },
     {
@@ -2278,7 +2449,7 @@
       "title": "Solusi Al Qur'an Mengatasi Problematika Keluarga Islam",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-99pHQzKxFF66n_0bkehiUcgZv4vMj2v-IebbEK_T_Nz6o1kJfkpUnLEG8cV1_iMU7sUKl_kU3dKWJz_xRj5-OeVLgAlI2wG8D71krgB90JOZGL7ygO2jU-uWgKFmsiKW3ZbBDnLg0Kb2psKGD9bafXZx2pC1cSkiAbEx_VBQk0U1YwfXJzhefDdE6ti3/s320/0295.webp",
-      "description": "    Kategori buku yang wajib dimilki bagi setiap orang yang ingin memiliki keluarga sakinah mawaddah wa rohmah, dijelaskan terkait wawasan Al-Qur'an tentang urusan kekeluargaan & mengulas masalah rumah tangga dalam pandangan al-Qur'an.",
+      "description": "    Kategori buku yang wajib dimilki bagi setiap orang yang ingin memiliki keluarga sakinah mawaddah wa rohmah, dijelaskan terkait wawasan Al-Qur’an tentang urusan kekeluargaan & mengulas masalah rumah tangga dalam pandangan al-Qur’an.",
       "link": "https://ia902608.us.archive.org/16/items/b15062023gaspoLLL/Solusi_Al_Quran_Mengatasi_Problematika_Keluarga_Islam_by_Dr_H_Muhammad.pdf"
     },
     {
@@ -2287,7 +2458,7 @@
       "title": "Spiritualitas & Akhlak",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgONoWeDXF9gpjUtIJHrIRZN6iYmdVOLT7XD-bpJHEgpIw4itu4gs8iwyxX4is0rKleQ2bU1cydUJr4jr9DvCJZ9_CNasET_nuLItY4A5AoUCt_qI47AX4sRwybSmF5VWDoYW7jH0yqo5Kcb_qJnxRupBi7cYu2eVpxBegwaSYDomkQC0xI3vfp8LnxIf5c/s320/0294.webp",
-      "description": "    Dalam pandangan Al-Qur'an, Allah Subaanahu Wa Ta'Ala menciptakan manusia dengan beberapa unsur pembentuk dirinya, sehingga dia menjadi makhluk paling baik dibandingkan dengan makhluk-makhluk lain yang diciptakan-Nya.",
+      "description": "    Dalam pandangan Al-Qur′an, Allah Subaanahu Wa Ta‘Ala menciptakan manusia dengan beberapa unsur pembentuk dirinya, sehingga dia menjadi makhluk paling baik dibandingkan dengan makhluk-makhluk lain yang diciptakan-Nya.",
       "link": "https://ia802608.us.archive.org/16/items/b15062023gaspoLLL/Spiritualitas_dan_Akhlak_Tafsir_Al_Quran_Tematik_by_Tim_Penyusun.pdf"
     },
     {
@@ -2296,7 +2467,7 @@
       "title": "Standar Tajwid Bacaan Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTMYnCTFDDvhW3VhRAoA5D4tTrkZCZuew3IcqBoKeihn7LbPfijm9RUGXaUDCYSmcRfXJezuNT8V01E9ikhX1Pt7MPxdz2pEnLaXtss9olMu1uyvwwXTaHmAYltpELOhdmGhLoM0SU-0pcxefoZ2pCL_Vrf8S8Hyyuzna6yYDKXNTYfdgzVW9TAFY2mxcg/s320/0293.webp",
-      "description": "    Pemahaman ilmu tajwid merupakan salah satu komponen bagi umat muslim dalam membaca Al-Qur'an, memahami hukum-hukum bacaan yang ada dalam ilmu tajwid seperti hukum bacaan nun mati dan tanwin, hukum mim mati, hukum madd dan sifat huruf adalah merupakan kriteria dalam membaca Al-Qur'an.",
+      "description": "    Pemahaman ilmu tajwid merupakan salah satu komponen bagi umat muslim dalam membaca Al-Qur’an, memahami hukum-hukum bacaan yang ada dalam ilmu tajwid seperti hukum bacaan nun mati dan tanwin, hukum mim mati, hukum madd dan sifat huruf adalah merupakan kriteria dalam membaca Al-Qur’an.",
       "link": "https://ia902608.us.archive.org/16/items/b15062023gaspoLLL/Standar%20Tajwid%20Bacaan%20Al-Quran%20by%20Maftuh%20Basthul%20Birri.pdf"
     },
     {
@@ -2323,7 +2494,7 @@
       "title": "Susunan Surah Dalam Mushaf Al Qur'an Tauqifi Atau Ijtihadi ?",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz2pbj4njFEiKVRXKTlfGOwOsBnXbngQMF8XZNc8lCZjtQgQpF9zPwwIOawwCY_9fZiNLkrOl7Y8tGDy2jgxw1vAwhl2weuoTJA9u98ndewzGXnksiZvgx7cONI-rQDMwH4oxq9FYn8oZCaQM29Jv5n5N2wjv9m1BiWrU_GDzZe90335r00hw7I755hw-3/s320/311.webp",
-      "description": "   Memberi pencerahan tentang pertanyaan-pertanyaan yang kadang muncul berkaitan dengan al-Qur'an, terutama dari sisi sistematika atau susunannya. Penulis mencoba meringkas dan menyajikan ulang dari apa yang sudah dibahas para ulama di dalam karya-karya mereka.",
+      "description": " Memberi pencerahan tentang pertanyaan-pertanyaan yang kadang muncul berkaitan dengan al-Qur’an, terutama dari sisi sistematika atau susunannya. Penulis mencoba meringkas dan menyajikan ulang dari apa yang sudah dibahas para ulama di dalam karya-karya mereka.",
       "link": "https://ia802608.us.archive.org/16/items/b15062023gaspoLLL/Susunan_Surah_dalam_Mushaf_Al_Quran_Tauqifi_Atau_Ijtihadi_by_Cece.pdf"
     },
     {
@@ -2341,7 +2512,7 @@
       "title": "Terapi Maknawi dengan Resep Qurani",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgae7u3N9oxu9HVMZMvMBR8zXr5qbnzby7JQOqkR54cJWJn3tfqRVr_5bdYPQKkAgduqISnAMYwr1cNugzx6YwPxW5r6PE83ts63VNcA4x4KiShb7g1ypy6vZhAr9mZLCgw4alP-4pqgBdHhrk4D_KkSTD15SN0gfVaQfFO_8bzyBn4aGe6TmRXCkH93Bjo/s320/0289.webp",
-      "description": "   Pengobatan dalam bentuk nasihat (terapi maknawi). Pengobatan tersebut menggunakan setidaknya 25 jenis obat mujarab yang diambil dari apotek al-Qur'an. Said Nursi hadirkan formula menjadikan tekanan sakit dan perihnya derita sebagai sarana menggapai pemahaman komprehensif akan kemahapemurahan, kemahakasihan & kemahapenyayangan Allah SWT dalam berbagai bentuknya.",
+      "description": "   Pengobatan dalam bentuk nasihat (terapi maknawi). Pengobatan tersebut menggunakan setidaknya 25 jenis obat mujarab yang diambil dari apotek al-Qur’an. Said Nursi hadirkan formula menjadikan tekanan sakit dan perihnya derita sebagai sarana menggapai pemahaman komprehensif akan kemahapemurahan, kemahakasihan & kemahapenyayangan Allah SWT dalam berbagai bentuknya.",
       "link": "https://ia802608.us.archive.org/16/items/b15062023gaspoLLL/Terapi%20Maknawi%20dengan%20Resep%20Qurani%20by%20Badiuzzaman%20Said%20Nursi.pdf"
     },
     {
@@ -2368,7 +2539,7 @@
       "title": "Tumbuhan Obat Dalam Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHewONwQyeaIHPMwCCCEWUBkAM2Z6J95WLKtNS2tsGu20LqvcddIqNj6gUEzA3MQ4G1qhI9mATOoGXJ5EGSIEI_6nHksaq-Pn9SYIpMULOzacbxf9IlYSOJnbrPhDene6wcG7iZ5g5Lw7DhYQRm2NYpvGm3IrgyAVJvu7Uahqu3K8jgZg8PUBt2YgTz-a/s320/0286.webp",
-      "description": "    Tumbuhan obat merupakan salah satu jenis makhluk hidup yang tumbuh dan berfungsi untuk menyembuhkan penyakit. Al-Qur'an menekankan bahwa tumbuh-tumbuhan adalah karunia istimewa yang diberikan Allah kepada manusia. Bagian tumbuhan yang dapat dimanfaatkan untuk pengobatan adalah bagian daun, batang, akar, rimpang, bunga, buah dan bagian biji.",
+      "description": "    Tumbuhan obat merupakan salah satu jenis makhluk hidup yang tumbuh dan berfungsi untuk menyembuhkan penyakit. Al-Qur’an menekankan bahwa tumbuh-tumbuhan adalah karunia istimewa yang diberikan Allah kepada manusia. Bagian tumbuhan yang dapat dimanfaatkan untuk pengobatan adalah bagian daun, batang, akar, rimpang, bunga, buah dan bagian biji.",
       "link": "https://ia902608.us.archive.org/16/items/b15062023gaspoLLL/Tumbuhan_Obat_dalam_Al_Quran_Perspektif_Sains_Islam_Bidang_Farmakognosi.pdf"
     },
     {
@@ -2386,7 +2557,7 @@
       "title": "Ulumul Qur'an: Pengantar Ilmu-Ilmu Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR0wMzA7FrjwAUcVjl0URjkHbCsQ041z2gq0Fnd7DeuK16rtsC4hWK7AkE9sAqcqEp_wt38cv6WLpPfOiuXrPuzzK6bcTzDgYF7a4C_riRLZh8toLWQw80QoRmA4Hu80e0FJT2b2Sz-vxoy3h9VcNgsazeyzj6H8Whsxid-OnW_NSOVgTV1gZNe7XAQeVr/s320/0284.webp",
-      "description": "    Terdiri atas materi- materi dasar yang sangat elementer dalam kajian 'Ul�m al-Qur'�n (Ilmu-ilmu Al-Qur'an), Informasi-informasi yang termuat di dalamnya dapat dijadikan panduan atau pointerpointer untuk didiskusikan lebih lanjut dalam perkuliahan, membantu dan memudahkan para mahasiswa dalam mengikuti perkuliahan.",
+      "description": "    Terdiri atas materi- materi dasar yang sangat elementer dalam kajian ‘Ulûm al-Qur’ân (Ilmu-ilmu Al-Qur’an), Informasi-informasi yang termuat di dalamnya dapat dijadikan panduan atau pointerpointer untuk didiskusikan lebih lanjut dalam perkuliahan, membantu dan memudahkan para mahasiswa dalam mengikuti perkuliahan.",
       "link": "https://ia902608.us.archive.org/16/items/b15062023gaspoLLL/Ulumul_Quran_Pengantar_Ilmu_Ilmu_Al_Quran_by_Prof_Dr_H_Amroeni_Drajat.pdf"
     },
     {
@@ -2413,7 +2584,7 @@
       "title": "Milea: Suara Dari Dilan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsb_Z3p20hsQb9uTBCzFao7mXpt5N0W4hKqjqUI0LYOPVI1xBg-T2TiQekdKhrE4pMZmWff_VTFe7nZr9jC8rVMq90P0dFq1CLTE7uAPzZNM91FY3iW0a7ibcWqYM7-xA6EPAFu8kU5erPBHCEgDdnyBTjluSG7tT1IKaU1b5WQpKgHqvvkPOkjXUgkGV4/s320/0283.webp",
-      "description": "    Setelah sekian lama berpisah Dilan dan Milea akhirnya bertemu kembali, banyak hal berubah dan terjadi tanpa disangka-sangka seperti Dilan gagal membahagiakan Milea, Dilan bertengkar dengan sahabat karibnya, Ayah Dilan meninggal dunia, Dilan diterima di ITB dan banyak lagi, selamat membaca.",
+      "description": "    Setelah sekian lama berpisah Dilan dan Milea akhirnya bertemu kembali, banyak hal berubah dan terjadi tanpa disangka-sangka seperti Dilan gagal membahagiakan Milea, Dilan bertengkar dengan sahabat karibnya, Ayah Dilan meninggal dunia, Dilan diterima di ITB dan banyak lagi, selamat membaca ☺.",
       "link": "https://ia902701.us.archive.org/14/items/03072023DpNov/3.%20Dilan%203%20-%20Pidi%20Baiq.pdf"
     },
     {
@@ -2431,7 +2602,7 @@
       "title": "Dilan: Dia Adalah Dilanku 1990",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd24H1v_jLjgNn0ckAhly4M5CwKdsa6BmSsh1SmqPoc4vyfI6Jl_MP9zg9afLwoqdNULEh-KaaETMZOcLGtlDh8eIaVGU3HbHNs84fz87iSaWFw4PWVZSk5BgYEiUIkcgWCDnNej8ty8xP6VdVrzPM3OWADbxd6ZF2p9Ij5xWKQzrSjBjO82WK6qIRhe_B/s320/0281.webp",
-      "description": "     Kisah romansa pertemuan yang dialami oleh dua remaja yang masih sekolah SMA di Bandung pada tahun 1990 bernama Dilan dan Milea, saat itu Milea merupakan anak pindahan dari Jakarta. Dilan mendekati Milea dengan cara yang unik dan berbeda dengan laki-laki lainnya.",
+      "description": "   Kisah romansa pertemuan yang dialami oleh dua remaja yang masih sekolah SMA di Bandung pada tahun 1990 bernama Dilan dan Milea, saat itu Milea merupakan anak pindahan dari Jakarta. Dilan mendekati Milea dengan cara yang unik dan berbeda dengan laki-laki lainnya.",
       "link": "https://ia902701.us.archive.org/14/items/03072023DpNov/03072023DpNov/1.%20Dilan%201-%20Pidi%20Baiq.pdf"
     },
     {
@@ -2494,7 +2665,7 @@
       "title": "Wanita Hamil Menyusui Qadha Atau Fidyah",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLKx8cuoBT7YU2GOdBsmezgNQKnUl9Ug6Wq4YtQbXzN-XMwa6PbTftUibVkrj33acTNMaJpuYmZi-QXynQW3N8kBqtuByX5E1K6hS-A4qmKmvDEEjt9dO8T_64TSzEISlYwdB_cS8beuTxJQhI_mA53CXKVczwDYFjZhBXKDLMrBRsRlYLsFpnqPXc4YER/s320/0275.webp",
-      "description": "       Pendapat para ulama mengenai tentang masalah puasa atau tidak nya wanita hamil dan menyusui dan bagaimana mereka menarik kesimpulan hukum berdasarkan ayat Al-Qur'an dan hadits, selamat membaca.",
+      "description": "       Pendapat para ulama mengenai tentang masalah puasa atau tidak nya wanita hamil dan menyusui dan bagaimana mereka menarik kesimpulan hukum berdasarkan ayat Al-Qur’an dan hadits, selamat membaca.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/WanitaHamilQadhaAtauFidyah.pdf"
     },
     {
@@ -2521,7 +2692,7 @@
       "title": "Tuntunan Ibadah Pada Bulan Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwtpubPDejJ6uD3OKlrAY61dFEdAgY3anCpYZfLKuIyHDXDOIMprP2PCTLuYwHUjdHiy73mM6IesNuXb9A0aM6UxOwpCSARQKJfkQ73zoc7FCw-c7--iFzzET8OJwNI7T2RsOxYVlajctijNUw0tFxZ1rqO286q-fGEXkZEguhM9wlaJ2OgnFL5Q-oCN40/s320/0271.webp",
-      "description": "       Untuk mengingatkan dan menyegarkan pemahaman kita terhadap tatacara pelaksanakan ibadah puasa (shiyam), qiyamul-lail (qiyamu Ramadhan / shalat Tarawih), shalat 'Iedul Fithri dan zakat Fithri",
+      "description": "  Untuk mengingatkan dan menyegarkan pemahaman kita terhadap tatacara pelaksanakan ibadah puasa (shiyam), qiyamul-lail (qiyamu Ramadhan / shalat Tarawih), shalat 'Iedul Fithri dan zakat Fithri",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/TuntunanIbadahBulanRamadhan.pdf"
     },
     {
@@ -2548,7 +2719,7 @@
       "title": "The Early Caliphate (Khulafa Ur Rasyidin)",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68iSwJzOxkF7IZqIqZbWCmcAW77IgAUCt5LcgqenllHMqwMT770CG85YqS3BxoTpE39gUe7IeR9RujqWlduipF_XdCn_xt2WhN29TUcgOUGvK_Fq37a_vckQvdiV3n4wzg5oU7nzCfyVR5CgEJpQaOGwQToBqiK2TQLlFgV415z7sQ2t1heXu5nKOUmlX/s320/0268.webp",
-      "description": "       Khulafa-ur-Rasyidin, menjadi catatan pemerintahan Islam yang ideal selama tigapuluh tahun, adalah kelanjutan yang wajar dari buku "Nabi Muhammad", dimana saya telah memberikan gambaran dari kehidupan seorang manusia yang manfaatnya sangat besar bagi kemanusiaan, Nabi Muhammad, yang dahulu dan sekarang pun paling disalah-mengertikan dari antara seluruh manusia besar di dunia ini.",
+      "description": "       Khulafa-ur-Rasyidin, menjadi catatan pemerintahan Islam yang ideal selama tigapuluh tahun, adalah kelanjutan yang wajar dari buku “Nabi Muhammad”, dimana saya telah memberikan gambaran dari kehidupan seorang manusia yang manfaatnya sangat besar bagi kemanusiaan, Nabi Muhammad, yang dahulu dan sekarang pun paling disalah-mengertikan dari antara seluruh manusia besar di dunia ini.",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/TheSecretRahasiaByRhondaByrne.pdf"
     },
     {
@@ -2584,7 +2755,7 @@
       "title": "Thaghut",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqU2LGEv0eCHCFJUcKVlOKdOsvjMBbN6nOTyNuk73Gp-_QGxNyPl6q2abz2KC0sDomiWVYpTXVY-jWl4P2Zo_bys00F2rUjk0PcUjcD9uygu1PHzsnmH-aORAF4YVcaiqaQ4Tyl2z6dqd6FFFKEm975RczeAi77yVE-pL5_sXpBzrJoRPJ0pDPXSn_sZe5/s320/0264.webp",
-      "description": "       Thaghut sebagaimana yang didefinisikan oleh Imam Ibnu Qayyim Rahimahullah adalah Segala sesuatu yang dengannya hamba melampaui batas, baik itu sesembahan atau yang diikuti, atau yang ditaati sehingga Th�gh�t adalah setiap kaum yang dia berhukum kepadanya selain Allah dan Rasul-Nya, atau yang diikuti tanpa bashirah dari Allah, atau yang ditaati tanpa diketahui bahwa itu adalah ketaatan kepada Allah.",
+      "description": "       Thaghut sebagaimana yang didefinisikan oleh Imam Ibnu Qayyim Rahimahullah adalah Segala sesuatu yang dengannya hamba melampaui batas, baik itu sesembahan atau yang diikuti, atau yang ditaati sehingga Thâghût adalah setiap kaum yang dia berhukum kepadanya selain Allah dan Rasul-Nya, atau yang diikuti tanpa bashirah dari Allah, atau yang ditaati tanpa diketahui bahwa itu adalah ketaatan kepada Allah.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/ThagutMaknanyaJenisnya.pdf"
     },
     {
@@ -2638,7 +2809,7 @@
       "title": "Tarawih, 'Itikaf & Lailatul Qadar",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyBdcY_OwTslzSkxgP85n_L46Urb8O8gz5Bw0OrDR28IqdsaJu5u5yf7Xunw2v1svx1cDsKMeDTjpzY6gDFkTjdVGYSsOSLoI0KJ0am2ofZ-lea7vr6ODKCp7zDGGHs9VjXKwwznv8rsOa5T3zcVeBl3oU7GSRdeEiwMyMsvR4xg8U6gb-VI7EiWp3b7dK/s320/0258.webp",
-      "description": "       Disalin dari buku Sifat Puasa Nabi S.A.W. fii Ramadhan oleh Syaikh Salim bin Ied al-Hilali dan Syaikh Ali Hasan Ali Abdul Hamid, Terbitan Pustaka Al-Haura dengan Penerjemah Abdurrahman Mubarak Ata, pada bab-bab: Lailatul Qadar, I'tikaf dan Shalat Tarwih.",
+      "description": "       Disalin dari buku Sifat Puasa Nabi S.A.W. fii Ramadhan oleh Syaikh Salim bin Ied al-Hilali dan Syaikh Ali Hasan Ali Abdul Hamid, Terbitan Pustaka Al-Haura dengan Penerjemah Abdurrahman Mubarak Ata, pada bab-bab: Lailatul Qadar, I’tikaf dan Shalat Tarwih.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/TarawihItikafLailatulQadar.pdf"
     },
     {
@@ -2719,7 +2890,7 @@
       "title": "Silsilah Tafsir Ayat Ahkam: Poligami",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7StYTS026wyPq1W-Dv7skJCCvmVGDW6auDAilaBnG7aqC37KC-aEsyGQ2mrkEg5qH3DDnmbX4lmytIjWUctXneaXyumQ_lUlRHrADSJvClkfbMInA49hAaFD-URnLsdln-tQNEKdNEbEtcDuUM_vYYCnFemgRpWPbYDIyweZ0I8M_1GE6UM_6ozQUfgkV/s320/0249.webp",
-      "description": "      Istilah poligami dalam bahasa Arab disebut dengan ta'addud az-zawjat (???????? ????) atau memiliki istri lebih dari satu, berapapun jumlahnya. Dalam KBBI, poligami didefinisikan sebagai sistem perkawinan yang salah satu pihak memiliki atau mengawini beberapa lawan jenisnya dalam waktu yang bersamaan.",
+      "description": "      Istilah poligami dalam bahasa Arab disebut dengan ta’addud az-zawjat (الزوجاتَ تعدد) atau memiliki istri lebih dari satu, berapapun jumlahnya. Dalam KBBI, poligami didefinisikan sebagai sistem perkawinan yang salah satu pihak memiliki atau mengawini beberapa lawan jenisnya dalam waktu yang bersamaan.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/TafsirAhkamAnNisaPoligami.pdf"
     },
     {
@@ -2728,7 +2899,7 @@
       "title": "Silsilah Tafsir Ayat Ahkam: Hajr Harta",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRV2QRi58xd5umdT-1205RDljjMbQZHHztoqgD9JHZTC-uoOgJkqOghQcFTxxfKHodvCVzul2oDjAzro_-7ZlldcdY4c8uMCehoLV2yC_dHKrn25VUWNGyLog_MPjtLEerxb1c08-sMi7hGobbYveOVq9RrFUAO5J7STzdo9KiwmWX-UU-Mqjr361j96ay/s320/0248.webp",
-      "description": "      Secara bahasa, kata hajr berasal dari bahasa Arab, hajaro - yahjuru - hajron (???? - ???? - ???) yang bermakana meninggalkan (at-tarku), berpaling (ali'rodh), memutus (al-qoth'u) dan menahan (alman'u).",
+      "description": "      Secara bahasa, kata hajr berasal dari bahasa Arab, hajaro – yahjuru – hajron (هجرا – يهجر – هجر) yang bermakana meninggalkan (at-tarku), berpaling (ali’rodh), memutus (al-qoth’u) dan menahan (alman’u).",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/TafsirAhkamAnNisaHarta.pdf"
     },
     {
@@ -2746,7 +2917,7 @@
       "title": "Sunnah Yang Ditinggalkan Di Bulan Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfg1kAcF7iSaCHXQj8Tqq62CZ1239emOjP_bX6V3gezBc764yH-zmjvfnfJOHaVhUW3cPvyh2m7GF2SbgdwjpzM9gVxDBAlTGFYaQFKaFLTaJR5f0AmxUltTmNg-E6VEJuCBu8FJF_K4IQ10IIjMFz7dSW2ONk0_GhnzwfPG1-7Cn5aAZ52RsJF9pgy_Cd/s320/0246.webp",
-      "description": "      Berisi penjelasan sunnah-sunnah di bulan Ramadhan yang telah banyak ditinggalkan orang. Semoga dengan kehadiran eBook ini dapat memberikan manfaat kepada kaum Muslimin, untuk kembali menghidupkan sunnah-sunnah Rasulullah S.A.W. dan meraih keutamaman di bulan Ramadhan dengan meneladani beliau.",
+      "description": "  Berisi penjelasan sunnah-sunnah di bulan Ramadhan yang telah banyak ditinggalkan orang. Semoga dengan kehadiran eBook ini dapat memberikan manfaat kepada kaum Muslimin, untuk kembali menghidupkan sunnah-sunnah Rasulullah S.A.W. dan meraih keutamaman di bulan Ramadhan dengan meneladani beliau.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/SunnahDitinggalkanRamadhan.pdf"
     },
     {
@@ -2773,7 +2944,7 @@
       "title": "Matan Al Waroqot",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB628uDMzotxZ68WsDQPNx4fk3esYINsoDuKE_X7G8IcpVpwcx0yITO_y9prO5VhDr3lAx9jlEPyxpma_qR9ukNbjZ4xdds_yw52dDLBGedlc1PkasAyqcjjcX2C4SFTtrMXtAtXpmexiY0WgvzobmgvNUsQYIWud_dRzJtmcD0LFpj4mJp62py4Cw1gOa/s320/0243.webp",
-      "description": "      Al Waroqot adalah kitab matan karya syaikh Abul Ma'aly Al Juwani As Syafi'i atau yang lebih terkenal dengan panggilan Imam Al Haramain, untuk kebutuhan mubtadi (pemula). Secara bahasa, waraqat berarti lembaran-lembaran kertas, menggunakan gaya penulisan ijaz, yakni sedikit lafaz banyak makna. Materi yang tertulis di dalamnya adalah seputar definisi-definisi penting seputar ushul fikih, tanpa menjelaskan satu demi satu dengan penjabaran yang panjang lebar.",
+      "description": "      Al Waroqot adalah kitab matan karya syaikh Abul Ma’aly Al Juwani As Syafi’i atau yang lebih terkenal dengan panggilan Imam Al Haramain, untuk kebutuhan mubtadi (pemula). Secara bahasa, waraqat berarti lembaran-lembaran kertas, menggunakan gaya penulisan ijaz, yakni sedikit lafaz banyak makna. Materi yang tertulis di dalamnya adalah seputar definisi-definisi penting seputar ushul fikih, tanpa menjelaskan satu demi satu dengan penjabaran yang panjang lebar.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/StrangeMarriageByLiarasati.pdf"
     },
     {
@@ -2791,7 +2962,7 @@
       "title": "Sifat Puasa Nabi Muhammad S.A.W. & 20 Amalan Ringkas Di Bulan Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik2maGQMfnPPP3zJQN9XKgRcoalGYD5z8yoMqrA2YgptFgKWdVj0bZUEkzU-sMo_IwVf9WnoKW3EK9NOtguNutB4s1DrgGvEWl4HuS-yKcB2n1GgwxzoEYz7G_9kGnlwoGD-QqsPvdNDtqAyEUy7Tm39oESm9AEJdlYPj0JTsgkj-bcOTwf1L0qKNwgysv/s320/0240.webp",
-      "description": "      Beberapa faidah dan catatan ini kami sarikan dengan mengambil istimbath/kesimpulan dari kitab Shifat Shaum Nabi shallallaahu 'alaihi wa sallam fii Ramadhaan. kami juga menambahkan catatan dan faidah dari beberapa sumber kitab lainnya sebagai pelengkap.",
+      "description": "      Beberapa faidah dan catatan ini kami sarikan dengan mengambil istimbath/kesimpulan dari kitab Shifat Shaum Nabi shallallaahu ‘alaihi wa sallam fii Ramadhaan. kami juga menambahkan catatan dan faidah dari beberapa sumber kitab lainnya sebagai pelengkap.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/SifatPuasaNabiMuhammad.pdf"
     },
     {
@@ -2854,7 +3025,7 @@
       "title": "Sejarah Tarawih",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDGBwU5AEPiJnnHMBsauh6jof6kXV92oubkzqpOrVDDZM2cIdDkM9aiUCIDdFRL0g_9e3FeYEVKLAle62ZK_7iXvKY9fvH2sNN7fbADNe_7uCUVuaE0pETMX93g5HuirPMe1Y2i_xcp59sb_Jc63s9N22AWWDKWP_sHtK3sox96AgcCvtvSvivhnMa0v7F/s320/0236.webp",
-      "description": "     Kata Tarawih itu adalah bentuk plural (jamak) dari single Tarwiih. Dan Tarwiih adalah bentuk mashdar (kata sifat/ hasil kerja) dari kata kerja Rawwaha - Yurawwihu.",
+      "description": "     Kata Tarawih itu adalah bentuk plural (jamak) dari single Tarwiih. Dan Tarwiih adalah bentuk mashdar (kata sifat/ hasil kerja) dari kata kerja Rawwaha – Yurawwihu.",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/SejarahTarawih.pdf"
     },
     {
@@ -2863,7 +3034,7 @@
       "title": "Sejarah Shalat",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzmgCf4pcpCbtqo8QVfQBbdMPKBu14mG-iNm-l3UqcRwsgWYSJZyULY8nESjgI1hhbt31INHBHD4s2GZrXeZBxvC1IvN7V1LPXDr8gD8o47qp826m_auKDFgpgq4HXNgatg6zrvZ_CFSLHfA6EqK3MFHwL0SC07E97I205Dl6ObxuvulkpHvRxIQbKkrss/s320/0235.webp",
-      "description": "     Shalat lima waktu yang kita kenal disyariatkan sejak peristiwa Isra' dan Mi'raj, peritistiwa itu terjadinya bukan di masa awal pensyariatan, apakah Nabi S.A.W. dan para shahabat sebelum peristiwa Isra Mi'raj tidak mengerjakan shalat ?",
+      "description": "     Shalat lima waktu yang kita kenal disyariatkan sejak peristiwa Isra’ dan Mi’raj, peritistiwa itu terjadinya bukan di masa awal pensyariatan, apakah Nabi S.A.W. dan para shahabat sebelum peristiwa Isra Mi’raj tidak mengerjakan shalat ?",
       "link": "https://ia802708.us.archive.org/24/items/02072023Dp/02072023Dp/SejarahShalat.pdf"
     },
     {
@@ -2872,7 +3043,7 @@
       "title": "Sejarah Puasa",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlf6KrPP1JZfk1i99un7aGx-AtY27NzyDi-gWkrsJkw20N8qBkvwxL9vMfmIAPbwgtzIfHdSy4mTbspRf97o91haPp_-HJCEzJVwARo_WEXLG6uGt0v6BU9p7upE1-JSqNKBYw2Si93jY0h7o-iRosB2SjNNDfqEaK3aRTRgbXpZ-VU6jo9DjpVFf5Yxev/s320/0234.webp",
-      "description": "     Sebelum diwajibkan puasa Ramadhan, Rasulullah S.A.W. dan para shahabat telah mendapatkan perintah untuk mengerjakan puasa, diantaranya adalah puasa tiga hari setiap bulan dan puasa pada tanggal 10 Muharram (Asyura').",
+      "description": "     Sebelum diwajibkan puasa Ramadhan, Rasulullah S.A.W. dan para shahabat telah mendapatkan perintah untuk mengerjakan puasa, diantaranya adalah puasa tiga hari setiap bulan dan puasa pada tanggal 10 Muharram (Asyura’).",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/SejarahPuasa.pdf"
     },
     {
@@ -2881,7 +3052,7 @@
       "title": "Sejarah Perkembangan Mazhab Syafi'i",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1blx7lI9stlXVfgLZVkZ7hd55X4x_PSvl4LE9eZNdeVcnZNGoCGKLk_n5rsSdz0FO0nzdGl0spDnOqGVzhQ5O2FvIRdN4zkVndLabSwZvZ7uRgH7cmbigPj0c6Dxl8u7-3v88IbspNKXP3OORNDWZYeXiGVSuPC1pC72aTp22nB_Vaprsn0cW0ijNC4Uu/s320/0233.webp",
-      "description": "     Perkembangan Mazhab Syafi'i dari generasi ke generasi, siapa saja tokoh yang terlibat didalamnya dan apa faktor-faktor yang mempengaruhinya, Selamat membaca.",
+      "description": "     Perkembangan Mazhab Syafi’i dari generasi ke generasi, siapa saja tokoh yang terlibat didalamnya dan apa faktor-faktor yang mempengaruhinya, Selamat membaca.",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/SejarahMazhabSyafii.pdf"
     },
     {
@@ -2899,7 +3070,7 @@
       "title": "Sejarah Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOSDovRtoJUJn4_pTVw49WIMAO70X1lw28J_Z3omqtj9wDGN-nZg-jAxvRxCUlSrn0s1WbdIgxTCLLHWsIW2ewdT1TmHQEayVcO4t4dV_Aw2VBQNUKF-eEJZxxKLgrtZJTnEkxCpDMli8UYSCkj0hZSculg4OCwFO_tPgnJ4Yw0Tk4Qm-i-QUjR33NJ2we/s320/0231.webp",
-      "description": "     Kisah tentang mulai diturunkannya Al-Qur'an sedikit demi sedikit di masa kenabian Muhammad SAW. Di awali dengan lima ayat pertama dari surat Al-'Alaq,  malam dimana peristiwa itu terjadi sebagai nuzulul Qur'an",
+      "description": "     Kisah tentang mulai diturunkannya Al-Qur'an sedikit demi sedikit di masa kenabian Muhammad SAW. Di awali dengan lima ayat pertama dari surat Al-‘Alaq,  malam dimana peristiwa itu terjadi sebagai nuzulul Qur'an",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/SejarahAlQuran.pdf"
     },
     {
@@ -2953,7 +3124,7 @@
       "title": "Risalah Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGdjQrqS5m1TZDUYawKKMOOxpjer3-lqrUjTZERV-J8VV9qRldunujvm8b_V_lPEgTOjUV2G2-SQhd5YUYJWqyHBt3ehEC4WPK0YAlwF0o5S_tY8jhdtMRXVVtudzPsCB7LoVHaAZUGaiLvFHaDTdM2_OLAvuGZAw46ZXxhh98XE8eoJfiSR7MZ8RDe0F7/s320/0224.webp",
-      "description": "     Risalah ringkas yang mencakup hal-hal penting bagi kaum muslimin dalam bulan Ramadhan, seperti puasa, qiyamul lail, membaca Al Qur'an, sedekah dan lain sebagainya, yang akan anda dapati diterangkan dengan jelas, Insya Allah.",
+      "description": "     Risalah ringkas yang mencakup hal-hal penting bagi kaum muslimin dalam bulan Ramadhan, seperti puasa, qiyamul lail, membaca Al Qur’an, sedekah dan lain sebagainya, yang akan anda dapati diterangkan dengan jelas, Insya Allah.",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/RisalahRamadhanByAbdullah.pdf"
     },
     {
@@ -3115,7 +3286,7 @@
       "title": "Praktek Shalat Ied",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7epV71GKoUVI9tC4bv1rT5i2W_AGNUcMnlKoJ9Eoqm1hE2UEXqcWkbZPvytxCAgvM8fufSzzpNB_pCC04ZV8jBvODZPkw3pnLxEtAqi9qP7IAR_24G0WmU6ROfOYpgfNcRGBeNRSzkY9fDZaMBLchRYoE1SE00eZrc0QjjIpt3rrVad0YIKlpfjEzDzsx/s320/0205b.webp",
-      "description": "      Menjabarkan tentang tata cara shalat ied dalam perspektif mazhab Syafi'i. Sebagian besar, bahkan bisa dikatakan hampir seluruhnya, rujukan dalam tulisan ini adalah kitab al-Majmu' Syarh al-Muhadzab karangan imam Nawawi (w 676 H), sehingga penulis merasa tidak perlu memberi footnote kecuali bila merujuk pada selain kitab al-Majmu'.",
+      "description": "      Menjabarkan tentang tata cara shalat ied dalam perspektif mazhab Syafi’i. Sebagian besar, bahkan bisa dikatakan hampir seluruhnya, rujukan dalam tulisan ini adalah kitab al-Majmu’ Syarh al-Muhadzab karangan imam Nawawi (w 676 H), sehingga penulis merasa tidak perlu memberi footnote kecuali bila merujuk pada selain kitab al-Majmu’.",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/PraktekShalatIed.pdf"
     },
     {
@@ -3178,7 +3349,7 @@
       "title": "10 Persamaan & Perbedaan Mengenai Tata Cara Shalat",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW22mNg7JNQQ-dYSFY3frR9LxA4lpnypUc8RjtySUq6mC7HjcITHPyaCMiSOYU5-DDEmWpfoudhBq-FIp9ndSY4BxkBlYhDd0__v9T2dSnWvfv6c-95_-KWw_najk8nDrGGo8GYT7wXbEzTxhkIH3hOwOMjomuov1W9Xbn-AHanGeNTmGl-fDm8-pUBktu/s320/0199.webp",
-      "description": "      Dalam buku ini kami khususkan pembahasan mengenai kitab-kitab fiqih madzhab Syafi'iy dan kitab-kitab fiqih madzhab Hanbali saja, selamat membaca.",
+      "description": "      Dalam buku ini kami khususkan pembahasan mengenai kitab-kitab fiqih madzhab Syafi’iy dan kitab-kitab fiqih madzhab Hanbali saja, selamat membaca.",
       "link": "https://ia902708.us.archive.org/24/items/02072023Dp/02072023Dp/PersamaanTataCaraShalat10.pdf"
     },
     {
@@ -3259,7 +3430,7 @@
       "title": "Panduan Solat Sunat Tarawih",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirdMRwtlRBxl0-JyswAgNrYQtXLGHTzv5K-1-Y65AhR7DO2pjEsH3SzS0cRJqaak_sd3BwID1FbNYG432KEslZSPglVWTt1yw-UdXOpGZH4PGvPXa4UYsKcd8P3gi17hXxcwco4gT5qI3EbC4uBYvwhc8GWw1hhixRH6qqlKqIm_8PsMU2jhIoI4fYrT8A/s320/0190.webp",
-      "description": "       Sabda Rasulullah S.A.W. dalam hadisnya yang diriwayatkan oleh Muslim yang berarti: "Seseorang yang mendirikan solat (Tarawih) pada malam bulan Ramadhan dengan penuh keimanan dan keikhlasan, maka Allah ampunkan segala dosanya yang telah lalu.",
+      "description": "       Sabda Rasulullah S.A.W. dalam hadisnya yang diriwayatkan oleh Muslim yang berarti: “Seseorang yang mendirikan solat (Tarawih) pada malam bulan Ramadhan dengan penuh keimanan dan keikhlasan, maka Allah ampunkan segala dosanya yang telah lalu.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/PanduanSolatSunatTarawih1.pdf"
     },
     {
@@ -3310,7 +3481,7 @@
     {
       "id": 183,
       "name_category": "Pustaka Islami",
-      "title": "Orang Kafir Dalam Keluarga Nabi",
+      "title": "Orang Kafir Dalam Keluarga Nabi S.A.W.",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRz4ixIUsJg2F_FO22KEgkCreuNnsAU8D_nzbFKMZvKFgP2IsIXaL4EKTIJttlJumzCxRDgS_DHcnqy5l3536Mo8P3DA8WUplPhOmya53tbOsLDvi4bkURBRX_En_JKBIHY05GePRXOY6PEHbRKnEUtlzfEMSY2prDzkv3tatyoKs-mNSz3X8Wcq2k9Ab8/s320/0184.webp",
       "description": "      Penggalan-penggalan catatan sejarah Nabi Muhammad S.A.W., yang secara khusus menggaris-bawahi fakta-fakta tentang keberadaan orang kafir di dalam hubungan keluarga Rasulullah S.A.W.",
@@ -3394,7 +3565,7 @@
       "title": "Model Penulisan Kitab Hadits",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPo_cs2DQtSrjhws-e-EyM5nmfOklfN9uprszEcdd09jmKpp-KP7XcdtXrc49qfLE_WLgh2WTxVrmORxpI8PQzGnUIg9QMit-RBEw_gel39uij879c7mPm0F5UT6-Ep85BV1FEwP2e0R8AWnLfhpOaA4tdYs7i87Jy6rvnpoaJdotB0q3gQKULFHeNcele/s320/0175.webp",
-      "description": "      Kitab-kitab induk Hadits adalah kitab-kitab yang disusun oleh mukharrij Hadits dengan sanad yang bersambung pada generasi-generasi di atasnya sampai kepada Nabi ??? ???? ???? ????, tanpa mengutip dari kitab lain dan biasanya ditulis sebelum abad kelima hijriah.",
+      "description": "      Kitab-kitab induk Hadits adalah kitab-kitab yang disusun oleh mukharrij Hadits dengan sanad yang bersambung pada generasi-generasi di atasnya sampai kepada Nabi صلى الله عليه وسلم, tanpa mengutip dari kitab lain dan biasanya ditulis sebelum abad kelima hijriah.",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/ModelPenulisanKitabHadits.pdf"
     },
     {
@@ -3423,13 +3594,14 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIm2kZ2bzJl6sRg49PEtBi_7_fQt6IbAaUn_CCjxlDSdOywO8j7UQ4oWs9dmCSOndX0ekuh4Gl-rojPVXnxcGU4E1Mt4RByQBUq0tS3aOjRLQWRBRJRgYoq9pF08-KWotWaIi5oFhJ5BjogFrlxUgGxor3pFHceK-mXr_JS-L_bbRbN5RQQtCu1cRUc4DM/s320/0172.webp",
       "description": "      Malam ganjil dan genap menjadi perhatian penting bagi kebanyakan orang Indonesia, karena memang, beberapa orang menganggap kemuliaan malam lailatul Qadar itu diturunkan oleh Allah S.W.T.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/MeraihLailatulQadarItikaf.pdf"
+    },
     {
       "id": 170,
       "name_category": "Pustaka Al Qur'an",
       "title": "Hukum Menyentuh Mushaf & Melafadzkan Al Qur'an Bagi Wanita Haidh & Berhadats",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-42w-5U-EdP2kaBOxFCkyJsWCDB0CK7vGDLBy8gFBaPKNBpMIYoOAZfFWG-Q5dGENLRiGW2dvcaXwoipUV87QyU3BVtIpZVIOAaA4SqoUwknVJsxG0Z9TcSobvr61UYnWry_nRV3ON_122TvIKOtyvvt9ySA-FboAaxi0hgIOC-AZOI_dncQV5wBo9QjV/s320/0170.webp",
-      "description": "      Akar kata mushaf adalah shuhuf (???) dan di dalam Al-Quran kata shuhuf dinyatakan delapan kali di delapan ayat, dimana maknanya adalah lembaranlembaran, kitab-kitab terdahulu sebelum al-Quran dan catatan amal.",
+      "description": "      Akar kata mushaf adalah shuhuf (صحف) dan di dalam Al-Quran kata shuhuf dinyatakan delapan kali di delapan ayat, dimana maknanya adalah lembaranlembaran, kitab-kitab terdahulu sebelum al-Quran dan catatan amal.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/MenyentuhMushafWanitaHaid.pdf"
     },
     {
@@ -3438,7 +3610,7 @@
       "title": "Menunda Pembagian Waris",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IF_mfbspC-qkZT2Ds0aLq0fLmhF5bhjEiSQdSSaRSQirFzGi-82Xjepql8y8a6vIBLaTEmtjsdOdODHNxabzsw3g-k1WXczQEuV8ERrSiDY07OveNOlA4B7tMUNUtNasZ_BUM-wTBtGKTV7itE6SnVt7bSbOmvoxBKZJw691TOjvlcMiPSYtQWrQQzCw/s320/0169.webp",
-      "description": "      Harta warisan merupakan hak bagi setiap orang yang secara sah menjadi ahli waris dari orang yang meninggal dunia. Karena ini menjadi hak maka pemilik hak dapat memintanya kapan pun ia mau baik ketika ia membutuhkan ataupun tidak membutuhkan. Dan karena harta warisan merupakan hak maka menunda pembagian warisan tanpa ada kerelaan dari semua ahli waris yang ada adalah sebuah tindakan yang tidak dibenarkan.",
+      "description": "      Harta warisan merupakan hak bagi setiap orang yang secara sah menjadi ahli waris dari orang yang meninggal dunia. Karena ini menjadi hak maka pemilik hak dapat memintanya kapan pun ia mau baik ketika ia membutuhkan ataupun tidak membutuhkan.",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/MenundaPembagianWaris.pdf"
     },
     {
@@ -3507,7 +3679,7 @@
     {
       "id": 161,
       "name_category": "Pustaka Belajar",
-      "title": "Mengetahui Konsep Hijab Ahli Waris",
+      "title": "Mengetahui Konsep Hijab Waris",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMbCxZxIQktClTWqz4bteqR28fU2wDnc38HnnUeRphAJytTyFnmNYyTOvv3Ab3V9XBN2LEThi4BuPV8LFwEzZsPxkyzTDJMkFAyIXyg3udnM80SdfcwD_1svmtDCYUOO-TBFB3y9fpoQ9ItRLi2EcOCtt0DiE0vqSfykLq-Tfa7BL2-G6JlmpMwPHtcnKN/s320/0161.webp",
       "description": "     Buku ini hadir alasan yang pertama adalah karena masih banyak diantara kaum muslimin yang menganggap ilmu faraidh atau ilmu waris ini sangat sulit sekali untuk dipelajari.",
@@ -3591,7 +3763,7 @@
       "title": "Melacak Jejak Thaghut",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit6YTjQxEW5zyRbGoYQpuedcjkDpCR8yzIZwpfeQtoNKtm3nPzSXke-NxuF4o5xohQxFOxeTztZFIk6MusxAeBGmMpSHYY6-yKsD33UQhMVf39a-C8buy0yiA9oZU8O3C7ronTi6l1vHcVIWKjRdvM0KkP7EoOCiHxstmzJxCrHBa0VOkGGof-YQHYQsVM/s320/0152.webp",
-      "description": "     Thaghut merupakan istilah yang sangat familiar dalam Al Qur'an dan As Sunnah. Sungguh sangat aneh kalau seorang muslim tidak mengetahuinnya. Buku ini menjelaskan definisi thaghut sekaligus sepak terjangnya dalam kehidupan ini. Siapakah thaghut itu? Temukan di sini.",
+      "description": "     Thaghut merupakan istilah yang sangat familiar dalam Al Qur’an dan As Sunnah. Sungguh sangat aneh kalau seorang muslim tidak mengetahuinnya. Buku ini menjelaskan definisi thaghut sekaligus sepak terjangnya dalam kehidupan ini. Siapakah thaghut itu? Temukan di sini.",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/MelacakJejakThaghut.pdf"
     },
     {
@@ -3636,7 +3808,7 @@
       "title": "Mata Air Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglH5WCtZIoxOa0ygxv7ywC9jd4KeIT1LRYubcED_qs3U42XnyPYbJ_uRt7vCDMc1bRhq2rv5U2dQ_cUWQbtdISknnPyxdL-QRr6ImerdT1H82w74eTa1lyYVZyLoHiYjIkyNEpuULO0c9bLlt9FlqaO8_7MpG0bb0HJaYScGjHNcs2KJ2T8l2DYzR1jWTt/s320/0147.webp",
-      "description": "     Ramadhan adalah hadiah besar dari Allah untuk umat Muhammad S.A.W., di bulan ini Al-Qur'an diturunkan. Di bulan ini pahala dilipatgandakan. Di bulan ini rahmat Allah digelar dan dihamparkan. Di bulan ini keberkahan disebarluaskan. Di bulan ini rezeki orang-orang yang beriman ditambahkan. Di bulan ini tidak ada kebaikan, kecuali dilipatgandakan balasannya. Pantas saja umat Islam sangat mengagungkan dan menunggu-nunggu kedatangannya.",
+      "description": "     Ramadhan adalah hadiah besar dari Allah untuk umat Muhammad S.A.W., di bulan ini Al-Qur’an diturunkan. Di bulan ini pahala dilipatgandakan. Di bulan ini rahmat Allah digelar dan dihamparkan. Di bulan ini keberkahan disebarluaskan. Di bulan ini rezeki orang-orang yang beriman ditambahkan. Di bulan ini tidak ada kebaikan, kecuali dilipatgandakan balasannya. Pantas saja umat Islam sangat mengagungkan dan menunggu-nunggu kedatangannya.",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/MataAirRamadhan.pdf"
     },
     {
@@ -3672,7 +3844,7 @@
       "title": "Kisah Para Kekasih Allah",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPVpB8fcwAMWLLb56OqOwtKE2BE1NgYREjMFN0V11AAnY3L2bEskm1-GXqxoCEtia1qyckuFp9b7nGNDbdaRPpRhptzkwvQQnU3xmDC7PcSVl7DfwSaxXKrGLJY23Oi7VZytghAt1BcJ-Mm1aQlgEAsprc8MT9VyYtGPmv5B5afobKtHdubLB3cYPCrz-/s320/0143.webp",
-      "description": "     Kisah kehidupan orang-orang bijak untuk menyampaikan prinsip-prinsip agama, ketuhanan & pesan moral kehidupan, konsep tauhid, perbincangan mengenai ilmu kasbi dan ilmu laduni, wira'i, sikap zuhud, ketabahan, keistimewaan konsep cinta kepada Tuhan, kemurahan hati, kegelisahan eksistensial, makna penderitaan dan sebagainya dipaparkan dengan sampel-sampel kisah konkret secara sederhana agar mudah diakses dan dicerna oleh orang kebanyakan.",
+      "description": "     Kisah kehidupan orang-orang bijak untuk menyampaikan prinsip-prinsip agama, ketuhanan & pesan moral kehidupan, konsep tauhid, perbincangan mengenai ilmu kasbi dan ilmu laduni, wira’i, sikap zuhud, ketabahan, keistimewaan konsep cinta kepada Tuhan, kemurahan hati, kegelisahan eksistensial, makna penderitaan dan sebagainya dipaparkan dengan sampel-sampel kisah konkret secara sederhana agar mudah diakses dan dicerna oleh orang kebanyakan.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/MandiJanabahRasulullah.pdf"
     },
     {
@@ -3681,7 +3853,7 @@
       "title": "Manaqib Syekh Samman Al Madani",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrR5gHLnXqqiEFBjCmMnJTuy3xHYr_WhDHWjyRUWMYQdNjzl9JDeJ6EcZITWachizWoeJNwcuCvCkXZ_u2TTw28AX-XBK-5QzJFAt4Nvo74PADleOkeuMJ4bFwK__57XVsdwFHiYsoArQegPuwAOOPUKSbt6BLBB1yrtDDT---U13-qkBCFnCKga64F78N/s320/0142.webp",
-      "description": "     Cerita tentang Syekh Samman, barangkali sebagiannya keluar dari nalar, tetapi jika dipahami secara theologis maka hal semacam itu bukanlah sesuatu yang dianggap menyimpang. Misalnya, salah seorang murid beliau memanggil beliau dengan suara keras " Hai Sammaaaaaaaaan ", sementara beliau bukanlah tuhan yang kuasa memberikan pertolongan, lalu seperti ada orang berjubah datang menolong sang murid tersebut.",
+      "description": "     Cerita tentang Syekh Samman, barangkali sebagiannya keluar dari nalar, tetapi jika dipahami secara theologis maka hal semacam itu bukanlah sesuatu yang dianggap menyimpang. Misalnya, salah seorang murid beliau memanggil beliau dengan suara keras “ Hai Sammaaaaaaaaan “, sementara beliau bukanlah tuhan yang kuasa memberikan pertolongan, lalu seperti ada orang berjubah datang menolong sang murid tersebut.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/ManaqibSyekhSammanAlMadani.pdf"
     },
     {
@@ -3690,7 +3862,7 @@
       "title": "Manaqib Imam Asy Syafi'i",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHqA--VBWGM3a9MMvZASMMEJMvF8m_v5jjMCobiPFYI2GMwDTZncnVQqOXP7btguTJe7FIu7JbZCkSE7sZ3_Pr1oBW1Kl4xnncx0HAeyz05D-HvW4gx_lXs4JxFs8LcIr6hzlj7lHdXNXmDD2dXGJzU1M7iByduLRa-E-tU-byxxnt6PRRNsPfTCK_5LUm/s320/0141.webp",
-      "description": "     Di Indonesia, Imam Asy-Syafi'i merupakan ulama besar yang sudah tidak asing lagi, sebab pandangan-pandangan mazhab beliau mewarnai cara berislam mayoritas muslim Indonesia. Sayangnya tidak sedikit di antara kita yang baru mengenal Imam Asy-Syafi'I sebatas Namanya saja. Buku Manaqib Imam Asy-Syafi'i ini lebih sekadar biografi.",
+      "description": "     Di Indonesia, Imam Asy-Syafi’i merupakan ulama besar yang sudah tidak asing lagi, sebab pandangan-pandangan mazhab beliau mewarnai cara berislam mayoritas muslim Indonesia. Sayangnya tidak sedikit di antara kita yang baru mengenal Imam Asy-Syafi’I sebatas Namanya saja. Buku Manaqib Imam Asy-Syafi’i ini lebih sekadar biografi.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/ManaqibImamAsySyafii.pdf"
     },
     {
@@ -3726,7 +3898,7 @@
       "title": "Lost And Found",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZY5UMRp_lMxmdrq7kwoFm5dFhtzwq_-YuDt8ApnzmQSgJT18Ol14nriLCQZAKr73-uUbdva5X0aqzRLizNLptOC9Yxf6mv0Q3rf3RzDC-MydXPM2q2kizBmvaIs1cdnQuWC5TM2QJsxIEkVtw4Hqv61BlTmmKhCW8o47_yA7zaCBvQiqx79Dom5tZsAOj/s320/0137.webp",
-      "description": "     Kisah Pecinta Jay Park Dikejar Agen Rahasia Sepulangnya dari Korea, Sebuah adegan yang Juli pikir hanya ada di film laga pun terjadi-perkelahian, kejar-kejaran, hingga baku tembak. Lambat laun, Juli tahu bahwa kopernya tertukar dengan koper seorang agen rahasia.",
+      "description": "     Kisah Pecinta Jay Park Dikejar Agen Rahasia Sepulangnya dari Korea, Sebuah adegan yang Juli pikir hanya ada di film laga pun terjadi—perkelahian, kejar-kejaran, hingga baku tembak. Lambat laun, Juli tahu bahwa kopernya tertukar dengan koper seorang agen rahasia.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/LostAndFoundByThuJun.pdf"
     },
     {
@@ -3762,7 +3934,7 @@
       "title": "Konsep Ekonomi Dalam Al Qur'an",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjrYMrrMcfxb-6tObgogajPb4k_BJeZLwtMwpiYidv6jP6wGjuT5AzmuDwYcuBEhDHeh7l6CLsxClAQmASQgqTuZWckWeZyBT44XCzWtjpY72MqHpqqODZczu55J63DKMOJb33O1ZaZpAtMyWg82ZPkgQbAFFLG5sfFB_BJpBveAHbUcljcHsoYX3D1lip/s320/0133.webp",
-      "description": "     Al-Quran dengan keseluruhan ajarannya, datang sebagai sumber dan pedoman tingkah laku manusia. Oleh karena tindakan dan tingkah laku ekonomi adalah bagian dari aktivitas manusia maka seluruh kegiatan ekonomi haruslah berada dalam sebuah sistem Qur'ani. Dari situlah makalah ini penting untuk dipelajari dan didiskusikan bersama",
+      "description": "     Al-Quran dengan keseluruhan ajarannya, datang sebagai sumber dan pedoman tingkah laku manusia. Oleh karena tindakan dan tingkah laku ekonomi adalah bagian dari aktivitas manusia maka seluruh kegiatan ekonomi haruslah berada dalam sebuah sistem Qur’ani. Dari situlah makalah ini penting untuk dipelajari dan didiskusikan bersama",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/KonsepEkonomiDalamAlQuran.pdf"
     },
     {
@@ -3789,7 +3961,7 @@
       "title": "Terjemah Kitab Kasyifah As-Saja Fi Syarhi Safinah An-Naja | Jilid 3",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGIP0PIe_thQ65fk4KzOhZFgyXFjwslp6AsOUm9SDmPUGJIyzzVEc1z1deUXgxVjCZJTsp6G80tUdU7weVHWsA9grLg-ZYZFt4eblXZTODFgmz_7Bykg1Khgn3vdk2GrKY__iUjQaJvwxwadNt6KK_dtOSn-MzkK85IfimmPWR3s9mqw7VkzAifCeIvNQ5/s320/0130.webp",
-      "description": "     Salah satu kitab syarah dari sekian banyak kitab syarah yang disusun oleh Syeh Allamah Muhammab bin Umar an-Nawawi al-Banteni. Secara pokok, kitabsyarah tersebut menjelaskan tentang Bidang Ushuludin yang disertaibeberapa masalah-masalah Fiqhiah yang mungkin sangat waqi'iahsehingga tidak heran jika kitab tersebut dijadikan sebagai bukureferensi oleh para santri untuk mengetahui hukum-hukumnya.",
+      "description": "     Salah satu kitab syarah dari sekian banyak kitab syarah yang disusun oleh Syeh Allamah Muhammab bin Umar an-Nawawi al-Banteni. Secara pokok, kitabsyarah tersebut menjelaskan tentang Bidang Ushuludin yang disertaibeberapa masalah-masalah Fiqhiah yang mungkin sangat waqi’iahsehingga tidak heran jika kitab tersebut dijadikan sebagai bukureferensi oleh para santri untuk mengetahui hukum-hukumnya.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/KitabTerjemahSafinatunNaja3.pdf"
     },
     {
@@ -3798,7 +3970,7 @@
       "title": "Terjemah Kitab Kasyifah As-Saja Fi Syarhi Safinah An-Naja | Jilid 2",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7FR8-xH07eGWpWKtUM7vJmKmN9Rr2dkrRN_sKwT1Ll6bQ7-kWAGyW9EwsfUJPRSSGwrMgrMu_U7S38-0sIrWLKfjtDQ2TxtEqvjYeUDttkZMkEOK5nltTQTQ02w6D3F_UAVPA5sHna6YzaY4vd_112Zi2ZGikg52cNUFxMpc88KVCiPb8unlmB_ebj8bH/s320/0129.webp",
-      "description": "     Salah satu kitab syarah dari sekian banyak kitab syarah yang disusun oleh Syeh Allamah Muhammab bin Umar an-Nawawi al-Banteni. Secara pokok, kitabsyarah tersebut menjelaskan tentang Bidang Ushuludin yang disertaibeberapa masalah-masalah Fiqhiah yang mungkin sangat waqi'iahsehingga tidak heran jika kitab tersebut dijadikan sebagai bukureferensi oleh para santri untuk mengetahui hukum-hukumnya.",
+      "description": "     Salah satu kitab syarah dari sekian banyak kitab syarah yang disusun oleh Syeh Allamah Muhammab bin Umar an-Nawawi al-Banteni. Secara pokok, kitabsyarah tersebut menjelaskan tentang Bidang Ushuludin yang disertaibeberapa masalah-masalah Fiqhiah yang mungkin sangat waqi’iahsehingga tidak heran jika kitab tersebut dijadikan sebagai bukureferensi oleh para santri untuk mengetahui hukum-hukumnya.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/KitabTerjemahSafinatunNaja2.pdf"
     },
     {
@@ -3807,7 +3979,7 @@
       "title": "Terjemah Kitab Kasyifah As-Saja Fi Syarhi Safinah An-Naja | Jilid 1",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkO57Bgy3V0yZJK6L4lImqvGa3ZOP3vS_9pkOEyfpaarnJC61Hzqomd80D9YMzV72J2IOILE1A0vg1SlnuJHkcOLlL9EWVyDICpMcWZOgpQubK5ziOEKf2tiPk-cfL_YSt3pcPgyYGYTEoF8BsiTtdVyX3WB7xoILULj5HD-OOFBZk26VFilZ7t-Rr_DPC/s320/0128.webp",
-      "description": "     Salah satu kitab syarah dari sekian banyak kitab syarah yang disusun oleh Syeh Allamah Muhammab bin Umar an-Nawawi al-Banteni. Secara pokok, kitabsyarah tersebut menjelaskan tentang Bidang Ushuludin yang disertaibeberapa masalah-masalah Fiqhiah yang mungkin sangat waqi'iahsehingga tidak heran jika kitab tersebut dijadikan sebagai bukureferensi oleh para santri untuk mengetahui hukum-hukumnya.",
+      "description": "     Salah satu kitab syarah dari sekian banyak kitab syarah yang disusun oleh Syeh Allamah Muhammab bin Umar an-Nawawi al-Banteni. Secara pokok, kitabsyarah tersebut menjelaskan tentang Bidang Ushuludin yang disertaibeberapa masalah-masalah Fiqhiah yang mungkin sangat waqi’iahsehingga tidak heran jika kitab tersebut dijadikan sebagai bukureferensi oleh para santri untuk mengetahui hukum-hukumnya.",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/KitabTerjemahSafinatunNaja1.pdf"
     },
     {
@@ -3816,7 +3988,7 @@
       "title": "Terjemah Kitab Puasa Shahih Muslim",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-VyL55OcvHfH0a8ZKBntnGNX4fJp3yz_ko3M1upG1BEWKKmTEac2poUm72wZpCWF6nhYRolalBp-Y3ljKRFqoBUxN56Y21vOxANF91uh4T62p9ke0JWWOWE5_GuBlUZIi4fxab-p0lsRaV3W-Wc8Emd5vv86CLfh5JPt9cz_UUg1P1mT7KV41MlU4Wnzu/s320/0127.webp",
-      "description": "     Dari Abu Suhail, dari ayahnya, dari Abu Hurairah radhiyallahu 'anhu : Rasulullah shallallahu 'alaihi wa sallam bersabda, "Apabila bulan Ramadan telah datang, maka pintu-pintu surga dibuka, pintu-pintu neraka ditutup dan setan-setan dibelenggu.",
+      "description": "     Dari Abu Suhail, dari ayahnya, dari Abu Hurairah radhiyallahu ‘anhu : Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Apabila bulan Ramadan telah datang, maka pintu-pintu surga dibuka, pintu-pintu neraka ditutup dan setan-setan dibelenggu.",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/KitabPuasaShahihMuslim.pdf"
     },
     {
@@ -3825,7 +3997,7 @@
       "title": "Terjemah Kitab Puasa | Shahih Al Bukhari",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW816X7wqIvkN2etfAsNKv4MJAm_ANEsoqD_HE_X4HutpuOWy3SQu2Gy0L52wYgaC5Qp5DJvhtUhaSNZGLd9zgLB71Zlh8aV8o82LlQ_KlNumjn45jCTRHc2E1-BXFQ4KMfmLb9ctyInAqNyKkvgojbrPyVAPg2_yXBuAWrrzyrx0mPdPWYAf3u7ekUa2d/s320/0126.webp",
-      "description": "    Firman Allah ta'ala : "Wahai orang-orang yang beriman, diwajibkan atas kalian berpuasa sebagaimana telah diwajibkan atas orang-orang sebelum kalian supaya kalian bertakwa." (QS. Al-Baqarah: 183).",
+      "description": "    Firman Allah ta’ala : “Wahai orang-orang yang beriman, diwajibkan atas kalian berpuasa sebagaimana telah diwajibkan atas orang-orang sebelum kalian supaya kalian bertakwa.” (QS. Al-Baqarah: 183).",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/KitabPuasaShahihAlBukhari.pdf"
     },
     {
@@ -3843,7 +4015,7 @@
       "title": "Kitab Kebijaksanaan Orang Orang Gila",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM-ieWD_O9frl5ub47eN5zCXgKwJFJeFEtM-BbAotzt6t_BCPlW7XITeUX5yE_Mhd1DTH15ftMYRwbBP36HYWnv__GUME4XQUVZLhAwfEWTf_lJ1dQMHe4JlZCaLE-3lVJUzHrujVBWByMU0NoPE5F-Yib6gL3gWDDdWiSWW9PMCwV9tHG8c6Kv5Flor-0/s320/0124.webp",
-      "description": "    Semua tokoh yang diceritakan dalam kitab ini bukanlah tokoh fiktif. Ini kisah nyata tentang orang-orang yang dianggap gila dalam Islam. Sebut saja misalnya, Uwais al-Qarni, Qois si Majnun, Sa'dun, Buhlul, Salmunah si Wanita Gila, dll. Namun begitu, mereka ini bukanlah orang-orang gila biasa. Mereka sosok-sosok yang cerdas, jenius, memiliki akal yang tajam, penuh dengan kata-kata hikmah, bahkan seringkali dianggap sebagai Wali yang nyeleneh.",
+      "description": "    Semua tokoh yang diceritakan dalam kitab ini bukanlah tokoh fiktif. Ini kisah nyata tentang orang-orang yang dianggap gila dalam Islam. Sebut saja misalnya, Uwais al-Qarni, Qois si Majnun, Sa’dun, Buhlul, Salmunah si Wanita Gila, dll. Namun begitu, mereka ini bukanlah orang-orang gila biasa. Mereka sosok-sosok yang cerdas, jenius, memiliki akal yang tajam, penuh dengan kata-kata hikmah, bahkan seringkali dianggap sebagai Wali yang nyeleneh.",
       "link": "https://ia802601.us.archive.org/29/items/30062023Dp/30062023Dp/KitabKebijaksanaanOrangOrangGila.pdf"
     },
     {
@@ -3861,7 +4033,7 @@
       "title": "Kiat Menghidupkan Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9ulNxh4IVeklQ5fGx_WQU6G0YMiMJtgVEcow-sR1NT5dtKEXp7MnBHS0oKmb5ykM8zEahCRIkX2RtQDOYRipSfAktJs9ddjDUBThXfRdfIQiNd-LgHUtLAz3F7-DBtm4lRUvMSpCnn6z-k6275ENcYRfdjeqDxDNBZMNvT-d_7geQTU2IIL3NW_NdiOof/s320/0122.webp",
-      "description": "    Seiring dengan datangnya Bulan Ramadhan, bagaimana kita menyambutnya? Apakah dengan permainan-permainan yang melalaikan? Dengan begadang setiap malam? Ataukah kita kesal dengan kedatangannya dan merasa keberatan? Na'udzubillah min dzalik.",
+      "description": "    Seiring dengan datangnya Bulan Ramadhan, bagaimana kita menyambutnya? Apakah dengan permainan‐permainan yang melalaikan? Dengan begadang setiap malam? Ataukah kita kesal dengan kedatangannya dan merasa keberatan? Na’udzubillah min dzalik.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/KiatMenghidupkanRamadhan.pdf"
     },
     {
@@ -3885,7 +4057,7 @@
     {
       "id": 119,
       "name_category": "Pustaka Islami",
-      "title": "Khadijah Al Kubra Radhiyallahu",
+      "title": "Khadijah Al Kubra Radhiyallahu Anha",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilGpexiA8ugfoepfj1HnXrOkqfwdRxlL_uFqEd35pt52TLvklmbOXRsx1qufYq8Bu_QL3M9sSXorhmIrV8bxK7INiaoyFFCMTTJp4CSCG6xFBqJi4ZE1u9YiZLacMI2wluKQ9w9IJQbTdbJgPE71eayDtzVrOHJOWu_FyBKmyacli-7wB4nP_W8DEv3rZ-/s320/0119.webp",
       "description": "    Khadijah adalah istri yang paling agung, alkubra, the greates, posisinya jauh lebih agung dari semua istri Rasulullah SAW. Beliau merupakan istri pertama Nabi SAW yang tidak pernah diduakan sepanjang hidupnya dengan wanita lain.",
@@ -3915,7 +4087,7 @@
       "title": "Kedudukan Qadhi Dalam Hukum Islam",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtT9_hpdt9Lb4PHZOtvQIgtKzo0SqeindWQitBwDZQVfufy-MY_Bj211RE79CJJEYS-Dv_XcC4c6UcgjBW1aTMPuYcu7zvMatAzIri90CwrNlDHWwTtANZAGx0TGPX3SzdXh06y3AF28k9RVCWjodaBlneCrqbypg90rdrgePUJ9CQZJdVVaj16rz7DT52/s320/0116.webp",
-      "description": "      Secara bahasa, qadhi adalah bentuk isim fail dari mashdar-nya yaitu al-qadha'. Maka qadhi adalah orang yang melaksanakan qadha,  ternyata kata qadha' ini punya banyak makna. Di antaranya ada yang bermakna penciptaan, tindakan, perintah penunaian, perintah, penunaian, menjanjikan, penyampaian, menjanjikan, penyempurnaan dan seterusnya.",
+      "description": "      Secara bahasa, qadhi adalah bentuk isim fail dari mashdar-nya yaitu al-qadha'. Maka qadhi adalah orang yang melaksanakan qadha,  ternyata kata qadha’ ini punya banyak makna. Di antaranya ada yang bermakna penciptaan, tindakan, perintah penunaian, perintah, penunaian, menjanjikan, penyampaian, menjanjikan, penyempurnaan dan seterusnya.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/KedudukanQadhiHukumIslam.pdf"
     },
     {
@@ -3933,7 +4105,7 @@
       "title": "Kasful Asror",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9XAOK3ASF_AWHg2YL008Dj59S05R7gbL4g-lEGsRBTrLFJurOP1NL7yd7V_GGILDNzkBvZ5bEPgVoClJBsTx83UwmkbjREgHD1QFmR6pfpiG1GXE2qE_JoUfiJMwuRs9aN_uoi29k5RWd3Z9sJ_Ey20bjmgZVMs_xPHTvf_si-HqyTomqh5rBya5sQfQ1/s320/0114.webp",
-      "description": "      Buku ini seputar tanya jawab tentang ilmu tasawuf, diterjemahkan oleh asy-Syaikh Muhammad Shalih bin Abdullah Mangkabumi didasarkan oleh Hadits Nabi S.A.W. yaitu "Menuntut 'ilmu itu fardhu (ya'niwajib) atas setiap orang Islam laki-laki dan perempuan.",
+      "description": "      Buku ini seputar tanya jawab tentang ilmu tasawuf, diterjemahkan oleh asy-Syaikh Muhammad Shalih bin Abdullah Mangkabumi didasarkan oleh Hadits Nabi S.A.W. yaitu “Menuntut ‘ilmu itu fardhu (ya‘nīwājib) atas setiap orang Islām laki-laki dan perempuan.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/KasfulAsrorIlmuTasawuf.pdf"
     },
     {
@@ -3951,7 +4123,7 @@
       "title": "Kajian Fikih Puasa (Fiqhus Shiam)",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiApRt8oR5C4mcH1V3x0R0m4oUCraJvs-fXhudep987jcVTIE5ZDRWvNyiWTxbowTZpvilsiBCNolfn4j_4me-gpKe-qSlgm930mbl7G-T-5Jx0Rpl42Tb5STE0IfA8X_0XqTEe5dLZVfuBJEzZ_W93b48PerB9vx96VFOgJ7Pb421H73r1FftdahxNqQE4/s320/0112.webp",
-      "description": "      Puasa dalam bahasa arab adalah shaum dan jama`nya adalah shiam. Secara ilmu bahasa, shaum itu berarti al-imsak yang berarti 'menahan'. Sedangkan menurut istilah syariah, shaum itu berarti : Menahan diri dari makan, minum, hubungan seksual dan hal lain yg membatalkannya sejak subuh hingga terbenam matahari dengan niat ibadah.",
+      "description": "      Puasa dalam bahasa arab adalah shaum dan jama`nya adalah shiam. Secara ilmu bahasa, shaum itu berarti al-imsak yang berarti ‘menahan’. Sedangkan menurut istilah syariah, shaum itu berarti : Menahan diri dari makan, minum, hubungan seksual dan hal lain yg membatalkannya sejak subuh hingga terbenam matahari dengan niat ibadah.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/KajianFikihPuasaFiqhusShiam.pdf"
     },
     {
@@ -3987,7 +4159,7 @@
       "title": "24 Jam Di Bulan Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_A4yrb8eePUpR2hlweKjpa5MHt2VpKSAa_eEKZ3ZHLVQHJHGDs80wDZqgmLMxZQnXu31YFMTcqRMaLD2YDdwaHpJHpMeV1ska05gwKYEIVm3OefV5LPXMd52HpcVbwBCqWokiHKQCLbL2kfU3ZWMXtocE6zmOzmmxJJx418xlOeHYzElDtKFW2m42dRTr/s320/0108.webp",
-      "description": "      Buku ini adalah buku yang insya Allah bisa membantu dalam amaliyah di bulan Ramadhan. Buku ini sebenarnya dikembangkan dari sebuah buku kecil dalam teks Arab "Baramij 'Amaliyyah li AlUsroh Al-Muslimah fi Ramadhan" karya Nayif bin Jam'an Al-Jaridan hafizhahullah yang diambil dari Majallatul Bayan yang diterbitkan Tahun 1431 H.",
+      "description": "      Buku ini adalah buku yang insya Allah bisa membantu dalam amaliyah di bulan Ramadhan. Buku ini sebenarnya dikembangkan dari sebuah buku kecil dalam teks Arab “Baramij ‘Amaliyyah li AlUsroh Al-Muslimah fi Ramadhan” karya Nayif bin Jam’an Al-Jaridan hafizhahullah yang diambil dari Majallatul Bayan yang diterbitkan Tahun 1431 H.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/JamDiBulanRamadhan24.pdf"
     },
     {
@@ -4032,7 +4204,7 @@
       "title": "'Illat Hukum",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVkfLrNKw3AAC-kabdh-tCKOcGXywsSRg6o603VqRw9xLRT3buqmLCYAQwkHsVd7xdDRy1rkV5nKSBa6j_C4b3ncYGPwBL61bHR8w5RLyQKy2km0m5nWq3SzyUk8jSmjMWWEmfBsrrRllP4Hdy_5CWg4DX6_rq_3YvI0d5slh4lJkMo4MuRRUHUcR2myLW/s320/0103.webp",
-      "description": "      Istilah 'illat barangkali kurang familiar di telinga kita. Kita lebih sering mendengar istilah dalil ketimbang 'illat. Walaupun sebenarnya dalam beberapa hal, 'illat dan dalil itu punya fungsi atau posisi yang kurang lebih sama. Bahkan dalam beberapa hal, istilah 'illat justru lebih mengena ketika menggunakan istilah dalil.",
+      "description": "      Istilah ’illat barangkali kurang familiar di telinga kita. Kita lebih sering mendengar istilah dalil ketimbang ’illat. Walaupun sebenarnya dalam beberapa hal, ’illat dan dalil itu punya fungsi atau posisi yang kurang lebih sama. Bahkan dalam beberapa hal, istilah ’illat justru lebih mengena ketika menggunakan istilah dalil.",
       "link": "https://ia902601.us.archive.org/29/items/30062023Dp/30062023Dp/IllatHukum.pdf"
     },
     {
@@ -4086,7 +4258,7 @@
       "title": "Hukum Seputar Shalat Tarawih",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7PInDe7N_5xrtqMtrWpD9oeAaLgwdrIjqR3zfI4TOupltksW6i0a3jcsUCL9l3Ef3MJdSiqVyEqAYxOm99nMflbQ4-ajf5yuBNTooM5rlZI82FFBOwvvXOzAkNX8Yd5Beo-NTw6z8YCSyV73rQ78oSDtxGPZixviev-KL6LYRQlGOszJQ3VIEMGQYF3LI/s320/0097.webp",
-      "description": "     Pelajaran kali ini tentang qiyamu Ramadhan, keutamaan Ramadhan, keutamaan malammalam Ramadhan, waktu pelaksaan, tata cara, bacaannya, jumlah raka'at, dan yang terkait dengan witir serta qunut witir. Juga tentang hal-hal yang diada-adakan oleh manusia serta hukum-hukum selainnya.",
+      "description": "     Pelajaran kali ini tentang qiyamu Ramadhan, keutamaan Ramadhan, keutamaan malammalam Ramadhan, waktu pelaksaan, tata cara, bacaannya, jumlah raka’at, dan yang terkait dengan witir serta qunut witir. Juga tentang hal-hal yang diada-adakan oleh manusia serta hukum-hukum selainnya.",
       "link": "https://ia802603.us.archive.org/20/items/27062023pdf/27062023pdf/HukumSeputarShalatTarawih.pdf"
     },
     {
@@ -4104,7 +4276,7 @@
       "title": "Hukum Najis Madzhab Syafi'i",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPF5eWS9r9ZYeSkkScJzZT2CjtZZneRtPRe-peDCJpqDW1BN5UC6dJ_uA2779rfSpBLSXpe_a3kd779d_zNd1gjOn3q-2SNeS_nyoVBObFsyIOWOtLdoNq3yczsxENCEw6L5uuBENnugq0xs6cT16ZCs-oecxPV5CoIqIszfrfCXVb85dmZdQMqs1g9HT7/s320/0095.webp",
-      "description": "     Najis secara bahasa artinya sesuatu yang kotor dan menjijikan, sedangkan menurut istilah ulama syafi'iyah, najis diartikan sebagai sesuatu yang dianggap kotor oleh syariat dan dapat menghalangi dari keabsahan shalat.",
+      "description": "     Najis secara bahasa artinya sesuatu yang kotor dan menjijikan, sedangkan menurut istilah ulama syafi’iyah, najis diartikan sebagai sesuatu yang dianggap kotor oleh syariat dan dapat menghalangi dari keabsahan shalat.",
       "link": "https://ia802603.us.archive.org/20/items/27062023pdf/27062023pdf/HukumNajisMadzhabSyafii.pdf"
     },
     {
@@ -4212,7 +4384,7 @@
       "title": "Haditsnya Nomor Berapa",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivtHgWmk-dLPeqixShV2PyleTYEVRXmmg77MKQeBmeCAdk4RQ1wa93ozQ4KTNx7xMKu9eKPUVyrSYDdzg5dCc8tcykJ0X-HzCLdToGd2j1TkMx4DoznivXjFateTuhyw_PpyyBus-MmW8UvBmu1dAWP_5_PC1_I9sqEcRcAsWXwVsbryqAFyzvVlqUWMYt/s320/0083.webp",
-      "description": "     Buat kalangan yang belajar hadits secara klasik, hadits memang tidak penting, karena bukan tradisi para pembelajar hadits di masa lalu untuk menyebutkan nomor-nomor hadits, Hadits-hadits itu diidentifikasi cukup dengan menyebutkan potongannya saja, atau malah hanya ujung awalnya saja.  juga disebut dengan istilah athraf (?????).",
+      "description": "     Buat kalangan yang belajar hadits secara klasik, hadits memang tidak penting, karena bukan tradisi para pembelajar hadits di masa lalu untuk menyebutkan nomor-nomor hadits, Hadits-hadits itu diidentifikasi cukup dengan menyebutkan potongannya saja, atau malah hanya ujung awalnya saja.  juga disebut dengan istilah athraf (أطراف).",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/HaditsnyaNomorBerapa.pdf"
     },
     {
@@ -4230,7 +4402,7 @@
       "title": "Hadiah Dan Bekal Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4y07HFE2wRn8NccwUBwqSTbnkNX18baOl1jporxCvGKXo1QfSYXNWGIjDKyScxcNug2MrsedG3RqfEhGbnBrw6HAfI426sM2taa_1FPhzkL8k5jzbIdBUgChlh_OH6nBh0JMo1gVYKVoppo4j_aSqpov0cqQWyUKkDpuwuOkUINrQeLGj8EmyAPkGj_Mc/s320/0081.webp",
-      "description": "     Menyambut bulan Romadhan dengan bekal "ILMU" dan "PEMAHAMAN" yang benar, berikut kami persembahkan tulisan sederhana guna turut membantu kebutuhan perbekalan ilmu & pemahaman yang dimaksud.",
+      "description": "     Menyambut bulan Romadhan dengan bekal “ILMU” dan “PEMAHAMAN” yang benar, berikut kami persembahkan tulisan sederhana guna turut membantu kebutuhan perbekalan ilmu & pemahaman yang dimaksud.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/HadiahDanBekalRamadhan.pdf"
     },
     {
@@ -4239,7 +4411,7 @@
       "title": "Gembira Menyambut Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixYceZI6o_g5jyDgHEyD5qj12yl8-d7r9aqAbSycxRSX40V1CVTBoQfh-AA947qKG5fNWyAD1vam9cI-OA2x18onKPnc9sSqQOY2FxUj0D6N0UjYqPNMaL8p4_fnZliwccz6_zeFjSID8-CIn4zguxNgInt0rk4IvSEJaYi_AMYusJz5W6dalv1AxeTs9Q/s320/0080.webp",
-      "description": "     Seorang muslim yang baik keislamannya senantiasa berada dalam kebaikan terlebih lagi jika Allah subhanahu wa ta'ala memberikan karunia kepadanya agar berjumpa dengan bulan Ramadan yang merupakan kesempatan emas untuk beramal kebajikan atau kesempatan-kesempatan lain (selain Ramadhan) yang merupakan kesempatan emas untuk beribadah.",
+      "description": "     Seorang muslim yang baik keislamannya senantiasa berada dalam kebaikan terlebih lagi jika Allah subhanahu wa ta’ala memberikan karunia kepadanya agar berjumpa dengan bulan Ramadan yang merupakan kesempatan emas untuk beramal kebajikan atau kesempatan-kesempatan lain (selain Ramadhan) yang merupakan kesempatan emas untuk beribadah.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/GembiraMenyambutRamadhan.pdf"
     },
     {
@@ -4248,7 +4420,7 @@
       "title": "Furuul Masail (Cabang Masalah)",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjCUvLjGVDq4xZDs9WjxsI0H89CXUa1dcX5tGdQgTYubr2qpMe7IwCPWHTtw-vR0_fTPWFF--bRM1DhsRJOUaZPETLaC_WdlZ_ozWjVspVGnoHli-HDaqqEb5J8GoYH7z5X-ZzpcYGM1Jx0NEOYTrhjrJaApBcTl4WzgSXuD-g5ZR7rhqYJBgtFWYnFi5/s320/0079.webp",
-      "description": "     Al-Hamdulillah, dengan nikmat Allah I saya Hamba yang hina Muhamad Rauf Bin Minhat, telah meriwayatkan kitab Furu'ul Masail dan segala kitab karangan Syeikh Daud AlFatoni daripada beberapa orang Syeikh. Iaitu Syeikh Muhammad Fuad Al-Maliki, Syeikh Ahmad Fahmi Zamzam Al-Maliki dan Syeikh Muhammad Nuruddin Marbu Al-Banjari AlMakki.",
+      "description": "     Al-Hamdulillah, dengan nikmat Allah I saya Hamba yang hina Muhamad Rauf Bin Minhat, telah meriwayatkan kitab Furu’ul Masail dan segala kitab karangan Syeikh Daud AlFatoni daripada beberapa orang Syeikh. Iaitu Syeikh Muhammad Fuad Al-Maliki, Syeikh Ahmad Fahmi Zamzam Al-Maliki dan Syeikh Muhammad Nuruddin Marbu Al-Banjari AlMakki.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/FuruulMasailCabangMasalah.pdf"
     },
     {
@@ -4257,7 +4429,7 @@
       "title": "Beautiful Sunnats Of The Beloved Nabi",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAgiMtFBk8kOFiEjUdg0XU-UaOC3Iq8p5v8Pjt-JczmTkDbAmFiKJRf5IHRgr2XJythYhzUnOSUlW5clij5LlNxVtdQTSZQIhvTCO1Fv7GDUQQyOe4cInjWZuCmLyGDflUK-7hB7cNYJ8RG0JkapFNyDTWM_pQhp07T4HqnQgjGf4glBOZUZ6bC38VHUJN/s320/0078.webp",
-      "description": "     Whenever one is faced with any problem related to this world or the hereafter, be it a bodily affliction or a spiritual one i.e. desire to sin, one should perform two rakaats salaatul haajaat with the relevent duas. Thereafter make dua sincerely and repeatedly every day. Allah Ta'ala will create means of overcoming the problems from the unseen. Whomsoever wishes, should take the favours of assistance and generosity from his Lord.",
+      "description": "     Whenever one is faced with any problem related to this world or the hereafter, be it a bodily affliction or a spiritual one i.e. desire to sin, one should perform two rakaats salaatul haajaat with the relevent duas. Thereafter make dua sincerely and repeatedly every day. Allah Ta’ala will create means of overcoming the problems from the unseen. Whomsoever wishes, should take the favours of assistance and generosity from his Lord.",
       "link": "https://ia802603.us.archive.org/20/items/27062023pdf/27062023pdf/FunnyDestinyByAraaa.pdf"
     },
     {
@@ -4284,7 +4456,7 @@
       "title": "Fiqih Shalat Gerhana",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4L2g_KiQMvMmAhfTzZosLfZCwnytf2HMPA3dnuaGhlfyMJAEKB9XgedCGZB4zMXvu4OTRDd5L67OBx5GqWc_Efx011M-UebhWjEnMAogRdyeMEab_iKUbADOWXfOv7ZrZzqURCDqlPong6KarQWiBLJxG_xBcYIgCOdiAioMLuFzEiU7d4VInNDhh27u/s320/0075.webp",
-      "description": "     Istilah gerhana dalam bahasa arab sering disebut dengan istilah khusuf (??????) dan juga kusuf (??????) sekaligus. Namun masyhur juga di kalangan ulama penggunaan istilah khusuf -dengan huruf kho' - untuk gerhana bulan dan kusuf -dengan huruf kafuntuk gerhana matahari.",
+      "description": "     Istilah gerhana dalam bahasa arab sering disebut dengan istilah khusuf (الخسوف) dan juga kusuf (الكسوف) sekaligus. Namun masyhur juga di kalangan ulama penggunaan istilah khusuf –dengan huruf kho’ - untuk gerhana bulan dan kusuf –dengan huruf kafuntuk gerhana matahari.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/FiqihShalatGerhana.pdf"
     },
     {
@@ -4347,7 +4519,7 @@
       "title": "Fiqih Niat",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8GfEAr_Hi-nQ63MSk_wc5Y-07mT01iJLYykfstmQ9l6ZrsUkKVRPS6s1oRA4JQxxAKkcG3CBCS9JNba26v0np_6DHnzd2NAqLm78Gw7wfSD5WiChSgJJfZdsdvuasBAG1lhGHdkQLrw8UL_fpNKLOn2iON6wGxd7KhdPDNJpJ39sRhJpPMkeQPx5i1BaF/s320/0068.webp",
-      "description": "     Secara bahasa, niat berasal dari bahasa Arab nawaa-yanwi-niyyatan (??? - ???? - ???). Di mana lafaz ini memiliki beberapa makna, di antaranya adalah alqoshdu (suatu maksud/tujuan) dan al-hifzhu (penjagaan), Sedangkan secara istilah, para ulama berbeda pendapat dalam mendefinisikan niat.",
+      "description": "     Secara bahasa, niat berasal dari bahasa Arab nawaa-yanwi-niyyatan (نية - ينوي - نوى). Di mana lafaz ini memiliki beberapa makna, di antaranya adalah alqoshdu (suatu maksud/tujuan) dan al-hifzhu (penjagaan), Sedangkan secara istilah, para ulama berbeda pendapat dalam mendefinisikan niat.",
       "link": "https://ia802603.us.archive.org/20/items/27062023pdf/27062023pdf/FiqihNiat.pdf"
     },
     {
@@ -4401,7 +4573,7 @@
       "title": "Fikih Praktis Puasa Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEDgWPJeEqDyE3gd-yRSm4QyzaAwUydYnfTPgc50wKyDxickH8NPbkSL3GhflQGjoLoeYZOgjnpjzLof93akpGE-BQHkA6HooH2KiB8LnpLFy0FgkFeQM83lauLJUBIqEpCqMqbQRqfeurrHz7qvAPK-C4S_jCbbAsOhmB3Vq4NhLvZ5Ox2HDjAX6wDWxq/s320/0062.webp",
-      "description": "    Pembahasan ringkas, padat dan jelas seputar puasa Ramadhan dengan berpijak pada dalil-dalil yang valid dari al-Qur'an dan asSunnah serta penjelasan para ulama terkemuka, Semoga bermanfaat.",
+      "description": "    Pembahasan ringkas, padat dan jelas seputar puasa Ramadhan dengan berpijak pada dalil-dalil yang valid dari al-Qur‘an dan asSunnah serta penjelasan para ulama terkemuka, Semoga bermanfaat.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/FikihPraktisPuasaRamadhan.pdf"
     },
     {
@@ -4419,7 +4591,7 @@
       "title": "Fatwa Seputar Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFgmciTjU9VXkE6whrx3Zm86PtZVxIqGjEOZWcFQ2Em2AGqTvtxIoH4w3ewK-JwbQMDPRvNvHm9lHmrLpYS61buSP8luOdMFHGp5dr-CpHkft4otgB7WEz_1CEhzlZhVUpXuuGZzRIZz-nKSvdNt1If9dceoLWMhcJdOvsJbSgF5gkQrATcnjcXGPnsm7f/s320/0060.webp",
-      "description": "   Penyusun memilih fatwa tiga ulama besar al-Azhar : Syekh 'Athiyyah Shaqar, Syekh DR. Yusuf al-Qaradhawi dan Syekh DR. Ali Jum'ah, karena keilmuan dan manhaj al-Washatiyyah (moderat) yang terus mereka terapkan dalam fatwa, dengan kekayaan dalil dan referensi bacaan.",
+      "description": "   Penyusun memilih fatwa tiga ulama besar al-Azhar : Syekh ‘Athiyyah Shaqar, Syekh DR. Yusuf al-Qaradhawi dan Syekh DR. Ali Jum’ah, karena keilmuan dan manhaj al-Washatiyyah (moderat) yang terus mereka terapkan dalam fatwa, dengan kekayaan dalil dan referensi bacaan.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/FatwaSeputarRamadhan30.pdf"
     },
     {
@@ -4437,7 +4609,7 @@
       "title": "Ensiklopedi Fatwa Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMN6SSfoCpWEfs3jguA2LlE8mTDPsCVZbcQgs6g2V0jTQimS_6pVtPts9HAPsbAgtZmG5fYfUSVMwSjeVqEyFyZmd_IcW_5eC5FmgOZsX81x3CBBJVXnMoYIy_w9RaxOatyeOuwQqce_U6RKpdXFge9HUmNyH04VdxcHgmGd6CNva863TYrEbah4xgO_p7/s320/0058.webp",
-      "description": "  Fatwa-fatwa bermanfaat berkaitan puasa Ramadhan, hukum-hukum puasa dan yang berkaitan dengan pembahasan bulan Ramadhan mulai dari puasa, sholat, 'itikaf, zakat fitri dan hal-hal lain yang mesti diketahui oleh orang yang berpuasa.",
+      "description": "  Fatwa-fatwa bermanfaat berkaitan puasa Ramadhan, hukum-hukum puasa dan yang berkaitan dengan pembahasan bulan Ramadhan mulai dari puasa, sholat, ‘itikaf, zakat fitri dan hal-hal lain yang mesti diketahui oleh orang yang berpuasa.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/EnsiklopediFatwaRamadhan.pdf"
     },
     {
@@ -4473,7 +4645,7 @@
       "title": "Catatan Hati Si Bohay",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_ojuocN3QqfKg3p2fBjmbykUj3B75pD3PogCVhct8ePEJQvFhbdzYuhPAYH3WyqoMjsMeWASpmCbP7lV-7-PVLqxaAlNPgTOuY4GxMJkKlxfX8jCn84U5Oznu6RRjuPwXMC2Lh62pFr1xmIMN1z06ij0V62uD0ubcRQjOiq4pn7l-kpA8VxLBfnAfl03f/s320/0054.webp",
-      "description": "    Kenalin, kita Duo Bohay. Siapa bilang bohay ada batesnya? Buat kita, bodi yang dibilang "bohay" itu bukan kayak definisi-definisi  mainstream yang biasa kalian denger, Ini kisah suka-duka-sukanya punya bodi bohay.",
+      "description": "    Kenalin, kita Duo Bohay. Siapa bilang bohay ada batesnya? Buat kita, bodi yang dibilang “bohay” itu bukan kayak definisi-definisi  mainstream yang biasa kalian denger, Ini kisah suka-duka-sukanya punya bodi bohay.",
       "link": "https://ia802603.us.archive.org/20/items/27062023pdf/27062023pdf/CatatanHatiSiBohayByDaisyAnn.pdf"
     },
     {
@@ -4491,7 +4663,7 @@
       "title": "Buku Saku Ramadhan",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEino4M4v9uHg5tfmFMWpe0OWo3Obp1wmQcHIHcWQkNqKncPCJn3BBzONo1TuWFiAMkSPSeAi65evB8oTLnPQt-LDgyhpptcYwED3YkqX4StthXHQZFoo0cfluo052kSmKu0y0qBL6cHzXT3-deWh394NUIVaEvCpZYGmx_3bQY1isaDKKdFXDmpng7O0SF9/s320/0052.webp",
-      "description": "    Menurut pendapat terkuat, wanita yang suci dari haidh di pertengahan siang bulan Ramadhan, berkewajiban menahan diri dan berpuasa. Hal ini dikarenakan udzur syar'i yang membolehkannya untuk tidak berpuasa telah hilang.",
+      "description": "    Menurut pendapat terkuat, wanita yang suci dari haidh di pertengahan siang bulan Ramadhan, berkewajiban menahan diri dan berpuasa. Hal ini dikarenakan udzur syar’i yang membolehkannya untuk tidak berpuasa telah hilang.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/BukuSakuRamadhan.pdf"
     },
     {
@@ -4527,7 +4699,7 @@
       "title": "Budak Dalam Literatur Fiqih",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfSEilE0Gp2L3TF0WTFiow-KyABU-WevVLLcKH52SHkQhgBYmuSjuyy63l12YSGQiEZNWNFMQAmpLBheczF3yYO4-TbNiYXX0pQCy2WEGoIBZnym_y8POgnLOq9uVUBcWgVKzWSh0shGzqZhQtNnmnMI-Lnj-1ei0H7zOauGMx8Y68d4Citlm5lSpCCv7w/s320/0048.webp",
-      "description": "  Perbudakan sebenarnya merupakan masalah klasik, artinya ia sudah ada sejak dahulu. Bahkan ketika masa Socrates, Plato dan Aristoteles hidup sudah ada perbudakan. Namun demikian, Islam membuat syari'at untuk memerdekakan budak & sebaliknya tidak mensyari'atkan perbudakan.",
+      "description": "  Perbudakan sebenarnya merupakan masalah klasik, artinya ia sudah ada sejak dahulu. Bahkan ketika masa Socrates, Plato dan Aristoteles hidup sudah ada perbudakan. Namun demikian, Islam membuat syari’at untuk memerdekakan budak & sebaliknya tidak mensyari’atkan perbudakan.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/BudakDalamLiteraturFiqih.pdf"
     },
     {
@@ -4635,7 +4807,7 @@
       "title": "Belum Qadha Puasa, Sudah Masuk Ramadhan Berikutnya",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3JC1n_c8UfOZP2fVfu12_mpdtKzYc2N3AtW90XR11Sc6l1DjBFki4RGGbE3WabUzJU0W099IeN90t9DIYKp-6N_qXCOecSfW3pJXt1YAHbBErNlV8pi4egefm87AJTHOm7t2tQ4a96n0gG22Ajftl_YTc0760iUF2FfUjMwSZCaW_wJiLT2GIbxD0VxE_/s320/0036.webp",
-      "description": "  Kata al-qadha' (??????) dalam bahasa Arab punya banyak makna, di antaranya bisa bermakna hukum (?????), dan juga bisa bermakna penunaian (??????).",
+      "description": "  Kata al-qadha’ (القضاء) dalam bahasa Arab punya banyak makna, di antaranya bisa bermakna hukum (الحكم), dan juga bisa bermakna penunaian (األداء).",
       "link": "https://ia802603.us.archive.org/20/items/27062023pdf/27062023pdf/BelumQadhaSudahRamadhan.pdf"
     },
     {
@@ -4716,7 +4888,7 @@
       "title": "Batal Dan Batil Dalam Muamalah",
       "type_file": "HTML",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvT8m-Uui6LtvmYY7KCEIbd9XnomqkHmn5JrkeMKJ3HPMR-8Nh3L0JRiCSqWsCvyFsP7WX0IRY1rWuGhJnM10mDbTe5vTU6_SXtCzHhVsn9uPV9qMgJTFrV2evGzAkyWt4KGvJsaxMjDIdnr7AUsulmnbddfjQUFY550ql02PSRzMqSXCMZnpMSUS4P_lK/s320/0026.webp",
-      "description": "  Batil dan batal dalam bahasa arabnya awalnya memiliki makna yang sama. Bedanya batil (??????) itu berupa isim fa'il. Sedangkan batal (???) itu berupa fi'il madhi.",
+      "description": "  Batil dan batal dalam bahasa arabnya awalnya memiliki makna yang sama. Bedanya batil (الباطل) itu berupa isim fa'il. Sedangkan batal (بطل) itu berupa fi'il madhi.",
       "link": "https://ia902603.us.archive.org/20/items/27062023pdf/27062023pdf/BatalDanBatilDalamMuamalah.pdf"
     },
     {
