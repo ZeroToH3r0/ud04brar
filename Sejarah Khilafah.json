@@ -1,0 +1,255 @@
+{
+  "https://*********************************": [  
+      
+    // SAMPLE ===============================================
+// 1.SETTING APP =============================================
+// Settings.JUDUL_APP = c.getString("a");
+// Settings.ICON_APP = c.getString("b");
+// Settings.PRIVACY_POLICY = c.getString("c");
+// Settings.LINK_SHARE_APP = c.getString("d");
+// // =========================================================
+// 2. SETTING UPDATE MAINTENANCE APP ==========================
+// Settings.STATUS_APP = c.getString("e");
+// Settings.LINK_REDIRECT = c.getString("f");
+// // =========================================================
+// 3. SETTING ADS ADMOB========================================
+// Settings.SELECT_ADS = c.getString("g");
+// Settings.MAIN_ADS_BANNER = c.getString("h");
+// Settings.MAIN_ADS_INTER = c.getString("i");
+// Settings.ADMOB_NATIVE = c.getString("j");
+// Settings.ADMOB_OPENADS = c.getString("k");
+
+      // "g": "ADMOB",
+      // "h": "ca-app-pub-3940256099942544/6300978111",
+      // "i": "ca-app-pub-3940256099942544/1033173712",
+      // "j": "ca-app-pub-3940256099942544/2247696110",
+      // "k": "ca-app-pub-3940256099942544/3419835294",
+// // =========================================================
+// 4. SETTING ADS APPLOVIN ====================================
+// Settings.SELECT_BACKUP_ADS = c.getString("l");
+// Settings.BACKUP_ADS_BANNER = c.getString("m");
+// Settings.BACKUP_ADS_INTER = c.getString("n");
+// Settings.BACKUP_ADS_NATIVE = c.getString("o");
+
+      // "l": "APPLOVIN-M",
+      // "m": "XXXXX",
+      // "n": "XXXXX",
+      // "o": "XXXXX",
+// // =========================================================
+// 5. SETTING NATIVE ==========================================
+// Settings.START_POSITION_NATIVE_ADS = c.getInt("p"); // first show ads on list item/guide
+// Settings.INTERVAL_NATIVE_ADS = c.getInt("q"); //interval for show native ads on list item/guide
+// Settings.SIZE_NATIVE = c.getString("r"); // 1 = small, 2 = Medium
+// Settings.NATIVE_ADS_COLOR = c.getString("s"); // use hexadecimal for change colors "#05eccc68"
+// Settings.STROKE_LINE_NATIVE_ADS = c.getString("t"); // 1 = stroke, 0 = non stroke
+// // =========================================================
+// 6. SETTING INTER ===========================================
+// Settings.INTERVAL = c.getInt("u");
+// // =========================================================
+// 7. SETTING BACKUP SDK ADS ==================================
+// Settings.INITIALIZE_SDK = c.getString("v");
+// Settings.INITIALIZE_SDK_BACKUP_ADS = c.getString("w");
+// // =========================================================
+// 8. SETTING HPK =============================================
+// Settings.HIGH_PAYING_KEYWORD1 = c.getString("aa");
+// Settings.HIGH_PAYING_KEYWORD2 = c.getString("ab");
+// Settings.HIGH_PAYING_KEYWORD3 = c.getString("ac");
+// Settings.HIGH_PAYING_KEYWORD4 = c.getString("ad");
+// Settings.HIGH_PAYING_KEYWORD5 = c.getString("ae");
+// // =========================================================
+// SETTING ANTI SS RECORD =====================================
+// Settings.ON_OFF_SAINS = c.getString("af");
+// // =========================================================
+// TEXT SHARE APP =============================================
+// Settings.TEXT_SHARE_APP = c.getString("ag");
+// // =========================================================
+// REFRESH_CONNECTIONS ========================================
+// Settings.REFRESH_TIME_CONNECTIONS = c.getString("ag");
+// // =========================================================
+    // SAMPLE =================================================
+  
+    {
+// 1. SETTING APP =============================================
+      "a": "Sejarah Khilafah", 
+      "b": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Vc8_dYfM5g_a7Wor1u7FaSyQ9hZI-UAZFEALAf6o3xkfdWYrpObacGTEx1UQPYuRtwjWyTRSKQLNiFHwXDwSrLiDBALryx5bSNM4xq2jCG77z2wtENesu-atD9J1un6yL2CEbxhugfnPoWoTYzPVhh5pZHzcClCEt53LBOmrMytkS_y89nkEK5SGaZqY/s320/splash.webp",
+      "c": "https://team-sains.blogspot.com/privacypolicy",
+      "d": "https://play.google.com/store/apps/details?id=com.sains.app31062023004.SejarahKhilafah", 
+// // =========================================================
+// 2. SETTING UPDATE MAINTENANCE APP ==========================
+      "e": "0",
+      "f": "https://",
+// // =========================================================
+// 3. SETTING ADS UTAMA (ADMOB)========================================
+      // TEST
+      "g": "",
+      // "g": "ADMOB",
+      "h": "ca-app-pub-3940256099942544/6300978111x",
+      "i": "ca-app-pub-3940256099942544/1033173712x",
+      "j": "ca-app-pub-3940256099942544/2247696110x",
+      "k": "ca-app-pub-3940256099942544/3419835294x",
+      
+      // ORIGINAL
+      // "g": "ADMOB",
+      // "h": "ca-app-pub-1860724696154235/2039590653",
+      // "i": "ca-app-pub-1860724696154235/9351884713",
+      // "j": "ca-app-pub-1860724696154235/5412639700",
+      // "k": "ca-app-pub-1860724696154235/9104472705",
+// // =========================================================
+// 4. SETTING ADS BACKUP (APPLOVIN) ====================================
+      // TEST
+      "l": "",
+      "m": "XXXXX",
+      "n": "XXXXX",
+      "o": "XXXXX",
+      
+      // ORIGINAL
+      // "l": "APPLOVIN-M",
+      // "m": "5e96dae233d9563a",
+      // "n": "3a0c19c76f9eafa4",
+      // "o": "9da7f76d7c8498e0",
+// // =========================================================
+// 5. SETTING NATIVE ==========================================
+      "p": 3,
+      "q": 4,
+      "r": "2",
+      "s": "#05eccc68",
+      "t": "1",
+// // =========================================================
+// 6. SETTING INTER ===========================================
+      "u": "0",
+// // =========================================================
+// 7. SETTING BACKUP SDK ADS ==================================
+      "w": "",
+      "v": "",
+// // =========================================================
+// 8. SETTING HPK =============================================
+      "aa": "automotive",
+      "ab": "automotive",
+      "ac": "automotive",
+      "ad": "automotive",
+      "ae": "automotive",
+// // =========================================================
+// SETTING ANTI SS RECORD =====================================
+      "af": "0",
+// // =========================================================
+// TEXT SHARE APP =============================================
+      "ag": "👋🏻 Hey !!! Download and share this Sejarah Khilafah App on PlayStore 🫰🫰🫰 📲 ",
+// // =========================================================
+// REFRESH_CONNECTIONS ========================================
+      "ah": "30"
+// // =========================================================
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Digital Pustaka",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi393gPm_R6oFR8a_GPA6nctsrkB3DAM0McSTfJkZF9HU4JmUWYvdYni9OjPTnxDarvEDCBU8nrCVCjHN4qPtUbTLicw2x4M1moc4W_RN8LmGZfNPceGKMLp366eQpnGJkX2NHNhAXYiLhCi7uGQD6c1NGCbArr65S_Xm4zw-KCePZkBB0jWNHGUrtzPOW/s320/logo%20SAINS%20Transparant.webp",
+      // "link": "https://tinyurl.com/yzkwrdtb"
+      "link": "https://"
+    },
+    {
+      "id": 2,
+      "title": "Neon Pen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiem641_abC46gsSZjimZBIJEsU7PTE5cW8jFT_hwZoBJ8MklqZHFenlFek_G1tKs81ooERtemqCxkVah5sNRO_CGMmOMFhiZiwq3xoBm8juEKlw7S_vzKIK6FYk_g1SMheCufI1POrygacI_th1gOiu6eJsNtSDsJrrBbqK_nUbWLHPP_i2ayVsT3Z78cp/s320/cv.webp",
+      // "link": "https://tinyurl.com/56r4ywv6"
+      "link": "https://"
+    },
+    {
+      "id": 3,
+      "title": "Muntakhab Ahadith",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibgkJtXzixsh7V71LM73_zv4i59-0D8ugMrFguKYQqQk7NYntueYhJPN5XGmN8u38k79ZwjVES6NQ746Qb0rA-j1tcX2B_ggT_kCSSwskJs-u7mv81-aNiasEQLLqp4_x063WAX9LCxL5McHYmj3qNn3b3jkmyANMeiOL6fKckG7JM6Ie79KJyF1xSD0e0/s320/img.webp",
+      // "link": "https://tinyurl.com/4r2wvw74"
+      "link": "https://"
+    },
+    {
+      "id": 4,
+      "title": "Sejarah Khilafah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      // "link": "https://tinyurl.com/4r2wvw74"
+      "link": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Sejarah Khilafah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s16000/cv.webp"
+    }
+  ],
+  
+  "Data": [ 
+    {
+      "id": 1,
+      "name_category": "Sejarah Khilafah",
+      "title": "Cover",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Sejarah Khilafah",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/1%20cover"
+    }, 
+    {
+      "id": 2,
+      "name_category": "Sejarah Khilafah",
+      "title": "Daftar Isi",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Muntakhab Ahadith",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/2%20daftar%20isi"
+    }, 
+    {
+      "id": 3,
+      "name_category": "Sejarah Khilafah",
+      "title": "Bagian I : Khilafah Abu Bakar",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Saqifah, Khilafah Setelah Nabi S.A.W., Masalah Kemurtadan, Utusan-utusan Abu Bakar, Penaklukan Damaskus, Penaklukan Irak.",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/3%20bab1"
+    },
+    {
+      "id": 4,
+      "name_category": "Sejarah Khilafah",
+      "title": "Bagian II : Khilafah Umar Bin Khatab",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Tentang Khalifah Kedua, Karakter Khalifah, Para Pejabat (Fungsionaris) Umar, Pemikiran-pemikiran Khalifah Kedua, Pembunuhan Terhadap Umar, Penaklukan Beruntun di Damaskus & MEsir, Penaklukan Beruntun di Irak & Iran, Tentang Penaklukan Iran.",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/4%20bab2"
+    },
+    {
+      "id": 5,
+      "name_category": "Sejarah Khilafah",
+      "title": "Bagian III : Khilafah Usman Bin Affan",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Dewan Khilafah & Pemilihan Usman, Khilafah Usman, Alasan2 Pemberontakan Anti Usman, Lawan2 Usman, Kontak Usman dengan Para Penentang, Usman & Muawiyah, Imam Ali As & Usman, Pembunuhan Usman, Kemenangan2 yg Terus Menerus, Dampak2 Kemenangan & Komunitas Islam.",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/5%20bab3"
+    },
+    {
+      "id": 6,
+      "name_category": "Sejarah Khilafah",
+      "title": "Catatan Akhir Bagian I",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Sejarah Khilafah",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/6%20catatan%20akhir%201"
+    },
+    {
+      "id": 7,
+      "name_category": "Sejarah Khilafah",
+      "title": "Catatan Akhir Bagian II",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Sejarah Khilafah",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/7%20catatan%20akhir%202"
+    },
+    {
+      "id": 8,
+      "name_category": "Sejarah Khilafah",
+      "title": "Catatan Akhir Bagian III",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "description": "Sejarah Khilafah",
+      "link": "https://archive.org/download/15062023gaspoLLL/SKfah31072023/8%20catatan%20akhir%203"
+    }
+  ]
+}
