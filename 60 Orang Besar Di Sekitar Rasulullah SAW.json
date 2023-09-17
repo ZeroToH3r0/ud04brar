@@ -1,0 +1,900 @@
+{
+  "https://*********************************": [  
+      
+    // SAMPLE ===============================================
+// 1.SETTING APP =============================================
+// Settings.JUDUL_APP = c.getString("a");
+// Settings.ICON_APP = c.getString("b");
+// Settings.PRIVACY_POLICY = c.getString("c");
+// Settings.LINK_SHARE_APP = c.getString("d");
+// // =========================================================
+// 2. SETTING UPDATE MAINTENANCE APP ==========================
+// Settings.STATUS_APP = c.getString("e");
+// Settings.LINK_REDIRECT = c.getString("f");
+// // =========================================================
+// 3. SETTING ADS ADMOB========================================
+// Settings.SELECT_ADS = c.getString("g");
+// Settings.MAIN_ADS_BANNER = c.getString("h");
+// Settings.MAIN_ADS_INTER = c.getString("i");
+// Settings.ADMOB_NATIVE = c.getString("j");
+// Settings.ADMOB_OPENADS = c.getString("k");
+
+      // "g": "ADMOB",
+      // "h": "ca-app-pub-3940256099942544/6300978111",
+      // "i": "ca-app-pub-3940256099942544/1033173712",
+      // "j": "ca-app-pub-3940256099942544/2247696110",
+      // "k": "ca-app-pub-3940256099942544/3419835294",
+// // =========================================================
+// 4. SETTING ADS APPLOVIN ====================================
+// Settings.SELECT_BACKUP_ADS = c.getString("l");
+// Settings.BACKUP_ADS_BANNER = c.getString("m");
+// Settings.BACKUP_ADS_INTER = c.getString("n");
+// Settings.BACKUP_ADS_NATIVE = c.getString("o");
+
+      // "l": "APPLOVIN-M",
+      // "m": "XXXXX",
+      // "n": "XXXXX",
+      // "o": "XXXXX",
+// // =========================================================
+// 5. SETTING NATIVE ==========================================
+// Settings.START_POSITION_NATIVE_ADS = c.getInt("p"); // first show ads on list item/guide
+// Settings.INTERVAL_NATIVE_ADS = c.getInt("q"); //interval for show native ads on list item/guide
+// Settings.SIZE_NATIVE = c.getString("r"); // 1 = small, 2 = Medium
+// Settings.NATIVE_ADS_COLOR = c.getString("s"); // use hexadecimal for change colors "#05eccc68"
+// Settings.STROKE_LINE_NATIVE_ADS = c.getString("t"); // 1 = stroke, 0 = non stroke
+// // =========================================================
+// 6. SETTING INTER ===========================================
+// Settings.INTERVAL = c.getInt("u");
+// // =========================================================
+// 7. SETTING BACKUP SDK ADS ==================================
+// Settings.INITIALIZE_SDK = c.getString("v");
+// Settings.INITIALIZE_SDK_BACKUP_ADS = c.getString("w");
+// // =========================================================
+// 8. SETTING HPK =============================================
+// Settings.HIGH_PAYING_KEYWORD1 = c.getString("aa");
+// Settings.HIGH_PAYING_KEYWORD2 = c.getString("ab");
+// Settings.HIGH_PAYING_KEYWORD3 = c.getString("ac");
+// Settings.HIGH_PAYING_KEYWORD4 = c.getString("ad");
+// Settings.HIGH_PAYING_KEYWORD5 = c.getString("ae");
+// // =========================================================
+// SETTING ANTI SS RECORD =====================================
+// Settings.ON_OFF_SAINS = c.getString("af");
+// // =========================================================
+// TEXT SHARE APP =============================================
+// Settings.TEXT_SHARE_APP = c.getString("ag");
+// // =========================================================
+// REFRESH_CONNECTIONS ========================================
+// Settings.REFRESH_TIME_CONNECTIONS = c.getString("ag");
+// // =========================================================
+    // SAMPLE =================================================
+  
+    {
+// 1. SETTING APP =============================================
+      "a": "60 Orang Besar \nDi Sekitar Rasulullah ﷺ", 
+      "b": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh9dLT0dHnzLF7m1nv-CuqFPMno5kpI4DVGA3hhPAbDhu4_hLR36GNKhJdY-dDBSRPXynSpua0r2ApLL56BNimS_dZTTp0MaI_tGFOELfJmGw26EA8fXi5AMe-9TRYKYI3FHj2SRIqz_HVCLtiF7vygkTGmghp7c-P8o-m8h9HftjWoasEXul3oIDZBLVM/s320/splash.webp",
+      "c": "https://team-sains.blogspot.com/privacypolicy",
+      "dd": "https://play.google.com/store/apps/details?id=com.sains.app11082023016.OrangBesarDiSekitarRasulullahSAW", 
+      "d": "📲  tinyurl.com/y6tu8sx8 \n\n\n وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ", 
+// // =========================================================
+// 2. SETTING UPDATE MAINTENANCE APP ==========================
+      "e": "0",
+      "f": "https://",
+// // =========================================================
+// 3. SETTING ADS UTAMA (ADMOB)========================================
+      // TEST
+      // "g": "",
+      // "g": "ADMOB",
+      // "h": "ca-app-pub-3940256099942544/6300978111x",
+      // "i": "ca-app-pub-3940256099942544/1033173712x",
+      // "j": "ca-app-pub-3940256099942544/2247696110x",
+      // "k": "ca-app-pub-3940256099942544/3419835294x",
+      
+      // ORIGINAL APP 8
+      "g": "ADMOB",
+      "h": "ca-app-pub-1860724696154235/9464114090",
+      "i": "ca-app-pub-1860724696154235/6559066384",
+      "j": "ca-app-pub-1860724696154235/5245984717",
+      "k": "ca-app-pub-1860724696154235/1525914322",
+// // =========================================================
+// 4. SETTING ADS BACKUP (APPLOVIN) ====================================
+      // TEST
+      // "l": "",
+      // "m": "XXXXX",
+      // "n": "XXXXX",
+      // "o": "XXXXX",
+      
+      // ORIGINAL 
+      "l": "APPLOVIN-M",
+      "m": "6956809c3f3d9f81",
+      "n": "36def0f205006be4",
+      "o": "9bde29e80f5f5686",
+// // =========================================================
+// 5. SETTING NATIVE ==========================================
+      "p": 3,
+      "q": 10,
+      "r": "1",
+      "s": "#05eccc68",
+      "t": "1",
+// // =========================================================
+// 6. SETTING INTER ===========================================
+      "u": "3",
+// // =========================================================
+// 7. SETTING BACKUP SDK ADS ==================================
+      "w": "",
+      "v": "",
+// // =========================================================
+// 8. SETTING HPK =============================================
+      "aa": "automotive",
+      "ab": "automotive",
+      "ac": "automotive",
+      "ad": "automotive",
+      "ae": "automotive",
+// // =========================================================
+// SETTING ANTI SS RECORD =====================================
+      "af": "1",
+// // =========================================================
+// TEXT SHARE APP =============================================
+      
+      "ag": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَا تُهُ   \n \n   \n👋🏻 Hey !!! Brothers 😊 I'm Recommend The Following Android App 🫰🏼🫰🏼🫰🏼 : \n\n☑️ Title : \r\n60 Orang Besar Di Sekitar Rasulullah ﷺ  \n\n☑️ Developer : SAINS \n\n☑️ Synopsis : \n\nSaat menyelami peri hidup sahabat Rasul, kita akan menemukan butir-butir pelajaran penting yang dapat dijadikan acuan dalam menjalani hidup. Bagaimana kisah awal keislamannya, perilaku yang ditampilkan, kesabaran menghadapi cobaan, loyalitas terhadap Rasul dan Tuhannya, hingga kerelaannya mengorbankan harta, bahkan nyawa demi dakwah Islam. Tak banyak orang yang mau mengarifi kehebatan mereka, walau begitu banyak buku yang mengulas tentangnya. \n\nBuku ini, bukan saja memaparkan cerita para sahabat Nabi yang mulia, tetapi juga mengajak kita bernostalgia dengan manusia-manusia pemberani dan inspiratif agar dijadikan teladan dalam hidup. Berkat kegigihan perjuangan mereka inilah, ajaran Islam bukan saja menyebar di Jazirah Arab, tetapi hingga ke belahan dunia lain. \n\nInilah buku yang akan membawa Anda pada oasis kehidupan heroik yang dapat membuat siapa pun kian percaya bahwa keteladanan seseorang dapat berpengaruh positif terhadap perilaku manusia lain yang menyaksikannya. Dibandingkan dengan buku-buku sejenis, buku karya cendekiawan-sosiolog Mesir ini sangat cocok dimiliki di tengah krisis keteladanan yang menimpat umat Islam. \n\nSelamat membaca 😊 \n\n☑️ Appearance : 🏞 shorturl.at/bnpuL \n\n☑️ Do Not Forget : \n     ⭐️ Download \n     ⭐️ Read\n     ⭐ Rate \n     ⭐️ Comment, and \n     ⭐️ Share \n\n☑️ Link PlayStore : ",
+// // =========================================================
+// REFRESH_CONNECTIONS ========================================
+      "ah": "30"
+// // =========================================================
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "Digital Pustaka",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi393gPm_R6oFR8a_GPA6nctsrkB3DAM0McSTfJkZF9HU4JmUWYvdYni9OjPTnxDarvEDCBU8nrCVCjHN4qPtUbTLicw2x4M1moc4W_RN8LmGZfNPceGKMLp366eQpnGJkX2NHNhAXYiLhCi7uGQD6c1NGCbArr65S_Xm4zw-KCePZkBB0jWNHGUrtzPOW/s320/logo%20SAINS%20Transparant.webp",
+      "link": "https://tinyurl.com/yzkwrdtb"
+      // "link": "https://"
+    },
+    {
+      "id": 2,
+      "title": "Neon Pen",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiem641_abC46gsSZjimZBIJEsU7PTE5cW8jFT_hwZoBJ8MklqZHFenlFek_G1tKs81ooERtemqCxkVah5sNRO_CGMmOMFhiZiwq3xoBm8juEKlw7S_vzKIK6FYk_g1SMheCufI1POrygacI_th1gOiu6eJsNtSDsJrrBbqK_nUbWLHPP_i2ayVsT3Z78cp/s320/cv.webp",
+      "link": "https://tinyurl.com/56r4ywv6"
+      // "link": "https://"
+    },
+    {
+      "id": 3,
+      "title": "Muntakhab Ahadith",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibgkJtXzixsh7V71LM73_zv4i59-0D8ugMrFguKYQqQk7NYntueYhJPN5XGmN8u38k79ZwjVES6NQ746Qb0rA-j1tcX2B_ggT_kCSSwskJs-u7mv81-aNiasEQLLqp4_x063WAX9LCxL5McHYmj3qNn3b3jkmyANMeiOL6fKckG7JM6Ie79KJyF1xSD0e0/s320/img.webp",
+      "link": "https://tinyurl.com/4r2wvw74"
+      // "link": "https://"
+    },
+    {
+      "id": 4,
+      "title": "Sejarah Khilafah",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbabz1-3eaitg1ym44XS_4uRjwbRLH69DvgpTpkh9fTP-edBS9QDE3KMgCmtXsTqdMCopPg9vR71FLwgF6jknwxITQ4xBOH-jx9z3bdAW-wIPngAMuUrSIF3wxXbq8Qa42UK3ASN74iItGub0U3wTN36sBOw2DMbwEtVIXUEgFJMIbirBWK05WMcodwRX/s320/cv.webp",
+      "link": "https://tinyurl.com/869dvdss"
+      // "link": "https://"
+    },
+    {
+      "id": 5,
+      "title": "Syarah Syamail Nabi Muhammad",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4cnxwqDljLPZ4GkGcldVog6JM11Q94BsY6qqFQmSe8CBDqEXI3BO9bZETI9Qf5yUHxQ_SMJc1Lbs0ZDfXcxlq-KUDteuygTjzzQm2NpK9z6LjRyolZ5TCzP0CQ24O1W_1PIvpltkQdLecJRLZnF6cMu0EVlOMDPsPZezyfWuyk0uFABuZvwRCNYqvg9EZ/s320/cv.webp",
+      "link": "https://tinyurl.com/23wtvcct"
+      // "link": "https://"
+    },
+    {
+      "id": 6,
+      "title": "Tanda Tanda Kiamat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieQLIe3LOZG449LpVB4FqJILrXfNPT-pmcp8qw9fe2aYT6Yw1husht07TtMXrTD5PAY5LnChxBrBmEMBXFK9KjKsvx8Ftklz6TgME7Cmny6t1NgHr-CbeSGX39GskYm1Ash1Yunt7isH20lyfMsM9V71wOG5cd1hGJhj-E1Fv370UsURs7QkUrX9omU4ES/s320/cv.webp",
+      "link": "https://tinyurl.com/ytcj8495"
+      // "link": "https://"
+    },
+    {
+      "id": 7,
+      "title": "Janji Janji Kemenangan Dalam Al Qur'an",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ueVQQld9tmRlp_A74PNMvvFtNXEmzCFs8_NXb7YrZgLk6f9_tYy1kiCJAKdkNuGktOV8RL3ohZKI96Kr_yfGfNX0VUzdkB4_4JuTYc-qSZIoEXD8lVSJ8OCnb64cgYAWKaDncRhzbIXFgNr1cW9NmjmfptE2wko1WCcRkzik-YAo9hJ3PKHurSdjYFnJ/s16000/main.webp",
+      "link": "https://tinyurl.com/yck62n5h"
+      // "link": "https://"
+    },
+    {
+      "id": 8,
+      "title": "Riyadhush Shalihin",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj68CaKspBiER5BilFIpCWTaTr6Zq8wbMtklaIfZguGwyz80LuFVsvgxSZRWMhn1YpbOGMxPUFYE5HGs87DH2UrBM9610w5AEDOSw75fUHs--_nWU9urgIxa-UTaL0gKREasrleqNe5MbvzQDb9jR2BKcFfXwWC8HFVRNZjs8sLLpyzAUyNnFVjlvd6JRSF/s320/app.webp",
+      "link": "https://tinyurl.com/2vrhjade"
+      // "link": "https://"
+    },
+    {
+      "id": 9,
+      "title": "Fadhilah Amal",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBHqwswH03AtCprCFgUUb8GP0-aVi238vgWsbPXpBgUg6n7YyneA7EEQWsyJPQfOKaa7cnhfrJE41_yi-bEzUjUmYLjNaF9n_eLaM76hkfUBZn6uf5zL_eLvjJiNdhSB7kiLsBfrYxW-ICxOb2F6eSFSoIxxjDtwS63kKQt7E5WaGOMjMw0YqtOK80cqG-/s320/app.webp",
+      "link": "https://tinyurl.com/3dw6dsac"
+      // "link": "https://"
+    },
+    {
+      "id": 10,
+      "title": "Tuntunan Shalat Lengkap",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeoEVZG7IV3a62YljcVsOfazzT8ERku_P1b1FYR_xebobAvCFYuWEHLmZf810G9fUfO-ZmwwrC9xZNZ-7L1a7suP_RMjtTFqJUrEGsPgd_cX2fscRMrlCIFK0AmhGnmOiJLqFYNm1-LCo1NLV_PobUv63mKUh3ybU-k3VYTrj0upemJB1P0v1FAhqJdCcH/s320/app.webp",
+      "link": "https://tinyurl.com/57e9ubte"
+      // "link": "https://"
+    },
+    {
+      "id": 11,
+      "title": "Terjemah Kitab Al Adzkar",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvplsAkVm3cA5iTTMwaqHFtZdTEgNnysEFJp-QfXSMF3AQfLk16-M2XPcbcMxrNucWTOb-ouv3gYcL0yFTvXkKIpDNiwqS0wxSoH0nJ87OCgXlXvOXPIqT_yL_aZpq71qKartgn4RB0XRPriFZaqNEZDG0QY4UDAETCTIjo-omHYbFNbSl7vwDGEL3jKp/s320/app.webp",
+      "link": "https://tinyurl.com/ykvyznee"
+      // "link": "https://"
+    },
+    {
+      "id": 12,
+      "title": "Dzulqarnain Sang Penakluk Timur & Barat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAiQDUL_cNuys5uKJNxuqN7JGLPIXDQZKARYby1_iiMzE1e3IX8qrJ8IYFBOfozPMdrBjAZS2HhrHwQKhnXyQE7vAknzQPEI9EYFZ0O3eObxSmENdZkYobxrE8FMfrNXidPJblUxaZL542dFldhdjZdUmqtRzvqLtaHezWYJGznm3fCuQC6_EPTQ6okzK8/s320/app.webp",
+      "link": "https://tinyurl.com/5xh9vkwc"
+      // "link": "https://"
+    },
+    {
+      "id": 13,
+      "title": "Terjemah Kitab Qashash Al Anbiya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdbHp9t8yY2ujJgwrmujPQD23NgQkhZc0lgLKMNylShSzhoQKknA7GwAX2Cd2w4-N2Jad5lZmQKR-C6xN23T24oUREv9HcpLAGatw9gH4L6wgtOz2RnK-5fPgvNCJf0B2_sEjJC9HPyMjXLbGMskTz0Ra2jFZ6_oh9KcB_MZ1OYhhebtU-JmYYr9CE9dqy/s320/app.webp",
+      "link": "https://tinyurl.com/bdhmnuhh"
+      // "link": "https://"
+    },
+    {
+      "id": 14,
+      "title": "Panduan Lengkap Ilmu Tajwid",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhPoWS8OKUDS-FMUmtv65NBlPMlnDuVgNS9HZvDH5tKgzMs8_pw0vCUtudBXE_DxoEDgqU7w2JLOZ0EiTE3uGytecByvZRtERKIvNsPVH0EK0l4rG7L2veW71soO7O43Q_--Qh9juAYgmj6aECI4Hwik3bP8yc3PyH3YKAJJxvegzLKDShNapae-5c1zw/s320/app.webp",
+      "link": "https://tinyurl.com/3s3stm25"
+      // "link": "https://"
+    },
+    {
+      "id": 15,
+      "title": "Syamail Muhammad ﷺ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv8CBEJshUVkm7YIns2Sd07y1bPbwlcWwiOCBS9YHDyLiKHRwNLBfppUqXI9BswecIWF1ds3ci8_uPc2s2gLiIdGEdPOvrAV1eouQdPdK0Ap7X2O7aRZWIOE4z0yycza7aUFb5ukyL5ySZEbvSzQOvWkOGyKeEJul5HdW5e2aCHf75OSUH2uFburcAtXjY/s320/app.webp",
+      "link": "https://tinyurl.com/yvwnc9ea"
+      // "link": "https://"
+    },
+    {
+      "id": 16,
+      "title": "Ilmuan Muslim yang Dikagumi Dunia",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJmMNC-AcWSEtXApEtkCSUpPkN0lkDeGrb7IOu5ItoAkjXkiYvU6jIWhpD6UAHlnMy_kDTwyq30NwdHccHDInqmbWMM-aEUd0t350U7GPbKeVl5qgpb_iw2-KdJWIqmXXxnUeoSzmTdo8qMSm5QvL4tgHcdY2uXaLH6YY5QSAsh4paSQ31BTxS5QdCGDlf/s320/p.webp",
+      "link": "https://tinyurl.com/2f8x6n4c"
+      // "link": "https://"
+    },
+    {
+      "id": 17,
+      "title": "Qiroati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhahSFEb5aq0meA5eJg2uwTuEogCtYWhFLlwDV3Eq47nHJNgt_x0UYjzvfZxSY5fgbVlt0L1_KO7J3rj0YdYLU9JlQYZAVieKCvnUUuvuXT6U2LSmX_fWZ9Cu1ZAZK36muSHyVRP-8Xch_OxDMwvQwNphG5lVvdNVbJeSvOyaLTY9Ub4N1CXeEjybfG5tAv/s320/app.webp",
+      "link": "https://tinyurl.com/3vhkawdy"
+      // "link": "https://"
+    },
+    {
+      "id": 18,
+      "title": "101 Kisah Orang-Orang Yang Dikabulkan Doanya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7eNmEsRrmPcqTKXYHUCjMIJtlcGYTv0pyY889MqdTFMIE2NmlyfbJ-EhCXW6CF0UuYaYN2MMqpIapLJxpByLibkGEEOFLRo4qxcTD5o-nckQztyy9A4UD44GZFqjskjFsPBCq04hnxKiVzgB_eUTxmennrP6-Y67Ej47yaqCdhcBVg9uoPJcOy9BnGTLO/s320/app.webp",
+      "link": "https://tinyurl.com/2p8jdbhb"
+      // "link": "https://"
+    },
+    {
+      "id": 19,
+      "title": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "link": "https://tinyurl.com/y6tu8sx8"
+      // "link": "https://"
+    },
+    {
+      "id": 20,
+      "title": "Lagu Islami Penyejuk Hati",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglNXSAHViD6B5Qc4t_d3l2bXKrUuwTzzBhlWuPG7oXzTO5hVTGcdRBHKDlsbscse0yBPUXmFSN43HKkJh65OBWoC-F3Qroo1lL3TavQ2v8y82UbRrnBMCjIWqSghnsluOEKXpplEm0xqon_PY_UfxxVXnYl7fU-oafOE-I7-46bZiEAAcu0MMYp9_j4ION/s320/logo.webp",
+      "link": "https://tinyurl.com/2msb9tu3"
+      // "link": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s16000/app.webp"
+    }
+  ],
+  
+  "Data": [ 
+    {
+      "id": 1,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "COVER",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/1"
+    }, 
+    {
+      "id": 2,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "DAFTAR ISI",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/2"
+    }, 
+    {
+      "id": 3,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "PENGANTAR PENULIS",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/3"
+    }, 
+    {
+      "id": 4,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "MUKADIMAH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/4"
+    }, 
+    {
+      "id": 5,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "1. MUSH'AB IBN 'UMAIR R.A. \nDUTA ISLAM YANG PERTAMA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB1"
+    }, 
+    {
+      "id": 6,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "2. SALMAN AL-FARISI R.A. \nSANG PETUALANG KEBENARAN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB2"
+    }, 
+    {
+      "id": 7,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "3. ABU DZAR AL-GHIFARI R.A. \nPEMIMPIN KAUM OPOSAN DAN \nMUSUH KEKAYAAN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB3"
+    }, 
+    {
+      "id": 8,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "4. BILAL IBN RABAH R.A. \nTAK GENTAR DENGAN PRAHARA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB4"
+    }, 
+    {
+      "id": 9,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "5. 'ABDULLAH IBN 'UMAR R.A. \nTEKUN BERIBADAH DAN \nMENDEKATKAN DIRI KEPADA ALLAH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB5"
+    }, 
+    {
+      "id": 10,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "6. SA'AD IBN ABI WAQQASH R.A. \nSINGA YANG MENYEMBUNYIKAN \nCAKARNYA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB6"
+    }, 
+    {
+      "id": 11,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "7. SUHAIB IBN SINAN R.A. \nNIAGA YANG MENGUNTUNGKAN, \nWAHAI ABU YAHYA!",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB7"
+    }, 
+    {
+      "id": 12,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "8. MU'ADZ IBN JABAL R.A. \nYANG PALING TAHU \nHALAL DAN HARAM",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB8"
+    }, 
+    {
+      "id": 13,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "9. MIQDAD IBN 'AMR R.A. \nPASUKAN KUDA PERTAMA \nDALAM ISLAM",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB9"
+    }, 
+    {
+      "id": 14,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "10. SA'ID IBN AMIR R.A. \nKEAGUNGAN DIBALIK KESAHAJAAN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB10"
+    }, 
+    {
+      "id": 15,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "11. HAMZAH IBN 'ABDUL MUTHTHALIB R.A. \nSINGA ALLAH DAN RASULNYA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB11"
+    }, 
+    {
+      "id": 16,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "12. ABDULLAH IBN MAS'UD R.A. \nYANG PERTAMA KALI \nMENDENGUNGKAN AL-QUR'AN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB12"
+    }, 
+    {
+      "id": 17,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "13. HUDZAIFAH IBN YAMAN R.A. \nMUSUH KEMUNAFIKAN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB13"
+    }, 
+    {
+      "id": 18,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "14. 'AMMAR IBN YASIR R.A. \nLELAKI DARI SURGA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB14"
+    }, 
+    {
+      "id": 19,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "15. 'UBADAH IBN AL-SHAMIT R.A. \nPEMIMPIN TENTARA ALLAH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB15"
+    }, 
+    {
+      "id": 20,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "16. KHABBAB IBN AL-ARATT R.A. \nGURU BESAR PENGORBANAN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB16"
+    }, 
+    {
+      "id": 21,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "17. ABU UBAIDAH IBN AL-JARRAH R.A. \nMANUSIA KEPERCAYAAN UMAT",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB17"
+    }, 
+    {
+      "id": 22,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "18. 'UTSMAN IBN MAZH'UN R.A. \nARENA KEHIDUPAN ADALAH \nPERTAPAANNYA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB18"
+    }, 
+    {
+      "id": 23,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "19. ZAID IBN HARITSAH R.A. \nYANG PALING DICINTAI NABI ﷺ",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB19"
+    }, 
+    {
+      "id": 24,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "20. JA'FAR IBN ABI THALIB R.A. \nYANG PALING MIRIP PERAWAKAN \nDAN WATAKNYA DENGANKU",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB20"
+    }, 
+    {
+      "id": 25,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "21. 'ABDULLAH IBN RAWAHAH R.A. \nJIKA KAU TIDAK TERBUNUH, \nKAU TETAP AKAN MATI!",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB21"
+    }, 
+    {
+      "id": 26,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "22. KHALID IBN WALID R.A. \nSINGA YANG TAK TIDUR DAN \nTAK MEMBUAT YANG LAIN TERTIDUR",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB22"
+    }, 
+    {
+      "id": 27,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "23. QAIS IBN SA'AD IBN 'UBADAH R.A. \nJIKA TAK ADA ISLAM, \nIA AHLI MUSLIHAT LIHAI",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB23"
+    }, 
+    {
+      "id": 28,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "24.'UMAIR IBN WAHAB AL-JAHMI R.A. \nSETAN JAHILIAH, HAWARI ISLAM",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB24"
+    }, 
+    {
+      "id": 29,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "25. ABU AL-DARDA R.A. \nMANUSIA BIJAK \nSEPERTI APAKAH IA ... ?",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB25"
+    }, 
+    {
+      "id": 30,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "26. ZAID IBN AL-KHATHTHAB R.A. \nPAHLAWAN PERANG YAMAMAH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB26"
+    }, 
+    {
+      "id": 31,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "27. THALHAH IBN UBAIDILLAH R.A. \nELANG PERANG UHUD",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB27"
+    }, 
+    {
+      "id": 32,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "28. ZUBAIR IBN 'AWWAM R.A. \nPEMBELA RASULULLAH ﷺ",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB28"
+    }, 
+    {
+      "id": 33,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "29. KHUBAIB IBN 'ADI R.A. \nSYAHID DIATAS SALIB",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB29"
+    }, 
+    {
+      "id": 34,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "30. 'UMAIR IBN SA'AD R.A. \nMANUSIA TIADA DUANYA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB30"
+    }, 
+    {
+      "id": 35,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "31. ZAID IBN TSABIT R.A. \nPENGUMPUL AL-QUR'AN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB31"
+    }, 
+    {
+      "id": 36,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "32. KHALID IBN SA'ID R.A. \nGURU PENGORBANAN \nGENERASI PERTAMA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB32"
+    }, 
+    {
+      "id": 37,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "33. ABU AYYUB AL-ANSHARI R.A. \nBERJUANG DALAM KEADAAN \nLAPANG DAN SEMPIT",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB33"
+    }, 
+    {
+      "id": 38,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "34. 'ABBAS IBN 'ABDUL MUTHTHALIB R.A. \nPENYEDIA AIR DUA TANAH HARAM",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB34"
+    }, 
+    {
+      "id": 39,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "35. ABU HURAIRAH R.A. \nENSIKLOPEDIA HADIST \nPADA ERA WAHYU",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB35"
+    }, 
+    {
+      "id": 40,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "36. BARRA IBN MALIK R.A. \nALLAH DAN SURGA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB36"
+    }, 
+    {
+      "id": 41,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "37. 'UTBAH IBN GHAZWAN R.A. \nESOK KALIAN MENDAPATKAN \nPEMIMPIN BARU",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB37"
+    }, 
+    {
+      "id": 42,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "38. TSABIT IBN QAIS R.A. \nORATOR RASULULLAH ﷺ",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB38"
+    }, 
+    {
+      "id": 43,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "39. USAID IBN AL-HUDHAIR R.A. \nPAHLAWAN TSAQIFAH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB39"
+    }, 
+    {
+      "id": 44,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "40. 'ABDURRAHMAN IBN 'AUF R.A. \nAPA YANG MEMBUATMU MENANGIS, \nDUHAI ABU MUHAMMAD ?",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB40"
+    }, 
+    {
+      "id": 45,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "41. ABU JABIR 'ABDULLAH IBN \n'AMR IBN HARAM R.A. \nYANG DINAUNGI MALAIKAT",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB41"
+    }, 
+    {
+      "id": 46,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "42. 'AMR IBN JAMUH R.A. \nSIPINCANG YANG INGIN \nBERJINGKAT DI SURGA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB42"
+    }, 
+    {
+      "id": 47,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "43. HABIB IBN ZAID R.A. \nLEGENDA CINTA DAN PENGORBANAN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB43"
+    }, 
+    {
+      "id": 48,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "44. UBAY IBN KA'AB R.A. \nSELAMAT ABU MUNZIR \nATAS ILMU YANG KAU CAPAI",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB44"
+    }, 
+    {
+      "id": 49,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "45. SA'AD IBN MU'ADZ R.A. \nSELAMAT WAHAI ABU 'AMR",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB45"
+    }, 
+    {
+      "id": 50,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "46. SA'AD IBN 'UBADAH R.A. \nPEMBAWA BENDERA ANSHAR",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB46"
+    }, 
+    {
+      "id": 51,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "47. USAMAH IBN ZAID R.A. \nYANG TERKASIH, \nPUTRA SANG KEKASIH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB47"
+    }, 
+    {
+      "id": 52,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "48. ABDURRAHMAN IBN ABU BAKAR R.A. \nPAHLAWAN HINGGA AKHIR",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB48"
+    }, 
+    {
+      "id": 53,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "49. 'ABDULLAH IBN 'AMR IBN AL-'ASH R.A. \nYANG TEKUN BERIBADAH DAN \nGEMAR BERTOBAT",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB49"
+    }, 
+    {
+      "id": 54,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "50. ABU SUFYAN IBN HARITS R.A. \nDARI KEGELAPAN MENUJU CAHAYA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB50"
+    }, 
+    {
+      "id": 55,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "51. IMRAN IBN HUSHAIN R.A. \nYANG MENYERUPAI MALAIKAT",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB51"
+    }, 
+    {
+      "id": 56,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "52. SALAMAH IBN AKWA R.A. \nPAHLAWAN INFANTERI TERHEBAT",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB52"
+    }, 
+    {
+      "id": 57,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "53. 'ABDULLAH IBN ZUBAIR R.A. \nLELAKI DAN SYAHID AGUNG",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB53"
+    }, 
+    {
+      "id": 58,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "54. 'ABDULLAH IBN 'ABBAS R.A. \nTINTA UMAT INI",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB54"
+    }, 
+    {
+      "id": 59,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "55. 'ABBAD IBN BISYIR R.A. \nYANG MEMBAWA CAHAYA ALLAH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB55"
+    }, 
+    {
+      "id": 60,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "56. SUHAIL IBN AMR R.A. \nDARI THULAQA MENUJU SYUHADA",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB56"
+    }, 
+    {
+      "id": 61,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "57. ABU MUSA AL-ASY'ARI R.A. \nIKHLAS, APA YANG TERJADI TERJADILAH !",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB57"
+    }, 
+    {
+      "id": 62,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "58. THUFAIL IBN 'AMR AL-DAUSI R.A. \nFITRAH YANG LURUS",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB58"
+    }, 
+    {
+      "id": 63,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "59. AMR IBN AL-ASH R.A. \nPEMBEBAS MESIR DARI ROMAWI",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB59"
+    }, 
+    {
+      "id": 64,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "60. SALIM MAULA ABI HUDZAIFAH R.A. \nSEBAIK-BAIK PEMBAWA AL-QUR'AN",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/BAB60"
+    }, 
+    {
+      "id": 65,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "PENUTUP",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/PENUTUP"
+    }, 
+    {
+      "id": 66,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "REFERENSI SEJARAH",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/REFERENSI"
+    }, 
+    {
+      "id": 67,
+      "name_category": "60 Orang Besar Di Sekitar Rasulullah ﷺ",
+      "title": "INDEKS",
+      "type_file": "HTML",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM_kRBwUNl3kM3DRlp09ztzV6vVYC9zqRts56a7WrSgWzK25OydGvkj-F-WWAUy1aZmRp5Z1UsOp1FiUK7AGW1tgnVYHFLJkoviG9Wr45WnFBcwoBS-y4R6rCkqTpKzv68tIHhd_OgQHz_p64LhK_4kjBCzf4i21ZBO_k37iDWH7THX3ohO5f8EKpezYDd/s320/app.webp",
+      "description": "",
+      "link": "https://archive.org/download/15062023gaspoLLL/1108202360ORANG/INDEKS"
+    }
+  ]
+}
