@@ -111,7 +111,7 @@
 // // =========================================================
 // 5. SETTING NATIVE ==========================================
       "p": 3,
-      "q": 9,
+      "q": 10,
       "r": "1",
       "s": "#05eccc68",
       "t": "1",
@@ -252,8 +252,8 @@
       "id": 16,
       "title": "Ilmuan Muslim yang Dikagumi Dunia",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJmMNC-AcWSEtXApEtkCSUpPkN0lkDeGrb7IOu5ItoAkjXkiYvU6jIWhpD6UAHlnMy_kDTwyq30NwdHccHDInqmbWMM-aEUd0t350U7GPbKeVl5qgpb_iw2-KdJWIqmXXxnUeoSzmTdo8qMSm5QvL4tgHcdY2uXaLH6YY5QSAsh4paSQ31BTxS5QdCGDlf/s320/p.webp",
-      "link": "https://tinyurl.com/2f8x6n4c"
-      // "link": "https://"
+      // "link": "https://tinyurl.com/2f8x6n4c"
+      "link": "https://"
     },
     {
       "id": 17,
